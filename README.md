@@ -11,3 +11,6 @@ https://arxiv.org/pdf/1312.6229.pdf
 Learning Hierarchical Features for Scene Labeling
 http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf
 
+Sequence to Sequence Learning with Neural Networks
+https://arxiv.org/pdf/1409.3215.pdf
+
