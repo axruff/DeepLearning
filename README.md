@@ -21,3 +21,12 @@ https://arxiv.org/pdf/1502.03167.pdf
 
 Anomaly Detection: A Survey
 https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
+
+
+## Transfer
+
+A Survey on Transfer Learning
+https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
+
+
+
