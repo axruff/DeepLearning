@@ -17,4 +17,7 @@ https://arxiv.org/pdf/1409.3215.pdf
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 https://arxiv.org/pdf/1502.03167.pdf
 
+## Applications
 
+Anomaly Detection: A Survey
+https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
