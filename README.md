@@ -30,13 +30,21 @@ https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
 
 ## Reinforcement Learning
 
+Deep Reinforcement Learning
+https://arxiv.org/abs/1810.06339
+
 Playing Atari with Deep Reinforcement Learning
 https://arxiv.org/pdf/1312.5602.pdf
+
+## Training on synthetic data
+Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
+https://arxiv.org/abs/1804.06516
 
 
 ## X-ray Imaging
 Low-dose X-ray tomography through a deep convolutional neural network
 https://www.nature.com/articles/s41598-018-19426-7
+
 *In synchrotron-based XRT, CNN-based processing improves the SNR in the data by an order of magnitude, which enables low-dose fast acquisition of radiation-sensitive samples*
 
 
