@@ -30,6 +30,9 @@ https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
 
 ## Reinforcement Learning
 
+An Introduction to Deep Reinforcement Learning
+https://arxiv.org/abs/1811.12560
+
 Deep Reinforcement Learning
 https://arxiv.org/abs/1810.06339
 
