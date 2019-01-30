@@ -17,16 +17,26 @@ https://arxiv.org/pdf/1409.3215.pdf
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 https://arxiv.org/pdf/1502.03167.pdf
 
+## Misc
+
+Visualizing the Loss Landscape of Neural Nets
+https://arxiv.org/abs/1712.09913
+
 ## Applications
 
 Anomaly Detection: A Survey
 https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
 
-
-## Transfer
+## Domain Adaptation / Transfer / Synthetic data
 
 A Survey on Transfer Learning
 https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
+
+Visual Domain Adaptation Challenge 2018
+http://ai.bu.edu/visda-2017/
+
+Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
+https://arxiv.org/abs/1804.06516
 
 ## Reinforcement Learning
 
@@ -39,13 +49,6 @@ https://arxiv.org/abs/1810.06339
 Playing Atari with Deep Reinforcement Learning
 https://arxiv.org/pdf/1312.5602.pdf
 
-## Domain Adaptation / Transfer / Synthetic data
-
-Visual Domain Adaptation Challenge 2018
-http://ai.bu.edu/visda-2017/
-
-Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
-https://arxiv.org/abs/1804.06516
 
 
 ## X-ray Imaging
