@@ -49,7 +49,8 @@ https://arxiv.org/abs/1810.06339
 Playing Atari with Deep Reinforcement Learning
 https://arxiv.org/pdf/1312.5602.pdf
 
-
+Key Papers in Deep Reinforcment Learning
+https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 
 ## X-ray Imaging
 Low-dose X-ray tomography through a deep convolutional neural network
