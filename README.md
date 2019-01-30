@@ -22,6 +22,9 @@ https://arxiv.org/pdf/1502.03167.pdf
 Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/abs/1712.09913
 
+DARTS: Differentiable Architecture Search
+https://arxiv.org/abs/1806.09055
+
 ## Applications
 
 Anomaly Detection: A Survey
