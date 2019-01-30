@@ -36,7 +36,11 @@ https://arxiv.org/abs/1810.06339
 Playing Atari with Deep Reinforcement Learning
 https://arxiv.org/pdf/1312.5602.pdf
 
-## Training on synthetic data
+## Domain Adaptation / Transfer / Synthetic data
+
+Visual Domain Adaptation Challenge 2018
+http://ai.bu.edu/visda-2017/
+
 Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
 https://arxiv.org/abs/1804.06516
 
