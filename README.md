@@ -17,7 +17,7 @@ https://arxiv.org/pdf/1409.3215.pdf
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 https://arxiv.org/pdf/1502.03167.pdf
 
-## Misc
+## Optimization
 
 Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/abs/1712.09913
@@ -29,6 +29,12 @@ https://arxiv.org/abs/1806.09055
 
 Anomaly Detection: A Survey
 https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
+
+## Software
+
+Caffe: Convolutional Architecture for Fast Feature Embedding
+https://arxiv.org/abs/1408.5093
+
 
 ## Domain Adaptation / Transfer / Synthetic data
 
