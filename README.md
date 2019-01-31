@@ -72,6 +72,9 @@ http://ai.bu.edu/visda-2017/
 Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
 https://arxiv.org/abs/1804.06516
 
+Self-ensembling for visual domain adaptation
+https://arxiv.org/abs/1706.05208
+
 ## Reinforcement Learning
 
 An Introduction to Deep Reinforcement Learning
