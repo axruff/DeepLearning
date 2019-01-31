@@ -95,5 +95,9 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 *In synchrotron-based XRT, CNN-based processing improves the SNR in the data by an order of magnitude, which enables low-dose fast acquisition of radiation-sensitive samples*
 
+## Video / Motion ##
+
+Flow-Guided Feature Aggregation for Video Object Detection
+https://arxiv.org/abs/1703.10025
 
 
