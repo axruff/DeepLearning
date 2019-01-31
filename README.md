@@ -17,7 +17,7 @@ http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf
 Sequence to Sequence Learning with Neural Networks
 https://arxiv.org/pdf/1409.3215.pdf
 
-Deep Residual Learning for Image Recognition
+**[ResNet]** Deep Residual Learning for Image Recognition
 https://arxiv.org/abs/1512.03385
 
 ## Optimization / Regularisation / Visualization
