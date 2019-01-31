@@ -17,6 +17,9 @@ http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf
 Sequence to Sequence Learning with Neural Networks
 https://arxiv.org/pdf/1409.3215.pdf
 
+**[GoogleNet]** Going Deeper with Convolutions
+https://arxiv.org/abs/1409.4842
+
 **[ResNet]** Deep Residual Learning for Image Recognition
 https://arxiv.org/abs/1512.03385
 
