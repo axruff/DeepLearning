@@ -17,13 +17,16 @@ http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf
 Sequence to Sequence Learning with Neural Networks
 https://arxiv.org/pdf/1409.3215.pdf
 
-Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
-https://arxiv.org/pdf/1502.03167.pdf
+Deep Residual Learning for Image Recognition
+https://arxiv.org/abs/1512.03385
 
 ## Optimization / Regularisation / Visualization
 
 Random search for hyper-parameter optimisation
 http://www.jmlr.org/papers/v13/bergstra12a.html
+
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+https://arxiv.org/pdf/1502.03167.pdf
 
 Adam: A Method for Stochastic Optimization
 https://arxiv.org/abs/1412.6980
