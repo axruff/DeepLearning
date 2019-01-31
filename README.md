@@ -23,6 +23,10 @@ https://arxiv.org/abs/1409.4842
 **[ResNet]** Deep Residual Learning for Image Recognition
 https://arxiv.org/abs/1512.03385
 
+**U-net**: Convolutional networks for biomedical image segmentation
+https://arxiv.org/abs/1505.04597
+
+
 ## Optimization / Regularisation / Visualization
 
 Random search for hyper-parameter optimisation
