@@ -25,6 +25,9 @@ https://arxiv.org/pdf/1502.03167.pdf
 Random search for hyper-parameter optimisation
 http://www.jmlr.org/papers/v13/bergstra12a.html
 
+Adam: A Method for Stochastic Optimization
+https://arxiv.org/abs/1412.6980
+
 Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/abs/1712.09913
 
