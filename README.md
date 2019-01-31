@@ -20,12 +20,15 @@ https://arxiv.org/pdf/1409.3215.pdf
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 https://arxiv.org/pdf/1502.03167.pdf
 
-## Optimization
+## Optimization / Regularisation / Visualization
 
 Random search for hyper-parameter optimisation
 http://www.jmlr.org/papers/v13/bergstra12a.html
 
 Adam: A Method for Stochastic Optimization
+https://arxiv.org/abs/1412.6980
+
+Dropout: A Simple Way to Prevent Neural Networks from Overfitting
 https://arxiv.org/abs/1412.6980
 
 Visualizing the Loss Landscape of Neural Nets
