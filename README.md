@@ -22,6 +22,9 @@ https://arxiv.org/pdf/1502.03167.pdf
 
 ## Optimization
 
+Random search for hyper-parameter optimisation
+http://www.jmlr.org/papers/v13/bergstra12a.html
+
 Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/abs/1712.09913
 
