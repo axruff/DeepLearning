@@ -29,6 +29,8 @@ https://arxiv.org/abs/1505.04597
 Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
 https://arxiv.org/abs/1707.02968
 
+An Analysis of Deep Neural Network Models for Practical Applications
+https://arxiv.org/abs/1605.07678
 
 ## Optimization / Regularisation / Visualization
 
@@ -99,5 +101,8 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 Flow-Guided Feature Aggregation for Video Object Detection
 https://arxiv.org/abs/1703.10025
+
+Deep Feature Flow for Video Recognition
+https://arxiv.org/abs/1611.07715
 
 
