@@ -26,6 +26,8 @@ https://arxiv.org/abs/1512.03385
 **[U-net]**: Convolutional networks for biomedical image segmentation
 https://arxiv.org/abs/1505.04597
 
+**[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation
+
 Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
 https://arxiv.org/abs/1707.02968
 
