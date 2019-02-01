@@ -27,6 +27,7 @@ https://arxiv.org/abs/1512.03385
 https://arxiv.org/abs/1505.04597
 
 **[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation
+https://arxiv.org/abs/1606.04797
 
 Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
 https://arxiv.org/abs/1707.02968
