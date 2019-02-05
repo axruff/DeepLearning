@@ -55,6 +55,9 @@ https://arxiv.org/abs/1712.09913
 DARTS: Differentiable Architecture Search
 https://arxiv.org/abs/1806.09055
 
+Visualizing and Understanding Recurrent Networks
+https://arxiv.org/abs/1506.02078
+
 ## Applications
 
 Anomaly Detection: A Survey
