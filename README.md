@@ -35,6 +35,9 @@ https://arxiv.org/abs/1707.02968
 An Analysis of Deep Neural Network Models for Practical Applications
 https://arxiv.org/abs/1605.07678
 
+Image Captioning with Semantic Attention
+https://arxiv.org/abs/1603.03925
+
 ## Optimization / Regularisation / Visualization
 
 Random search for hyper-parameter optimisation
