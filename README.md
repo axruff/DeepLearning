@@ -38,8 +38,7 @@ https://arxiv.org/abs/1605.07678
 Image Captioning with Semantic Attention
 https://arxiv.org/abs/1603.03925
 
-![alt text](https://github.com/axruff/ML_paper/raw/master/images/ImageCaptioningSemanticAttention.png "Image Captioning with Semantic Attention")
-Figure: Experimental setup for phase-contrast X-ray microtomography.
+![alt text](https://github.com/axruff/ML_papers/raw/master/images/ImageCaptioningSemanticAttention.png "Image Captioning with Semantic Attention")
 
 ## Optimization / Regularisation / Visualization
 
