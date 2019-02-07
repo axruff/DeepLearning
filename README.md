@@ -76,8 +76,15 @@ https://arxiv.org/abs/1408.5093
 
 ## Domain Adaptation / Transfer / Synthetic data
 
+# Serveys #
 A Survey on Transfer Learning
 https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
+
+Domain Adaptation for Visual Applications: A Comprehensive Survey
+https://arxiv.org/abs/1702.05374
+
+Deep Visual Domain Adaptation: A Survey
+https://arxiv.org/abs/1802.03601
 
 Visual Domain Adaptation Challenge 2018
 http://ai.bu.edu/visda-2017/
