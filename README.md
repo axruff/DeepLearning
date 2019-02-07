@@ -1,6 +1,6 @@
 # Machine Learning papers
 
-## Neural Networks
+# Neural Networks
 
 Gradient-based learning applied to document recognition
 https://ieeexplore.ieee.org/document/726791
@@ -40,7 +40,7 @@ https://arxiv.org/abs/1603.03925
 
 ![alt text](https://github.com/axruff/ML_papers/raw/master/images/ImageCaptioningSemanticAttention.png "Image Captioning with Semantic Attention")
 
-## Optimization / Regularisation / Visualization
+# Optimization / Regularisation / Visualization
 
 Random search for hyper-parameter optimisation
 http://www.jmlr.org/papers/v13/bergstra12a.html
@@ -63,20 +63,20 @@ https://arxiv.org/abs/1806.09055
 Visualizing and Understanding Recurrent Networks
 https://arxiv.org/abs/1506.02078
 
-## Applications
+# Applications
 
 Anomaly Detection: A Survey
 https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
 
-## Software
+# Software
 
 Caffe: Convolutional Architecture for Fast Feature Embedding
 https://arxiv.org/abs/1408.5093
 
 
-## Domain Adaptation / Transfer / Synthetic data
+# Domain Adaptation / Transfer / Synthetic data
 
-# Serveys #
+## Serveys 
 A Survey on Transfer Learning
 https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
 
@@ -100,7 +100,7 @@ https://arxiv.org/abs/1608.02192
 ![alt text](https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png "Playing for Data: Ground Truth from Computer Games")
 
 
-## Reinforcement Learning
+# Reinforcement Learning
 
 An Introduction to Deep Reinforcement Learning
 https://arxiv.org/abs/1811.12560
@@ -114,13 +114,13 @@ https://arxiv.org/pdf/1312.5602.pdf
 Key Papers in Deep Reinforcment Learning
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 
-## X-ray Imaging
+# X-ray Imaging
 Low-dose X-ray tomography through a deep convolutional neural network
 https://www.nature.com/articles/s41598-018-19426-7
 
 *In synchrotron-based XRT, CNN-based processing improves the SNR in the data by an order of magnitude, which enables low-dose fast acquisition of radiation-sensitive samples*
 
-## Video / Motion ##
+# Video / Motion
 
 Flow-Guided Feature Aggregation for Video Object Detection
 https://arxiv.org/abs/1703.10025
