@@ -88,6 +88,11 @@ https://arxiv.org/abs/1804.06516
 Self-ensembling for visual domain adaptation
 https://arxiv.org/abs/1706.05208
 
+Playing for Data: Ground Truth from Computer Games
+https://arxiv.org/abs/1608.02192
+
+
+
 ## Reinforcement Learning
 
 An Introduction to Deep Reinforcement Learning
