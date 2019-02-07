@@ -76,7 +76,7 @@ https://arxiv.org/abs/1408.5093
 
 # Domain Adaptation / Transfer / Synthetic data
 
-## Serveys 
+## Surveys 
 A Survey on Transfer Learning
 https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
 
