@@ -38,7 +38,9 @@ https://arxiv.org/abs/1605.07678
 Image Captioning with Semantic Attention
 https://arxiv.org/abs/1603.03925
 
-![alt text](https://github.com/axruff/ML_papers/raw/master/images/ImageCaptioningSemanticAttention.png "Image Captioning with Semantic Attention")
+
+<img src="https://github.com/axruff/ML_papers/raw/master/images/ImageCaptioningSemanticAttention.png" width="400">
+
 
 # Optimization / Regularisation / Visualization
 
@@ -101,8 +103,6 @@ https://arxiv.org/abs/1608.02192
 
 Learning from Simulated and Unsupervised Images through Adversarial Training
 https://arxiv.org/abs/1612.07828
-![alt text](https://github.com/axruff/ML_papers/raw/master/images/123.png?s=50  "Playing for Data: Ground Truth from Computer Games")
-
 <img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="400">
 
 # Reinforcement Learning
