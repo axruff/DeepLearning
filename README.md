@@ -101,6 +101,7 @@ https://arxiv.org/abs/1608.02192
 
 Learning from Simulated and Unsupervised Images through Adversarial Training
 https://arxiv.org/abs/1612.07828
+![alt text](https://github.com/axruff/ML_papers/raw/master/images/123.png "Playing for Data: Ground Truth from Computer Games")
 
 # Reinforcement Learning
 
