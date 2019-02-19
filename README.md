@@ -119,7 +119,10 @@ https://arxiv.org/pdf/1312.5602.pdf
 Key Papers in Deep Reinforcment Learning
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 
-# X-ray Imaging
+
+# Applications: Medical
+
+# Applications: X-ray Imaging
 Low-dose X-ray tomography through a deep convolutional neural network
 https://www.nature.com/articles/s41598-018-19426-7
 
