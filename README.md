@@ -124,7 +124,7 @@ https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 
 Generative adversarial networks for specular highlight removal in endoscopic images
 https://doi.org/10.1117/12.2293755
-<img src="https://github.com/axruff/ML_papers/raw/master/images/1902.png" width="500">
+<img src="https://github.com/axruff/ML_papers/raw/master/images/1902.png" width="600">
 
 # Applications: X-ray Imaging
 Low-dose X-ray tomography through a deep convolutional neural network
