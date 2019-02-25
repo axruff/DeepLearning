@@ -65,6 +65,9 @@ https://arxiv.org/abs/1806.09055
 Visualizing and Understanding Recurrent Networks
 https://arxiv.org/abs/1506.02078
 
+Bag of Tricks for Image Classification with Convolutional Neural Networks
+https://arxiv.org/abs/1812.01187v1
+
 # Applications
 
 Anomaly Detection: A Survey
