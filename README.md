@@ -117,6 +117,7 @@ https://arxiv.org/abs/1612.07828
 
 GAN Zoo
 https://github.com/hindupuravinash/the-gan-zoo
+
 <img src="https://github.com/hindupuravinash/the-gan-zoo/raw/master/The_GAN_Zoo.jpg" width="250">
 
 
