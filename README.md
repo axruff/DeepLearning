@@ -113,6 +113,15 @@ Learning from Simulated and Unsupervised Images through Adversarial Training
 https://arxiv.org/abs/1612.07828
 <img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="400">
 
+# Generative Networks
+
+GAN Zoo
+https://github.com/hindupuravinash/the-gan-zoo
+
+<img src="https://github.com/hindupuravinash/the-gan-zoo/raw/master/The_GAN_Zoo.jpg" width="250">
+
+
+
 # Reinforcement Learning
 
 An Introduction to Deep Reinforcement Learning
