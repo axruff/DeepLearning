@@ -117,10 +117,13 @@ https://arxiv.org/abs/1612.07828
 
 GAN Zoo
 https://github.com/hindupuravinash/the-gan-zoo
-
 <img src="https://github.com/hindupuravinash/the-gan-zoo/raw/master/The_GAN_Zoo.jpg" width="250">
 
 
+GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
+https://arxiv.org/abs/1811.10597v1
+Interactive tool:
+https://gandissect.csail.mit.edu/
 
 # Reinforcement Learning
 
