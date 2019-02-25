@@ -70,6 +70,8 @@ https://arxiv.org/abs/1812.01187v1
 
 GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
 https://arxiv.org/abs/1811.10597v1
+Interactive tool:
+https://gandissect.csail.mit.edu/
 
 # Applications
 
