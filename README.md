@@ -126,6 +126,10 @@ https://arxiv.org/abs/1811.10597v1
 Interactive tool:
 https://gandissect.csail.mit.edu/
 
+Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning
+https://arxiv.org/abs/1704.03976
+
+
 # Reinforcement Learning
 
 An Introduction to Deep Reinforcement Learning
