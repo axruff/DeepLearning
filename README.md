@@ -129,6 +129,7 @@ https://gandissect.csail.mit.edu/
 Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning
 https://arxiv.org/abs/1704.03976
 
+<img src="https://www.researchgate.net/profile/Takeru_Miyato/publication/316098571/figure/fig2/AS:667791753498635@1536225369918/Demonstration-of-how-our-VAT-works-on-semi-supervised-learning-We-generated-8-labeled.png" width="400">
 
 # Reinforcement Learning
 
