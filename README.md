@@ -140,6 +140,13 @@ https://arxiv.org/pdf/1312.5602.pdf
 Key Papers in Deep Reinforcment Learning
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 
+Recurrent Models of Visual Attention
+https://arxiv.org/abs/1406.6247
+
+<img src="https://raw.githubusercontent.com/torch/torch.github.io/master/blog/_posts/images/rva-diagram.png" width="600">
+
+
+
 
 # Applications: Medical
 
