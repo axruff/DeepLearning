@@ -5,7 +5,7 @@
 Gradient-based learning applied to document recognition
 https://ieeexplore.ieee.org/document/726791
 
-**[AlexNet]** ImageNet Classification with Deep Convolutional Neural Networks
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[AlexNet]** ImageNet Classification with Deep Convolutional Neural Networks
 https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 
 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
