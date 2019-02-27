@@ -54,7 +54,7 @@ Adam: A Method for Stochastic Optimization
 https://arxiv.org/abs/1412.6980
 
 Dropout: A Simple Way to Prevent Neural Networks from Overfitting
-https://arxiv.org/abs/1412.6980
+http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 
 Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/abs/1712.09913
