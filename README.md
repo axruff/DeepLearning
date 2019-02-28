@@ -123,6 +123,19 @@ Learning from Simulated and Unsupervised Images through Adversarial Training
 https://arxiv.org/abs/1612.07828
 <img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="400">
 
+Texture Synthesis Using Convolutional Neural Networks
+https://arxiv.org/abs/1505.07376
+
+<img src="https://dmitryulyanov.github.io/assets/online-neural-doodle/textures.png" width="300">
+
+
+
+DeepTextures
+http://bethgelab.org/deeptextures/
+
+Textures database
+https://www.textures.com/index.php
+
 # Generative Networks
 
 GAN Zoo
