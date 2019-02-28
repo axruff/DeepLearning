@@ -113,7 +113,7 @@ https://arxiv.org/abs/1608.02192
 
 Learning from Simulated and Unsupervised Images through Adversarial Training
 https://arxiv.org/abs/1612.07828
-<img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="400">
+<img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="300">
 
 Texture Synthesis Using Convolutional Neural Networks
 https://arxiv.org/abs/1505.07376
