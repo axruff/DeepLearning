@@ -146,7 +146,15 @@ https://gandissect.csail.mit.edu/
 Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning
 https://arxiv.org/abs/1704.03976
 
-<img src="https://www.researchgate.net/profile/Takeru_Miyato/publication/316098571/figure/fig2/AS:667791753498635@1536225369918/Demonstration-of-how-our-VAT-works-on-semi-supervised-learning-We-generated-8-labeled.png" width="400">
+<img src="https://www.researchgate.net/profile/Takeru_Miyato/publication/316098571/figure/fig2/AS:667791753498635@1536225369918/Demonstration-of-how-our-VAT-works-on-semi-supervised-learning-We-generated-8-labeled.png" width="300">
+
+**[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks
+https://arxiv.org/abs/1611.07004
+
+<img src="https://phillipi.github.io/pix2pix/images/teaser_v3.jpg" width="300">
+
+
+
 
 # Reinforcement Learning
 
