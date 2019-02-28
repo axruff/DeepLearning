@@ -119,6 +119,9 @@ https://arxiv.org/abs/1505.07376
 
 <img src="https://dmitryulyanov.github.io/assets/online-neural-doodle/textures.png" width="300">
 
+Implementation
+https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/
+
 
 
 DeepTextures
