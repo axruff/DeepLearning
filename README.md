@@ -29,6 +29,9 @@ https://arxiv.org/abs/1512.03385
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[U-net]**: Convolutional networks for biomedical image segmentation
 https://arxiv.org/abs/1505.04597
 
+**[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation
+https://arxiv.org/abs/1801.05746
+
 **[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation
 https://arxiv.org/abs/1606.04797
 
