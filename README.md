@@ -85,18 +85,6 @@ https://arxiv.org/abs/1406.6909
 <img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
 
 
-
-# Applications
-
-Anomaly Detection: A Survey
-https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
-
-# Software
-
-Caffe: Convolutional Architecture for Fast Feature Embedding
-https://arxiv.org/abs/1408.5093
-
-
 # Domain Adaptation / Transfer / Synthetic data
 
 ## Surveys 
@@ -177,7 +165,16 @@ https://arxiv.org/abs/1406.6247
 <img src="https://raw.githubusercontent.com/torch/torch.github.io/master/blog/_posts/images/rva-diagram.png" width="600">
 
 
+# Applications
 
+Anomaly Detection: A Survey
+https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
+
+
+# Software
+
+Caffe: Convolutional Architecture for Fast Feature Embedding
+https://arxiv.org/abs/1408.5093
 
 # Applications: Medical
 
