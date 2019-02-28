@@ -90,7 +90,9 @@ https://arxiv.org/abs/1406.6909
 
 Albumentations: fast and flexible image augmentations
 https://arxiv.org/abs/1809.06839
-Code: https://github.com/albu/albumentations
+
+Code
+https://github.com/albu/albumentations
 
 
 # Domain Adaptation / Transfer / Synthetic data
