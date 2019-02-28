@@ -73,6 +73,16 @@ https://arxiv.org/abs/1811.10597v1
 Interactive tool:
 https://gandissect.csail.mit.edu/
 
+
+# Augmentation
+
+Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
+https://arxiv.org/abs/1406.6909
+
+<img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="400">
+
+
+
 # Applications
 
 Anomaly Detection: A Survey
