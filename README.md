@@ -88,6 +88,11 @@ https://arxiv.org/abs/1406.6909
 <img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
 
 
+Albumentations: fast and flexible image augmentations
+https://arxiv.org/abs/1809.06839
+Code: https://github.com/albu/albumentations
+
+
 # Domain Adaptation / Transfer / Synthetic data
 
 ## Surveys 
