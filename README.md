@@ -108,7 +108,8 @@ https://arxiv.org/abs/1706.05208
 
 Playing for Data: Ground Truth from Computer Games
 https://arxiv.org/abs/1608.02192
-![alt text](https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png "Playing for Data: Ground Truth from Computer Games")
+
+<img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
 
 Learning from Simulated and Unsupervised Images through Adversarial Training
 https://arxiv.org/abs/1612.07828
