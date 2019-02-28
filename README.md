@@ -79,7 +79,7 @@ https://gandissect.csail.mit.edu/
 Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
 https://arxiv.org/abs/1406.6909
 
-<img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="400">
+<img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
 
 
 
