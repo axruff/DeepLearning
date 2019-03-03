@@ -44,6 +44,12 @@ https://arxiv.org/abs/1606.04797
 **[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications
 https://arxiv.org/abs/1704.04861
 
+**[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+https://arxiv.org/pdf/1606.00915.pdf
+
+Rethinking Atrous Convolution for Semantic Image Segmentation
+https://arxiv.org/pdf/1706.05587.pdf
+
 Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
 https://arxiv.org/abs/1707.02968
 
