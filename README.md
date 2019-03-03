@@ -77,7 +77,7 @@ https://arxiv.org/abs/1806.09055
 Visualizing and Understanding Recurrent Networks
 https://arxiv.org/abs/1506.02078
 
-**Bag of Tricks** for Image Classification with Convolutional Neural Networks
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **Bag of Tricks** for Image Classification with Convolutional Neural Networks
 https://arxiv.org/abs/1812.01187v1
 
 GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
