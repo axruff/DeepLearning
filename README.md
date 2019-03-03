@@ -88,7 +88,7 @@ https://gandissect.csail.mit.edu/
 
 # Augmentation
 
-Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
 https://arxiv.org/abs/1406.6909
 
 <img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
