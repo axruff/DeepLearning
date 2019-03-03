@@ -202,6 +202,16 @@ http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf
 
 <img src="http://groups.csail.mit.edu/vision/datasets/ADE20K/assets/images/examples.png" width="400">
 
+
+OPENSURFACES: A Richly Annotated Catalog of Surface Appearance
+http://opensurfaces.cs.cornell.edu/
+
+https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
+
+<img src="http://opensurfaces.cs.cornell.edu/static/img/teaser4-web.jpg" width="400">
+
+
+
 # Applications
 
 Anomaly Detection: A Survey
