@@ -101,6 +101,13 @@ https://arxiv.org/abs/1811.10597v1
 Interactive tool:
 https://gandissect.csail.mit.edu/
 
+Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
+https://arxiv.org/abs/1210.5644
+
+<img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
+
+
+
 
 # Augmentation
 
