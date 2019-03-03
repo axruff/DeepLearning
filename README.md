@@ -20,6 +20,11 @@ https://arxiv.org/pdf/1409.3215.pdf
 **[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition
 https://arxiv.org/abs/1409.1556
 
+**[R-CNN]** Rich feature hierarchies for accurate object detection and semantic segmentation
+https://arxiv.org/abs/1311.2524
+
+<img src="http://3.bp.blogspot.com/-aM69pqJLP9k/VT2927f8WmI/AAAAAAAAAv8/7S49kEq5Ss0/s1600/%E6%93%B7%E5%8F%96.PNG" width="400">
+
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[GoogleNet]** Going Deeper with Convolutions
 https://arxiv.org/abs/1409.4842
 
@@ -58,7 +63,6 @@ https://arxiv.org/abs/1605.07678
 
 Image Captioning with Semantic Attention
 https://arxiv.org/abs/1603.03925
-
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/ImageCaptioningSemanticAttention.png" width="400">
 
