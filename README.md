@@ -29,6 +29,7 @@ https://arxiv.org/abs/1512.03385
 **[FCN]** Fully Convolutional Networks for Semantic Segmentation
 https://arxiv.org/abs/1411.4038
 
+<img src="http://deeplearning.net/tutorial/_images/cat_segmentation.png" width="400">
 
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[U-net]**: Convolutional networks for biomedical image segmentation
