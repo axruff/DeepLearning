@@ -217,6 +217,9 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 Anomaly Detection: A Survey
 https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
 
+Material Recognition in the Wild with the Materials in Context Database
+http://opensurfaces.cs.cornell.edu/publications/minc/
+
 
 # Software
 
