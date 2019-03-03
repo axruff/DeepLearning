@@ -26,6 +26,11 @@ https://arxiv.org/abs/1409.4842
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[ResNet]** Deep Residual Learning for Image Recognition
 https://arxiv.org/abs/1512.03385
 
+**[FCN]** Fully Convolutional Networks for Semantic Segmentation
+https://arxiv.org/abs/1411.4038
+
+
+
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[U-net]**: Convolutional networks for biomedical image segmentation
 https://arxiv.org/abs/1505.04597
 
