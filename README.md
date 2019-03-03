@@ -35,6 +35,8 @@ https://arxiv.org/abs/1801.05746
 **[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation
 https://arxiv.org/abs/1606.04797
 
+**[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications
+
 Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
 https://arxiv.org/abs/1707.02968
 
