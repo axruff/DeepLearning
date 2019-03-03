@@ -200,7 +200,7 @@ http://groups.csail.mit.edu/vision/datasets/ADE20K/
 Scene Parsing through ADE20K Dataset
 http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf
 
-<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/2a5667702b0f1ff77dde8fb3e2e10d4e05e8de9d/1-Figure1-1.png" width="400">
+<img src="http://groups.csail.mit.edu/vision/datasets/ADE20K/assets/images/examples.png" width="400">
 
 # Applications
 
