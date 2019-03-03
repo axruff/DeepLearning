@@ -23,7 +23,7 @@ https://arxiv.org/abs/1409.1556
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[GoogleNet]** Going Deeper with Convolutions
 https://arxiv.org/abs/1409.4842
 
-**[ResNet]** Deep Residual Learning for Image Recognition
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[ResNet]** Deep Residual Learning for Image Recognition
 https://arxiv.org/abs/1512.03385
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[U-net]**: Convolutional networks for biomedical image segmentation
@@ -64,6 +64,9 @@ http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 
 Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/abs/1712.09913
+
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
+https://arxiv.org/abs/1406.6909
 
 DARTS: Differentiable Architecture Search
 https://arxiv.org/abs/1806.09055
