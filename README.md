@@ -36,6 +36,7 @@ https://arxiv.org/abs/1801.05746
 https://arxiv.org/abs/1606.04797
 
 **[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications
+https://arxiv.org/abs/1704.04861
 
 Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
 https://arxiv.org/abs/1707.02968
