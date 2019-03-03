@@ -87,6 +87,12 @@ https://arxiv.org/abs/1712.09913
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
 https://arxiv.org/abs/1406.6909
 
+Multi-Scale Context Aggregation by Dilated Convolutions
+https://arxiv.org/abs/1511.07122
+
+<img src="https://user-images.githubusercontent.com/22321977/48708394-7121c980-ec3d-11e8-98ab-2c116df0aaae.png" width="300">
+
+
 DARTS: Differentiable Architecture Search
 https://arxiv.org/abs/1806.09055
 
