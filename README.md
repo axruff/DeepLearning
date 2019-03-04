@@ -60,6 +60,9 @@ https://arxiv.org/abs/1802.02611
 **[Xception]**: Deep Learning with Depthwise Separable Convolutions
 https://arxiv.org/abs/1610.02357
 
+Implementation
+https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4
+
 
 
 
