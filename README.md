@@ -52,6 +52,9 @@ https://arxiv.org/abs/1704.04861
 **[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 https://arxiv.org/pdf/1606.00915.pdf
 
+**[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
+https://arxiv.org/abs/1802.02611
+
 Rethinking Atrous Convolution for Semantic Image Segmentation
 https://arxiv.org/pdf/1706.05587.pdf
 
