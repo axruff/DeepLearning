@@ -55,7 +55,7 @@ https://arxiv.org/pdf/1606.00915.pdf
 **[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
 https://arxiv.org/abs/1802.02611
 
-<img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01234-2_49/MediaObjects/474212_1_En_49_Fig1_HTML.gif" width="400">
+<img src="https://2.bp.blogspot.com/-gxnbZ9w2Dro/WqMOQTJ_zzI/AAAAAAAACeA/dyLgkY5TnFEf2j6jyXDXIDWj_wrbHhteQCLcBGAs/s640/image2.png" width="400">
 
 **[Xception]**: Deep Learning with Depthwise Separable Convolutions
 https://arxiv.org/abs/1610.02357
