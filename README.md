@@ -55,6 +55,11 @@ https://arxiv.org/pdf/1606.00915.pdf
 **[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
 https://arxiv.org/abs/1802.02611
 
+<img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01234-2_49/MediaObjects/474212_1_En_49_Fig1_HTML.gif" width="400">
+
+
+
+
 Rethinking Atrous Convolution for Semantic Image Segmentation
 https://arxiv.org/pdf/1706.05587.pdf
 
