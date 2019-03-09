@@ -180,6 +180,12 @@ Visual Domain Adaptation Challenge 2018
 number of labeled samples from the target dataset is assumed to be available. Using **soft labels** rather than hard labels can preserve
 the relationships between classes across domains. 
 
+Fine-grained recognition in the wild: A multi-task domain adaptation approach (2017)
+[[link]](https://arxiv.org/abs/1709.02476)
+> soft labels
+
+
+
 - **Statistic Criterion**: aligns the statistical distribution shift between the source and target domains using some mechanisms. 
 
 - **Architecture Criterion**: aims at improving the ability of learning more transferable features by adjusting the architectures of deep networks.
