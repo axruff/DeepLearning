@@ -180,7 +180,11 @@ Description:
 
 ### Generative Models
 
-Unsupervised pixel-level domain adaptation with generative adversarial networks
+Unsupervised pixel-level domain adaptation with generative adversarial networks (2016)
+[[link]](https://arxiv.org/abs/1612.05424)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUpA7CmfRdSTH0rxd_zJEEgSm11bWsJvln3o1xBFvXSrEtyCt" width="400">
+
 
 ## Others
 
