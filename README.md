@@ -145,48 +145,48 @@ https://github.com/albu/albumentations
 # Domain Adaptation and Transfer Learning
 
 ## Surveys 
-A Survey on Transfer Learning
+A Survey on Transfer Learning (2010)
 [[link]](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 
 Transfer learning for visual categorization: A survey (2015)
-https://ieeexplore.ieee.org/document/6847217
+[[link]](https://ieeexplore.ieee.org/document/6847217)
 
 Domain Adaptation for Visual Applications: A Comprehensive Survey (2017)
-https://arxiv.org/abs/1702.05374
+[[link]](https://arxiv.org/abs/1702.05374)
 
 Visual domain adaptation: A survey of recent advances (2015)
-https://ieeexplore.ieee.org/document/7078994
+[[link]](https://ieeexplore.ieee.org/document/7078994)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Deep Visual Domain Adaptation: A Survey
-https://arxiv.org/abs/1802.03601
+[[link]](https://arxiv.org/abs/1802.03601)
 
 A survey on heterogeneous transfer learning (2017)
-https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0089-0
+[[link]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0089-0)
 
 Transfer learning for cross-dataset recognition: A survey (2017)
-https://arxiv.org/abs/1705.04396
+[[link]](https://arxiv.org/abs/1705.04396)
 
 Visual Domain Adaptation Challenge 2018
-http://ai.bu.edu/visda-2017/
+[[link]](http://ai.bu.edu/visda-2017/)
 
 
 Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
-https://arxiv.org/abs/1804.06516
+[[link]](https://arxiv.org/abs/1804.06516)
 
 Self-ensembling for visual domain adaptation
-https://arxiv.org/abs/1706.05208
+[[link]](https://arxiv.org/abs/1706.05208)
 
 Playing for Data: Ground Truth from Computer Games
-https://arxiv.org/abs/1608.02192
+[[link]](https://arxiv.org/abs/1608.02192)
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
 
 Learning from Simulated and Unsupervised Images through Adversarial Training
-https://arxiv.org/abs/1612.07828
+[[link]](https://arxiv.org/abs/1612.07828)
 <img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="300">
 
 Texture Synthesis Using Convolutional Neural Networks
-https://arxiv.org/abs/1505.07376
+[[link]](https://arxiv.org/abs/1505.07376)
 
 <img src="https://dmitryulyanov.github.io/assets/online-neural-doodle/textures.png" width="300">
 
@@ -204,23 +204,23 @@ https://www.textures.com/index.php
 # Generative Models
 
 GAN Zoo
-https://github.com/hindupuravinash/the-gan-zoo
+[[link]](https://github.com/hindupuravinash/the-gan-zoo)
 
 <img src="https://github.com/hindupuravinash/the-gan-zoo/raw/master/The_GAN_Zoo.jpg" width="250">
 
 
 GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
-https://arxiv.org/abs/1811.10597v1
+[[link]](https://arxiv.org/abs/1811.10597v)
 Interactive tool:
 https://gandissect.csail.mit.edu/
 
 Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning
-https://arxiv.org/abs/1704.03976
+[[link]](https://arxiv.org/abs/1704.03976)
 
 <img src="https://www.researchgate.net/profile/Takeru_Miyato/publication/316098571/figure/fig2/AS:667791753498635@1536225369918/Demonstration-of-how-our-VAT-works-on-semi-supervised-learning-We-generated-8-labeled.png" width="300">
 
 **[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks
-https://arxiv.org/abs/1611.07004
+[[link]](https://arxiv.org/abs/1611.07004)
 
 <img src="https://phillipi.github.io/pix2pix/images/teaser_v3.jpg" width="300">
 
