@@ -174,17 +174,24 @@ Visual Domain Adaptation Challenge 2018
 
 ## Discrepancy-based Approaches
 
-Description: 
+*Description: fine-tuning the deep network with labeled or unlabeled target data to diminish the domain shift
 
-## Adversarial/based Approaches
+## Adversarial-based Approaches
+
+*Description: using domain discriminators to encourage domain confusion through an adversarial objective
 
 ### Generative Models
 
-Unsupervised pixel-level domain adaptation with generative adversarial networks (2016)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Unsupervised pixel-level domain adaptation with generative adversarial networks (2016)
 [[link]](https://arxiv.org/abs/1612.05424)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUpA7CmfRdSTH0rxd_zJEEgSm11bWsJvln3o1xBFvXSrEtyCt" width="400">
 
+### Non-generative Models
+
+## Reconstruction-based Approaches
+
+*Description: using the data reconstruction as an auxiliary task to ensure feature invariance
 
 ## Others
 
