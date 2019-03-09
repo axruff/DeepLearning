@@ -3,85 +3,88 @@
 # Neural Networks
 
 Gradient-based learning applied to document recognition
-https://ieeexplore.ieee.org/document/726791
+[[link]](https://ieeexplore.ieee.org/document/726791)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[AlexNet]** ImageNet Classification with Deep Convolutional Neural Networks
-https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+[[link]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
-https://arxiv.org/pdf/1312.6229.pdf
+[[link]](https://arxiv.org/pdf/1312.6229.pdf)
 
 Learning Hierarchical Features for Scene Labeling
-http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf
+[[link]](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
 
 Sequence to Sequence Learning with Neural Networks
-https://arxiv.org/pdf/1409.3215.pdf
+[[link]](https://arxiv.org/pdf/1409.3215.pdf)
 
 **[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition
-https://arxiv.org/abs/1409.1556
+[[link]](https://arxiv.org/abs/1409.1556)
 
 **[R-CNN]** Rich feature hierarchies for accurate object detection and semantic segmentation
-https://arxiv.org/abs/1311.2524
+[[link]](https://arxiv.org/abs/1311.2524)
 
 <img src="http://3.bp.blogspot.com/-aM69pqJLP9k/VT2927f8WmI/AAAAAAAAAv8/7S49kEq5Ss0/s1600/%E6%93%B7%E5%8F%96.PNG" width="400">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[GoogleNet]** Going Deeper with Convolutions
-https://arxiv.org/abs/1409.4842
+[[link]](https://arxiv.org/abs/1409.4842)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[ResNet]** Deep Residual Learning for Image Recognition
-https://arxiv.org/abs/1512.03385
+[[link]](https://arxiv.org/abs/1512.03385)
 
 **[FCN]** Fully Convolutional Networks for Semantic Segmentation
-https://arxiv.org/abs/1411.4038
+[[link]](https://arxiv.org/abs/1411.4038)
 
 <img src="http://deeplearning.net/tutorial/_images/cat_segmentation.png" width="400">
 
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[U-net]**: Convolutional networks for biomedical image segmentation
-https://arxiv.org/abs/1505.04597
+[[link]](https://arxiv.org/abs/1505.04597)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation
-https://arxiv.org/abs/1801.05746
+[[link]](https://arxiv.org/abs/1801.05746)
 
 **[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation
-https://arxiv.org/abs/1606.04797
+[[link]](https://arxiv.org/abs/1606.04797)
 
 **[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications
-https://arxiv.org/abs/1704.04861
+[[link]](https://arxiv.org/abs/1704.04861)
 
 **[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
-https://arxiv.org/pdf/1606.00915.pdf
+[[link]](https://arxiv.org/pdf/1606.00915.pdf)
 
 **[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
-https://arxiv.org/abs/1802.02611
+[[link]](https://arxiv.org/abs/1802.02611)
 
 <img src="https://2.bp.blogspot.com/-gxnbZ9w2Dro/WqMOQTJ_zzI/AAAAAAAACeA/dyLgkY5TnFEf2j6jyXDXIDWj_wrbHhteQCLcBGAs/s640/image2.png" width="400">
 
 **[Xception]**: Deep Learning with Depthwise Separable Convolutions
-https://arxiv.org/abs/1610.02357
+[[link]](https://arxiv.org/abs/1610.02357)
 
 Implementation
-https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4
-
-
+[[link]](https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4)
 
 
 Rethinking Atrous Convolution for Semantic Image Segmentation
-https://arxiv.org/pdf/1706.05587.pdf
+[[link]](https://arxiv.org/pdf/1706.05587.pdf)
 
 Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
-https://arxiv.org/abs/1707.02968
+[[link]](https://arxiv.org/abs/1707.02968)
 
 An Analysis of Deep Neural Network Models for Practical Applications
-https://arxiv.org/abs/1605.07678
+[[link]](https://arxiv.org/abs/1605.07678)
 
 Image Captioning with Semantic Attention
-https://arxiv.org/abs/1603.03925
+[[link]](https://arxiv.org/abs/1603.03925)
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/ImageCaptioningSemanticAttention.png" width="400">
 
+Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
+https://arxiv.org/abs/1210.5644
 
-# Optimization and Regularisation / Visualization
+<img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
+
+
+# Optimization and Regularisation
 
 Random search for hyper-parameter optimisation
 http://www.jmlr.org/papers/v13/bergstra12a.html
@@ -95,8 +98,6 @@ https://arxiv.org/abs/1412.6980
 Dropout: A Simple Way to Prevent Neural Networks from Overfitting
 http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 
-Visualizing the Loss Landscape of Neural Nets
-https://arxiv.org/abs/1712.09913
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
 https://arxiv.org/abs/1406.6909
@@ -110,30 +111,31 @@ https://arxiv.org/abs/1511.07122
 DARTS: Differentiable Architecture Search
 https://arxiv.org/abs/1806.09055
 
-Visualizing and Understanding Recurrent Networks
-https://arxiv.org/abs/1506.02078
-
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **Bag of Tricks** for Image Classification with Convolutional Neural Networks
 https://arxiv.org/abs/1812.01187v1
+
+
+# Visualization
+
+Visualizing the Loss Landscape of Neural Nets
+https://arxiv.org/abs/1712.09913
+
+Visualizing and Understanding Recurrent Networks
+https://arxiv.org/abs/1506.02078
 
 GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
 https://arxiv.org/abs/1811.10597v1
 Interactive tool:
 https://gandissect.csail.mit.edu/
 
-Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
-https://arxiv.org/abs/1210.5644
-
-<img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
 
 
-# Augmentation
+# Data Augmentation
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
 https://arxiv.org/abs/1406.6909
 
 <img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
-
 
 Albumentations: fast and flexible image augmentations
 https://arxiv.org/abs/1809.06839
@@ -207,7 +209,6 @@ GAN Zoo
 [[link]](https://github.com/hindupuravinash/the-gan-zoo)
 
 <img src="https://github.com/hindupuravinash/the-gan-zoo/raw/master/The_GAN_Zoo.jpg" width="250">
-
 
 GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
 [[link]](https://arxiv.org/abs/1811.10597v)
