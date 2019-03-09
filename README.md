@@ -153,7 +153,9 @@ A Survey on Transfer Learning (2010)
 Transfer learning for visual categorization: A survey (2015)
 [[link]](https://ieeexplore.ieee.org/document/6847217)
 
-Domain Adaptation for Visual Applications: A Comprehensive Survey (2017)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Domain Adaptation for Visual Applications: A Comprehensive Survey (2017)
 [[link]](https://arxiv.org/abs/1702.05374)
 
 Visual domain adaptation: A survey of recent advances (2015)
@@ -171,6 +173,12 @@ Transfer learning for cross-dataset recognition: A survey (2017)
 Visual Domain Adaptation Challenge 2018
 [[link]](http://ai.bu.edu/visda-2017/)
 
+
+## Discrepancy-based Approaches
+
+Description: 
+
+## Generative Models
 
 Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
 [[link]](https://arxiv.org/abs/1804.06516)
@@ -202,8 +210,6 @@ http://bethgelab.org/deeptextures/
 
 Textures database
 https://www.textures.com/index.php
-
-# Generative Models
 
 GAN Zoo
 [[link]](https://github.com/hindupuravinash/the-gan-zoo)
