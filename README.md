@@ -263,6 +263,10 @@ https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-su
 Material Recognition in the Wild with the Materials in Context Database
 http://opensurfaces.cs.cornell.edu/publications/minc/
 
+tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow
+https://ge.in.tum.de/publications/tempogan/
+
+<img src="https://ge.in.tum.de/wp-content/uploads/2018/02/teaser-1080x368.jpg" width="400">
 
 # Software
 
