@@ -174,11 +174,11 @@ Visual Domain Adaptation Challenge 2018
 
 ## Discrepancy-based Approaches
 
-*Description: fine-tuning the deep network with labeled or unlabeled target data to diminish the domain shift
+*Description: fine-tuning the deep network with labeled or unlabeled target data to diminish the domain shift*
 
 ## Adversarial-based Approaches
 
-*Description: using domain discriminators to encourage domain confusion through an adversarial objective
+*Description: using domain discriminators to encourage domain confusion through an adversarial objective*
 
 ### Generative Models
 
@@ -191,7 +191,7 @@ Visual Domain Adaptation Challenge 2018
 
 ## Reconstruction-based Approaches
 
-*Description: using the data reconstruction as an auxiliary task to ensure feature invariance
+*Description: using the data reconstruction as an auxiliary task to ensure feature invariance*
 
 ## Others
 
