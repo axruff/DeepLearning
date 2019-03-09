@@ -144,7 +144,7 @@ Code
 https://github.com/albu/albumentations
 
 
-# Domain Adaptation / Transfer / Synthetic data
+# Domain Adaptation and Transfer Learning
 
 ## Surveys 
 A Survey on Transfer Learning
@@ -170,6 +170,7 @@ https://arxiv.org/abs/1705.04396
 
 Visual Domain Adaptation Challenge 2018
 http://ai.bu.edu/visda-2017/
+
 
 Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
 https://arxiv.org/abs/1804.06516
@@ -202,7 +203,7 @@ http://bethgelab.org/deeptextures/
 Textures database
 https://www.textures.com/index.php
 
-# Generative Networks
+# Generative Models
 
 GAN Zoo
 https://github.com/hindupuravinash/the-gan-zoo
