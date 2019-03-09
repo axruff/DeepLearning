@@ -49,7 +49,7 @@ Sequence to Sequence Learning with Neural Networks
 **[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications
 [[link]](https://arxiv.org/abs/1704.04861)
 
-**[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 [[link]](https://arxiv.org/pdf/1606.00915.pdf)
 
 **[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
@@ -153,8 +153,6 @@ A Survey on Transfer Learning (2010)
 Transfer learning for visual categorization: A survey (2015)
 [[link]](https://ieeexplore.ieee.org/document/6847217)
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Domain Adaptation for Visual Applications: A Comprehensive Survey (2017)
 [[link]](https://arxiv.org/abs/1702.05374)
 
@@ -178,7 +176,13 @@ Visual Domain Adaptation Challenge 2018
 
 Description: 
 
-## Generative Models
+## Adversarial/based Approaches
+
+### Generative Models
+
+Unsupervised pixel-level domain adaptation with generative adversarial networks
+
+## Others
 
 Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
 [[link]](https://arxiv.org/abs/1804.06516)
