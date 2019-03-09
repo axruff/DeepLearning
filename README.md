@@ -146,7 +146,7 @@ https://github.com/albu/albumentations
 
 ## Surveys 
 A Survey on Transfer Learning
-[link](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+[[link]](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 
 Transfer learning for visual categorization: A survey (2015)
 https://ieeexplore.ieee.org/document/6847217
