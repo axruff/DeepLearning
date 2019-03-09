@@ -1,5 +1,11 @@
 # Machine Learning papers
 
+
+##### Table of Contents  
+[Neural Networks](#networks)  
+[Emphasis](#emphasis)
+
+<a name="networks"/>
 # Neural Networks
 
 Gradient-based learning applied to document recognition
