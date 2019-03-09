@@ -153,7 +153,7 @@ https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
 Domain Adaptation for Visual Applications: A Comprehensive Survey
 https://arxiv.org/abs/1702.05374
 
-Deep Visual Domain Adaptation: A Survey
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Deep Visual Domain Adaptation: A Survey
 https://arxiv.org/abs/1802.03601
 
 Visual Domain Adaptation Challenge 2018
