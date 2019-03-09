@@ -150,11 +150,17 @@ https://github.com/albu/albumentations
 A Survey on Transfer Learning
 https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
 
+Transfer learning for visual categorization: A survey (2015)
+https://ieeexplore.ieee.org/document/6847217
+
 Domain Adaptation for Visual Applications: A Comprehensive Survey
 https://arxiv.org/abs/1702.05374
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Deep Visual Domain Adaptation: A Survey
 https://arxiv.org/abs/1802.03601
+
+A survey on heterogeneous transfer learning (2017)
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0089-0
 
 Visual Domain Adaptation Challenge 2018
 http://ai.bu.edu/visda-2017/
