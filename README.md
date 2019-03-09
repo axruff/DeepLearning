@@ -156,11 +156,17 @@ https://ieeexplore.ieee.org/document/6847217
 Domain Adaptation for Visual Applications: A Comprehensive Survey
 https://arxiv.org/abs/1702.05374
 
+Visual domain adaptation: A survey of recent advances (2015)
+https://ieeexplore.ieee.org/document/7078994
+
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Deep Visual Domain Adaptation: A Survey
 https://arxiv.org/abs/1802.03601
 
 A survey on heterogeneous transfer learning (2017)
 https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0089-0
+
+Transfer learning for cross-dataset recognition: A survey (2017)
+https://arxiv.org/abs/1705.04396
 
 Visual Domain Adaptation Challenge 2018
 http://ai.bu.edu/visda-2017/
