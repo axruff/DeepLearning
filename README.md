@@ -176,7 +176,9 @@ Visual Domain Adaptation Challenge 2018
 
 *Description: fine-tuning the deep network with labeled or unlabeled target data to diminish the domain shift*
 
-- **Class Criterion**: uses the class label information as a guide for transferring knowledge between different domains. When the labeled samples from the target domain are available in supervised DA, **soft label** and metric learning are always effective [118], [86], [53], [45], [79]. When such samples are unavailable, some other techniques can be adopted to substitute for class labeled data, such as **pseudo labels** [75], [139], [130],[98] and **attribute representation** [29], [118].
+- **Class Criterion**: uses the class label information as a guide for transferring knowledge between different domains. When the labeled samples from the target domain are available in supervised DA, **soft label** and metric learning are always effective [118], [86], [53], [45], [79]. When such samples are unavailable, some other techniques can be adopted to substitute for class labeled data, such as **pseudo labels** [75], [139], [130],[98] and **attribute representation** [29], [118]. Usually a small
+number of labeled samples from the target dataset is assumed to be available. Using **soft labels** rather than hard labels can preserve
+the relationships between classes across domains. 
 
 - **Statistic Criterion**: aligns the statistical distribution shift between the source and target domains using some mechanisms. 
 
