@@ -81,7 +81,7 @@ https://arxiv.org/abs/1603.03925
 <img src="https://github.com/axruff/ML_papers/raw/master/images/ImageCaptioningSemanticAttention.png" width="400">
 
 
-# Optimization / Regularisation / Visualization
+# Optimization and Regularisation / Visualization
 
 Random search for hyper-parameter optimisation
 http://www.jmlr.org/papers/v13/bergstra12a.html
@@ -127,8 +127,6 @@ https://arxiv.org/abs/1210.5644
 <img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
 
 
-
-
 # Augmentation
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
@@ -148,12 +146,12 @@ https://github.com/albu/albumentations
 
 ## Surveys 
 A Survey on Transfer Learning
-https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf
+[link](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 
 Transfer learning for visual categorization: A survey (2015)
 https://ieeexplore.ieee.org/document/6847217
 
-Domain Adaptation for Visual Applications: A Comprehensive Survey
+Domain Adaptation for Visual Applications: A Comprehensive Survey (2017)
 https://arxiv.org/abs/1702.05374
 
 Visual domain adaptation: A survey of recent advances (2015)
