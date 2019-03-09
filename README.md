@@ -176,14 +176,17 @@ Visual Domain Adaptation Challenge 2018
 
 *Description: fine-tuning the deep network with labeled or unlabeled target data to diminish the domain shift*
 
-Class criterion, statistic criterion, architecture criterion and geometric criterion
-are four major techniques for performing fine-tuning:
 - **Class Criterion**: uses the class label information as a guide for transferring knowledge between different domains. When the labeled samples from the target domain are available in supervised DA, **soft label** and metric learning are always effective [118], [86], [53], [45], [79]. When such samples are unavailable, some other techniques can be adopted to substitute for class labeled data, such as **pseudo labels** [75], [139], [130],[98] and **attribute representation** [29], [118].
 
 - **Statistic Criterion**: aligns the statistical distribution shift between the source and target domains using some mechanisms. 
 
 - **Architecture Criterion**: aims at improving the ability of learning more transferable features by adjusting the architectures of deep networks.
 
+- **Geometric Criterion**: bridges the source and target domains according to their geometrical properties.
+
+**[Dlid]**: Deep learning for domain adaptation by interpolating between domains (2013)
+[[link]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.664.4509)
+> geometric criterion
 
 ## Adversarial-based Approaches
 
