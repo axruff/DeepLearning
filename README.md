@@ -2,43 +2,36 @@
 
 # Neural Networks
 
-Gradient-based learning applied to document recognition
-[[link]](https://ieeexplore.ieee.org/document/726791)
+[Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/document/726791)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[AlexNet]** ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
-OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
-[[link]](https://arxiv.org/pdf/1312.6229.pdf)
+[OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
 
-Learning Hierarchical Features for Scene Labeling
-[[link]](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
+[Learning Hierarchical Features for Scene Labeling](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
 
-Sequence to Sequence Learning with Neural Networks
-[[link]](https://arxiv.org/pdf/1409.3215.pdf)
+[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
 
-**[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition
-[[link]](https://arxiv.org/abs/1409.1556)
+[**[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 
-**[R-CNN]** Rich feature hierarchies for accurate object detection and semantic segmentation
-[[link]](https://arxiv.org/abs/1311.2524)
+[**[R-CNN]** Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
 
 <img src="http://3.bp.blogspot.com/-aM69pqJLP9k/VT2927f8WmI/AAAAAAAAAv8/7S49kEq5Ss0/s1600/%E6%93%B7%E5%8F%96.PNG" width="400">
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[GoogleNet]** Going Deeper with Convolutions
-[[link]](https://arxiv.org/abs/1409.4842)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[**[GoogleNet]** Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[ResNet]** Deep Residual Learning for Image Recognition
-[[link]](https://arxiv.org/abs/1512.03385)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[**[ResNet]** Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
-**[FCN]** Fully Convolutional Networks for Semantic Segmentation
-[[link]](https://arxiv.org/abs/1411.4038)
+[**[FCN]** Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
 
 <img src="http://deeplearning.net/tutorial/_images/cat_segmentation.png" width="400">
 
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[U-net]**: Convolutional networks for biomedical image segmentation
-[[link]](https://arxiv.org/abs/1505.04597)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[**[U-net]**: Convolutional networks for biomedical image segmentation](https://arxiv.org/abs/1505.04597)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation
 [[link]](https://arxiv.org/abs/1801.05746)
