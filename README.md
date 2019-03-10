@@ -284,6 +284,8 @@ the realism of synthetic images using unlabeled real data
 
 <img src="http://3dgan.csail.mit.edu/images/model.jpg" width="300">
 
+[Improved Adversarial Systems for 3D Object Generation and Reconstruction (2017)](https://arxiv.org/abs/1707.09557)
+
 
 ### Non-generative Models
 
