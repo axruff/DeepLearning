@@ -291,6 +291,10 @@ the realism of synthetic images using unlabeled real data
 
 <img src="https://junyanz.github.io/BicycleGAN/index_files/teaser.jpg" width="400"> 
 
+[**[CycleGAN]** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017)](https://arxiv.org/abs/1703.10593)
+
+<img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg" width="400">
+
 ### Non-generative Models
 
 ## Reconstruction-based Approaches
@@ -418,7 +422,7 @@ https://ge.in.tum.de/publications/tempogan/
 <img src="https://ge.in.tum.de/wp-content/uploads/2018/02/teaser-1080x368.jpg" width="400">
 
 [BubGAN: Bubble Generative Adversarial Networks for Synthesizing Realistic Bubbly Flow Images](https://arxiv.org/abs/1809.02266)
-<img src="https://i.pinimg.com/564x/61/64/cb/6164cbe1104d7c38f06307c74da5c14e.jpg" width="300">
+<img src="https://i.pinimg.com/564x/61/64/cb/6164cbe1104d7c38f06307c74da5c14e.jpg" width="400">
 
 # Software
 
