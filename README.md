@@ -382,6 +382,13 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 <img src="https://www.shapenet.org/resources/images/logo.png" width="500">
 
+[Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild [website]](http://cvgl.stanford.edu/projects/pascal3d.html)
+[[paper]](https://ieeexplore.ieee.org/document/6836101)
+
+[**[ObjectNet3D]**: A Large Scale Database for 3D Object Recognition](http://cvgl.stanford.edu/projects/objectnet3d/)
+
+<img src="http://cvgl.stanford.edu/projects/objectnet3d/ObjectNet3D.png" width="400">
+
 # Applications
 
 Anomaly Detection: A Survey
