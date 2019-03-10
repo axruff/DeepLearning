@@ -191,12 +191,22 @@ Occasionally, when fine-tuning the network in unsupervised DA, a label of target
 
 [Mind the class weight bias: Weighted maximum mean discrepancy for unsupervised domain adaptation (2017)](https://arxiv.org/abs/1705.00609)
 
-<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/0d9decf6e3ce9c4f2239b9f0731ab9107ade9b7e/2-Figure2-1.png" width="400">
-
-In [98](https://arxiv.org/abs/1702.08400), two different networks assign **pseudo-labels** to unlabeled samples, another network is trained by the samples to obtain target discriminative representations.
+In [[98]](https://arxiv.org/abs/1702.08400), two different networks assign **pseudo-labels** to unlabeled samples, another network is trained by the samples to obtain target discriminative representations.
 
 [Asymmetric tri-training for unsupervised domain adaptation (2017)](https://arxiv.org/abs/1702.08400)
 
+[**[DTN]** Deep transfer network: Unsupervised domain adaptation (2015)](https://arxiv.org/abs/1503.00591)
+
+#### Statistic Criterion
+
+Although some discrepancy-based approaches search for pseudo labels, attribute labels or other substitutes to labeled
+target data, more work focuses on learning **domain-invariant representations** via minimizing the domain distribution discrepancy in unsupervised DA.
+
+**Maximum mean discrepancy** (MMD) is an effective metric for comparing the distributions between two datasets by a kernel two-sample test [3].
+
+[**[DCC]** Deep domain confusion: Maximizing for domain invariance (2014)](https://arxiv.org/abs/1412.3474)
+
+<img src="https://www.groundai.com/media/arxiv_projects/85020/x1.png.750x0_q75_crop.png" width="300">
 
 
 #### Geometric Criterion
