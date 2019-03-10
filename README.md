@@ -147,23 +147,20 @@ https://github.com/albu/albumentations
 # Domain Adaptation and Transfer Learning
 
 ## Surveys 
-A Survey on Transfer Learning (2010)
-[[link]](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 
-Transfer learning for visual categorization: A survey (2015)
-[[link]](https://ieeexplore.ieee.org/document/6847217)
+[[A Survey on Transfer Learning (2010)]](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Domain Adaptation for Visual Applications: A Comprehensive Survey (2017)
-[[link]](https://arxiv.org/abs/1702.05374)
+[[Transfer learning for visual categorization: A survey (2015)]](https://ieeexplore.ieee.org/document/6847217)
 
-Visual domain adaptation: A survey of recent advances (2015)
-[[link]](https://ieeexplore.ieee.org/document/7078994)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[[Domain Adaptation for Visual Applications: A Comprehensive Survey (2017)]](https://arxiv.org/abs/1702.05374)
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Deep Visual Domain Adaptation: A Survey
-[[link]](https://arxiv.org/abs/1802.03601)
+[[Visual domain adaptation: A survey of recent advances (2015)]](https://ieeexplore.ieee.org/document/7078994)
 
-A survey on heterogeneous transfer learning (2017)
-[[link]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0089-0)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[[Deep Visual Domain Adaptation: A Survey]](https://arxiv.org/abs/1802.03601)
+
+[[A survey on heterogeneous transfer learning (2017)]](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0089-0)
 
 Transfer learning for cross-dataset recognition: A survey (2017)
 [[link]](https://arxiv.org/abs/1705.04396)
