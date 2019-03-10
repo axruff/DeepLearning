@@ -275,11 +275,14 @@ that uses a combined objective of minimizing an adversarial
 loss and a self-regularization loss, where the goal is to improve
 the realism of synthetic images using unlabeled real data
 
-
 [Learning from Simulated and Unsupervised Images through Adversarial Training (2016)](https://arxiv.org/abs/1612.07828)
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="300">
 
+
+[Learning a Probabilistic Latent Space of Object Shapes  via 3D Generative-Adversarial Modeling (2017)](http://3dgan.csail.mit.edu/)[[github]](https://github.com/zck119/3dgan-release) [Torch 7]
+
+<img src="http://3dgan.csail.mit.edu/images/model.jpg" width="300">
 
 
 ### Non-generative Models
