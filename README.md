@@ -417,6 +417,9 @@ https://ge.in.tum.de/publications/tempogan/
 
 <img src="https://ge.in.tum.de/wp-content/uploads/2018/02/teaser-1080x368.jpg" width="400">
 
+[BubGAN: Bubble Generative Adversarial Networks for Synthesizing Realistic Bubbly Flow Images](https://arxiv.org/abs/1809.02266)
+<img src="https://i.pinimg.com/564x/61/64/cb/6164cbe1104d7c38f06307c74da5c14e.jpg" width="300">
+
 # Software
 
 Caffe: Convolutional Architecture for Fast Feature Embedding
