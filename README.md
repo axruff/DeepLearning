@@ -388,6 +388,12 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 <img src="http://cvgl.stanford.edu/projects/objectnet3d/ObjectNet3D.png" width="300">
 
+[**[ModelNet]**: a comprehensive clean collection of 3D CAD models for objects [website]](http://modelnet.cs.princeton.edu/)
+
+<img src="http://3dvision.princeton.edu/projects/2014/ModelNet/thumbnail.jpg" width="300">
+
+[**[3D ShapeNets]**: A Deep Representation for Volumetric Shapes (2015)](https://ieeexplore.ieee.org/document/7298801)
+
 # Applications
 
 Anomaly Detection: A Survey
