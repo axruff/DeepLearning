@@ -186,6 +186,10 @@ animals with long necks”, we are able to recognize giraffes. To imitate the ab
 
 [Deep transfer metric learning (2015)](https://ieeexplore.ieee.org/document/7298629)
 
+[Mind the class weight bias: Weighted maximum mean discrepancy for unsupervised domain adaptation (2017)](https://arxiv.org/abs/1705.00609)
+
+<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/0d9decf6e3ce9c4f2239b9f0731ab9107ade9b7e/2-Figure2-1.png" width="400">
+
 
 
 #### Geometric Criterion
