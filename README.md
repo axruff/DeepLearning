@@ -287,6 +287,10 @@ the realism of synthetic images using unlabeled real data
 [Improved Adversarial Systems for 3D Object Generation and Reconstruction (2017)](https://arxiv.org/abs/1707.09557)
 
 
+[Toward Multimodal Image-to-Image Translation (2018)](https://arxiv.org/abs/1711.11586)
+
+<img src="https://junyanz.github.io/BicycleGAN/index_files/teaser.jpg" width="400"> 
+
 ### Non-generative Models
 
 ## Reconstruction-based Approaches
@@ -343,8 +347,9 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://phillipi.github.io/pix2pix/images/teaser_v3.jpg" width="300">
 
+# Anomaly Detection
 
-
+[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (2017)](https://arxiv.org/abs/1703.05921v1)
 
 # Reinforcement Learning
 
