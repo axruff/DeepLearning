@@ -209,6 +209,9 @@ target data, more work focuses on learning **domain-invariant representations** 
 
 <img src="https://www.groundai.com/media/arxiv_projects/85020/x1.png.750x0_q75_crop.png" width="300">
 
+Rather than using a single layer and linear MMD, Long et al. [[73]](https://arxiv.org/abs/1502.02791) proposed the deep adaptation network (DAN) that matches the shift
+in marginal distributions across domains by adding multiple adaptation layers and exploring multiple kernels, assuming that the conditional distributions remain unchanged.
+
 [**[DAN]** Learning transferable features with deep adaptation networks (2015)](https://arxiv.org/abs/1502.02791)
 <img src="http://miyunluo.com/images/in-post/post-blog-DANmdoel.png" width="400">
 
