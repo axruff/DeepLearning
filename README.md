@@ -259,6 +259,18 @@ in marginal distributions across domains by adding multiple adaptation layers an
 
 <img src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/ADDA_1.jpg" width="400">
 
+This weight-sharing constraint allows **CoGAN** to achieve a domain-invariant feature space
+without correspondence supervision. A trained CoGAN can adapt the input noise vector to paired images that are from the
+two distributions and share the labels. Therefore, the shared labels of synthetic target samples can be used to train the target
+model.
+
+[Coupled generative adversarial networks (2016)](https://arxiv.org/abs/1606.07536)
+
+[Pixel-level domain transfer (2016)](https://arxiv.org/pdf/1603.07442.pdf)
+
+<img src="https://pbs.twimg.com/media/CgKhQ2hWEAAE231.jpg:large" width="400">
+
+
 ### Non-generative Models
 
 ## Reconstruction-based Approaches
