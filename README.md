@@ -255,6 +255,10 @@ in marginal distributions across domains by adding multiple adaptation layers an
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUpA7CmfRdSTH0rxd_zJEEgSm11bWsJvln3o1xBFvXSrEtyCt" width="400">
 
+[**[ADDA]** Adversarial discriminative domain adaptation (2017)](https://arxiv.org/abs/1702.05464)
+
+<img src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/ADDA_1.jpg" width="400">
+
 ### Non-generative Models
 
 ## Reconstruction-based Approaches
