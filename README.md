@@ -177,25 +177,20 @@ number of labeled samples from the target dataset is assumed to be available.
 
 #### Class Criterion
 
-*Using **soft labels** rather than hard labels can preserve the relationships between classes across domains. *
+Using **soft labels** rather than hard labels can preserve the relationships between classes across domains.
 
-*Humans can identify unseen classes given only a high-level description. For instance, when provided the description ”tall brown
-animals with long necks”, we are able to recognize giraffes. To imitate the ability of humans, [64] introduced high-level **semantic attributes** per class.*
+Humans can identify unseen classes given only a high-level description. For instance, when provided the description ”tall brown
+animals with long necks”, we are able to recognize giraffes. To imitate the ability of humans, [64] introduced high-level **semantic attributes** per class.
 
-Fine-grained recognition in the wild: A multi-task domain adaptation approach (2017)
-[[link]](https://arxiv.org/abs/1709.02476)
-> soft labels
+[Fine-grained recognition in the wild: A multi-task domain adaptation approach (2017)](https://arxiv.org/abs/1709.02476) [soft labels, semantic attributes]
 
-Deep transfer metric learning
-[[link]](https://ieeexplore.ieee.org/document/7298629)
+[Deep transfer metric learning (2015)](https://ieeexplore.ieee.org/document/7298629)
 
 
 
 #### Geometric Criterion
 
-**[Dlid]**: Deep learning for domain adaptation by interpolating between domains (2013)
-[[link]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.664.4509)
-> geometric criterion
+[**[Dlid]**: Deep learning for domain adaptation by interpolating between domains (2013)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.664.4509) [geometric criterion]
 
 ## Adversarial-based Approaches
 
