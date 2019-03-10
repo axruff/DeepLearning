@@ -177,20 +177,31 @@ Visual Domain Adaptation Challenge 2018
 *Description: fine-tuning the deep network with labeled or unlabeled target data to diminish the domain shift*
 
 - **Class Criterion**: uses the class label information as a guide for transferring knowledge between different domains. When the labeled samples from the target domain are available in supervised DA, **soft label** and metric learning are always effective [118], [86], [53], [45], [79]. When such samples are unavailable, some other techniques can be adopted to substitute for class labeled data, such as **pseudo labels** [75], [139], [130],[98] and **attribute representation** [29], [118]. Usually a small
-number of labeled samples from the target dataset is assumed to be available. Using **soft labels** rather than hard labels can preserve
-the relationships between classes across domains. 
-
-Fine-grained recognition in the wild: A multi-task domain adaptation approach (2017)
-[[link]](https://arxiv.org/abs/1709.02476)
-> soft labels
-
-
+number of labeled samples from the target dataset is assumed to be available. 
 
 - **Statistic Criterion**: aligns the statistical distribution shift between the source and target domains using some mechanisms. 
 
 - **Architecture Criterion**: aims at improving the ability of learning more transferable features by adjusting the architectures of deep networks.
 
 - **Geometric Criterion**: bridges the source and target domains according to their geometrical properties.
+
+#### Class Criterion
+
+*Using **soft labels** rather than hard labels can preserve the relationships between classes across domains. *
+
+*Humans can identify unseen classes given only a high-level description. For instance, when provided the description ”tall brown
+animals with long necks”, we are able to recognize giraffes. To imitate the ability of humans, [64] introduced high-level **semantic attributes** per class.*
+
+Fine-grained recognition in the wild: A multi-task domain adaptation approach (2017)
+[[link]](https://arxiv.org/abs/1709.02476)
+> soft labels
+
+Deep transfer metric learning
+[[link]](https://ieeexplore.ieee.org/document/7298629)
+
+
+
+#### Geometric Criterion
 
 **[Dlid]**: Deep learning for domain adaptation by interpolating between domains (2013)
 [[link]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.664.4509)
