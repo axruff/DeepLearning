@@ -266,9 +266,20 @@ model.
 
 [Coupled generative adversarial networks (2016)](https://arxiv.org/abs/1606.07536)
 
-[Pixel-level domain transfer (2016)](https://arxiv.org/pdf/1603.07442.pdf)
+[Pixel-level domain transfer (2016)](https://arxiv.org/pdf/1603.07442.pdf) [[github]](https://github.com/fxia22/PixelDTGAN)
 
 <img src="https://pbs.twimg.com/media/CgKhQ2hWEAAE231.jpg:large" width="400">
+
+Shrivastava et al. [104]() developed a method for **simulated+unsupervised (S+U)** learning
+that uses a combined objective of minimizing an adversarial
+loss and a self-regularization loss, where the goal is to improve
+the realism of synthetic images using unlabeled real data
+
+
+[Learning from Simulated and Unsupervised Images through Adversarial Training (2016)](https://arxiv.org/abs/1612.07828)
+
+<img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="300">
+
 
 
 ### Non-generative Models
@@ -290,9 +301,6 @@ Playing for Data: Ground Truth from Computer Games
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
 
-Learning from Simulated and Unsupervised Images through Adversarial Training
-[[link]](https://arxiv.org/abs/1612.07828)
-<img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="300">
 
 Texture Synthesis Using Convolutional Neural Networks
 [[link]](https://arxiv.org/abs/1505.07376)
@@ -354,14 +362,12 @@ https://arxiv.org/abs/1406.6247
 
 # Datasets
 
-ADE20K Dataset: Semantic Segmentation
-http://groups.csail.mit.edu/vision/datasets/ADE20K/
+[ADE20K Dataset: Semantic Segmentation [website]](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 
 Scene Parsing through ADE20K Dataset
 http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf
 
 <img src="http://groups.csail.mit.edu/vision/datasets/ADE20K/assets/images/examples.png" width="400">
-
 
 OPENSURFACES: A Richly Annotated Catalog of Surface Appearance
 http://opensurfaces.cs.cornell.edu/
@@ -370,7 +376,11 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 <img src="http://opensurfaces.cs.cornell.edu/static/img/teaser4-web.jpg" width="400">
 
+[**[ShapeNet]** - a richly-annotated, large-scale dataset of 3D shapes [website] ](https://www.shapenet.org/) 
 
+[ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/abs/1512.03012)
+
+<img src="https://www.shapenet.org/resources/images/logo.png" width="500">
 
 # Applications
 
