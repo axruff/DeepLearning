@@ -204,10 +204,13 @@ target data, more work focuses on learning **domain-invariant representations** 
 
 **Maximum mean discrepancy** (MMD) is an effective metric for comparing the distributions between two datasets by a kernel two-sample test [3].
 
-[**[DCC]** Deep domain confusion: Maximizing for domain invariance (2014)](https://arxiv.org/abs/1412.3474)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[**[DDC]** Deep domain confusion: Maximizing for domain invariance (2014)](https://arxiv.org/abs/1412.3474)
 
 <img src="https://www.groundai.com/media/arxiv_projects/85020/x1.png.750x0_q75_crop.png" width="300">
 
+[**[DAN]** Learning transferable features with deep adaptation networks (2015)](https://arxiv.org/abs/1502.02791)
+<img src="http://miyunluo.com/images/in-post/post-blog-DANmdoel.png" width="400">
 
 #### Geometric Criterion
 
