@@ -222,7 +222,23 @@ Rather than using a single layer and linear MMD, Long et al. [[73]](https://arxi
 in marginal distributions across domains by adding multiple adaptation layers and exploring multiple kernels, assuming that the conditional distributions remain unchanged.
 
 [**[DAN]** Learning transferable features with deep adaptation networks (2015)](https://arxiv.org/abs/1502.02791)
-<img src="http://miyunluo.com/images/in-post/post-blog-DANmdoel.png" width="400">
+
+[**[JAN]** Deep transfer learning with joint adaptation networks (2016)](https://arxiv.org/abs/1605.06636)
+
+[**[RTN]** Unsupervised domain adaptation with residual transfer networks (2016)](https://arxiv.org/abs/1602.04433)
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0925231218306684-gr6.jpg" width="400">
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[Associative Domain Adaptation (2017)](https://arxiv.org/abs/1708.00938)
+
+<img src="https://vision.in.tum.de/_media/spezial/bib/haeusser_iccv_17.png" width="400">
+
+#### Architectural Criterion
+
+[Deeper, broader and artier domain generalization (2017)](https://arxiv.org/abs/1710.03077)
+
+<img src="http://www.eecs.qmul.ac.uk/~dl307/img/project_img1.png" width="300">
 
 #### Geometric Criterion
 
