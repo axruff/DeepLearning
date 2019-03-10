@@ -362,15 +362,14 @@ https://arxiv.org/abs/1406.6247
 
 # Datasets
 
-[ADE20K Dataset: Semantic Segmentation [website]](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
+[**[ADE20K Dataset]**: Semantic Segmentation [website]](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 
 Scene Parsing through ADE20K Dataset
 http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf
 
 <img src="http://groups.csail.mit.edu/vision/datasets/ADE20K/assets/images/examples.png" width="400">
 
-OPENSURFACES: A Richly Annotated Catalog of Surface Appearance
-http://opensurfaces.cs.cornell.edu/
+[**[OPENSURFACES]**: A Richly Annotated Catalog of Surface Appearance](http://opensurfaces.cs.cornell.edu/)
 
 https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
@@ -387,7 +386,7 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 [**[ObjectNet3D]**: A Large Scale Database for 3D Object Recognition](http://cvgl.stanford.edu/projects/objectnet3d/)
 
-<img src="http://cvgl.stanford.edu/projects/objectnet3d/ObjectNet3D.png" width="400">
+<img src="http://cvgl.stanford.edu/projects/objectnet3d/ObjectNet3D.png" width="300">
 
 # Applications
 
