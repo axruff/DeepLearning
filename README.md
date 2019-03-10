@@ -186,9 +186,16 @@ animals with long necks”, we are able to recognize giraffes. To imitate the ab
 
 [Deep transfer metric learning (2015)](https://ieeexplore.ieee.org/document/7298629)
 
+
+Occasionally, when fine-tuning the network in unsupervised DA, a label of target data, which is called a pseudo label, can preliminarily be obtained based on the maximum posterior probability
+
 [Mind the class weight bias: Weighted maximum mean discrepancy for unsupervised domain adaptation (2017)](https://arxiv.org/abs/1705.00609)
 
 <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/0d9decf6e3ce9c4f2239b9f0731ab9107ade9b7e/2-Figure2-1.png" width="400">
+
+In [98](https://arxiv.org/abs/1702.08400), two different networks assign **pseudo-labels** to unlabeled samples, another network is trained by the samples to obtain target discriminative representations.
+
+[Asymmetric tri-training for unsupervised domain adaptation (2017)](https://arxiv.org/abs/1702.08400)
 
 
 
