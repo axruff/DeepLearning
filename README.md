@@ -324,7 +324,7 @@ Implementation
 https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/
 
 
-[Context Encoders: Feature Learning by Inpainting (2016)] (https://arxiv.org/abs/1604.07379)
+[Context Encoders: Feature Learning by Inpainting (2016)](https://arxiv.org/abs/1604.07379)
 
 <img src="http://people.eecs.berkeley.edu/~pathak/context_encoder/resources/result_fig.jpg" width="400">
 
