@@ -279,11 +279,6 @@ the realism of synthetic images using unlabeled real data
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/123.png" width="300">
 
-
-[Learning a Probabilistic Latent Space of Object Shapes  via 3D Generative-Adversarial Modeling (2017)](http://3dgan.csail.mit.edu/)[[github]](https://github.com/zck119/3dgan-release) [Torch 7]
-
-<img src="http://3dgan.csail.mit.edu/images/model.jpg" width="300">
-
 [Improved Adversarial Systems for 3D Object Generation and Reconstruction (2017)](https://arxiv.org/abs/1707.09557)
 
 
@@ -300,6 +295,27 @@ the realism of synthetic images using unlabeled real data
 ## Reconstruction-based Approaches
 
 *Description: using the data reconstruction as an auxiliary task to ensure feature invariance*
+
+## 3D Shape and Reconstruction
+
+[Learning a Probabilistic Latent Space of Object Shapes  via 3D Generative-Adversarial Modeling (2017)](http://3dgan.csail.mit.edu/)[[github]](https://github.com/zck119/3dgan-release) [Torch 7]
+
+<img src="http://3dgan.csail.mit.edu/images/model.jpg" width="300">
+
+
+[Learning to Reconstruct Shapes from Unseen Classes (2018)](http://genre.csail.mit.edu/papers/genre_nips.pdf) [[github]](https://github.com/xiumingzhang/GenRe-ShapeHD)
+
+<img src="http://genre.csail.mit.edu/images/nonrigid.jpg" width="300">
+
+[Learning Shape Priors for Single-View 3D Completion and Reconstruction (2018)](http://shapehd.csail.mit.edu/papers/shapehd_eccv.pdf)
+
+<img src="http://shapehd.csail.mit.edu/images/model.jpg" width="350">
+
+[MarrNet: 3D Shape Reconstruction via 2.5D Sketches (2018)](http://marrnet.csail.mit.edu/papers/marrnet_nips.pdf)
+
+<img src="http://marrnet.csail.mit.edu/images/model.jpg" width="400">
+
+
 
 ## Others
 
