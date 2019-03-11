@@ -7,9 +7,9 @@
 [Visualization](#visualization)  
 [Data Augmentation](#data-augmentation)  
 [Domain Adaptation and Transfer Learning](#domain-adaptation-and-transfer-learning) 
-  [Surveys](#surveys)
-  [Discrepancy-based Approaches](#discrepancy-based-approaches)
-  [Adversarial-based Approaches](#adversarial-based-approaches) 
+  - [Surveys](#surveys)
+  - [Discrepancy-based Approaches](#discrepancy-based-approaches)
+  - [Adversarial-based Approaches](#adversarial-based-approaches) 
   
 
 # Domain Adaptation and Transfer Learning
