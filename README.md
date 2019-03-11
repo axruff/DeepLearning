@@ -326,7 +326,7 @@ https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolu
 
 [Context Encoders: Feature Learning by Inpainting (2016)](https://arxiv.org/abs/1604.07379)
 
-<img src="http://people.eecs.berkeley.edu/~pathak/context_encoder/resources/result_fig.jpg" width="400">
+<img src="https://i.pinimg.com/564x/57/be/d5/57bed585ea990b858314f919db5fc522.jpg" width="400">
 
 DeepTextures
 http://bethgelab.org/deeptextures/
