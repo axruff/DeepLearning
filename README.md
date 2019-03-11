@@ -3,10 +3,17 @@
 
 ##### Table of Contents  
 [Neural Networks](#neural-networks)  
-[Optimization and Regularisation](#optimization-and-regularisationhasis)  
+[Optimization and Regularisation](#optimization-and-regularisation)  
+[Visualization](#visualization)  
+[Data Augmentation](#data-augmentation)  
+[Domain Adaptation and Transfer Learning](#domain-adaptation-and-transfer-learning) 
+  [Surveys](#surveys)
+  [Discrepancy-based Approaches](#discrepancy-based-approaches)
+  [Adversarial-based Approaches](#adversarial-based-approaches) 
+  
 
+# Domain Adaptation and Transfer Learning
 
-## Headers
 
 Notations
 
