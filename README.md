@@ -323,10 +323,14 @@ Texture Synthesis Using Convolutional Neural Networks
 Implementation
 https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/
 
-
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TODO
 [Context Encoders: Feature Learning by Inpainting (2016)](https://arxiv.org/abs/1604.07379)
 
 <img src="https://i.pinimg.com/564x/57/be/d5/57bed585ea990b858314f919db5fc522.jpg" width="400">
+
+[Compositional GAN: Learning Conditional Image Composition (2018)](https://arxiv.org/abs/1807.07560)
+
+<img src="http://pbs.twimg.com/media/Di7lWdWXoAAhd6B.jpg" width="400">
 
 DeepTextures
 http://bethgelab.org/deeptextures/
