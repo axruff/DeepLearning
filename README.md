@@ -12,9 +12,6 @@
   - [Adversarial-based Approaches](#adversarial-based-approaches) 
   
 
-# Domain Adaptation and Transfer Learning
-
-
 Notations
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Read and worked
