@@ -315,6 +315,10 @@ the realism of synthetic images using unlabeled real data
 
 <img src="http://marrnet.csail.mit.edu/images/model.jpg" width="400">
 
+[Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling (2018)](https://arxiv.org/abs/1804.04610) [[github]](https://github.com/xingyuansun/pix3d)
+
+<img src="https://camo.githubusercontent.com/661bb925e809245ab8ed76460ee4728b5e296e2a/687474703a2f2f70697833642e637361696c2e6d69742e6564752f696d616765732f73706f746c696768745f70697833642e6a7067" width="350">
+
 
 
 ## Others
