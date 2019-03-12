@@ -322,8 +322,7 @@ Playing for Data: Ground Truth from Computer Games
 <img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
 
 
-Texture Synthesis Using Convolutional Neural Networks
-[[link]](https://arxiv.org/abs/1505.07376)
+[Texture Synthesis Using Convolutional Neural Networks (2015)](https://arxiv.org/abs/1505.07376) [[github]](https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/)
 
 <img src="https://dmitryulyanov.github.io/assets/online-neural-doodle/textures.png" width="300">
 
