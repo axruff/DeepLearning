@@ -489,4 +489,8 @@ https://arxiv.org/abs/1703.10025
 Deep Feature Flow for Video Recognition
 https://arxiv.org/abs/1611.07715
 
+# Applications: Photography
 
+[Photo-realistic single image super-resolution using a generative adversarial network (2016)](https://arxiv.org/abs/1609.04802)[[github]](https://github.com/tensorlayer/srgan)
+
+<img src="https://vitalab.github.io/deep-learning/images/srgan-super-resolution/figure2.png" width="350">
