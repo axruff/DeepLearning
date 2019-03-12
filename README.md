@@ -313,11 +313,12 @@ the realism of synthetic images using unlabeled real data
 
 <img src="http://3dgan.csail.mit.edu/images/model.jpg" width="300">
 
-
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [Learning to Reconstruct Shapes from Unseen Classes (2018)](http://genre.csail.mit.edu/papers/genre_nips.pdf) [[github]](https://github.com/xiumingzhang/GenRe-ShapeHD)
 
 <img src="http://genre.csail.mit.edu/images/nonrigid.jpg" width="300">
 
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [Learning Shape Priors for Single-View 3D Completion and Reconstruction (2018)](http://shapehd.csail.mit.edu/papers/shapehd_eccv.pdf)
 
 <img src="http://shapehd.csail.mit.edu/images/model.jpg" width="350">
@@ -326,6 +327,7 @@ the realism of synthetic images using unlabeled real data
 
 <img src="http://marrnet.csail.mit.edu/images/model.jpg" width="400">
 
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling (2018)](https://arxiv.org/abs/1804.04610) [[github]](https://github.com/xingyuansun/pix3d)
 
 <img src="https://camo.githubusercontent.com/661bb925e809245ab8ed76460ee4728b5e296e2a/687474703a2f2f70697833642e637361696c2e6d69742e6564752f696d616765732f73706f746c696768745f70697833642e6a7067" width="350">
