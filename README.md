@@ -331,7 +331,7 @@ Implementation
 https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TODO
-[Context Encoders: Feature Learning by Inpainting (2016)](https://arxiv.org/abs/1604.07379)
+[Context Encoders: Feature Learning by Inpainting (2016)](https://arxiv.org/abs/1604.07379) [[github]](https://github.com/pathak22/context-encoder)
 
 <img src="https://i.pinimg.com/564x/57/be/d5/57bed585ea990b858314f919db5fc522.jpg" width="400">
 
