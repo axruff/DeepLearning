@@ -297,6 +297,7 @@ the realism of synthetic images using unlabeled real data
 
 <img src="https://junyanz.github.io/BicycleGAN/index_files/teaser.jpg" width="400"> 
 
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [**[CycleGAN]** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017)](https://arxiv.org/abs/1703.10593)
 
 <img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg" width="400">
@@ -359,8 +360,7 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://www.researchgate.net/profile/Takeru_Miyato/publication/316098571/figure/fig2/AS:667791753498635@1536225369918/Demonstration-of-how-our-VAT-works-on-semi-supervised-learning-We-generated-8-labeled.png" width="300">
 
-**[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks
-[[link]](https://arxiv.org/abs/1611.07004)
+[**[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks (2016)](https://arxiv.org/abs/1611.07004)[[github]](https://phillipi.github.io/pix2pix/)
 
 <img src="https://phillipi.github.io/pix2pix/images/teaser_v3.jpg" width="300">
 
