@@ -13,8 +13,6 @@
     - [Generative Models](#generative-models) 
     - [Non-generative Models](#non-generative-models) 
   - [Reconstruction-based Approaches](#reconstruction-based-approaches)
-    
-    Reconstruction-based Approaches
 
 
 Notations
