@@ -9,8 +9,13 @@
 - [Domain Adaptation and Transfer Learning](#domain-adaptation-and-transfer-learning) 
   - [Surveys](#surveys)
   - [Discrepancy-based Approaches](#discrepancy-based-approaches)
-  - [Adversarial-based Approaches](#adversarial-based-approaches) 
-  
+  - [Adversarial-based Approaches](#adversarial-based-approaches)
+    - [Generative Models](#generative-models) 
+    - [Non-generative Models](#non-generative-models) 
+  - [Reconstruction-based Approaches](#reconstruction-based-approaches)
+    
+    Reconstruction-based Approaches
+
 
 Notations
 
