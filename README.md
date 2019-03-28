@@ -17,8 +17,11 @@
 - [Reinforcement Learning](#reinforcement-learning)
 - [Datasets](#datasets)
 - [Applications](#applications)
-  - [Applications](#applications)
-  
+  - [Applications: Medical Imaging](#applications-medical-imaging)
+  - [Applications: X-ray Imaging](#applications-x-ray-imaging)
+  - [Applications: Video and Motion](#applications-video-and-motion)
+  - [Applications: Photography](#applications-photography)
+- [Software](#software)  
 
 
 Notations
