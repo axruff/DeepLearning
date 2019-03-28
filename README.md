@@ -204,7 +204,7 @@ Using **soft labels** rather than hard labels can preserve the relationships bet
 Humans can identify unseen classes given only a high-level description. For instance, when provided the description ”tall brown
 animals with long necks”, we are able to recognize giraffes. To imitate the ability of humans, [64] introduced high-level **semantic attributes** per class.
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
 [Fine-grained recognition in the wild: A multi-task domain adaptation approach (2017)](https://arxiv.org/abs/1709.02476) [soft labels, semantic attributes]
 
 [Deep transfer metric learning (2015)](https://ieeexplore.ieee.org/document/7298629)
@@ -227,7 +227,7 @@ target data, more work focuses on learning **domain-invariant representations** 
 
 **Maximum mean discrepancy** (MMD) is an effective metric for comparing the distributions between two datasets by a kernel two-sample test [3].
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
 [**[DDC]** Deep domain confusion: Maximizing for domain invariance (2014)](https://arxiv.org/abs/1412.3474)
 
 <img src="https://www.groundai.com/media/arxiv_projects/85020/x1.png.750x0_q75_crop.png" width="300">
