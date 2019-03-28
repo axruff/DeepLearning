@@ -14,7 +14,10 @@
     - [Non-generative Models](#non-generative-models) 
   - [Reconstruction-based Approaches](#reconstruction-based-approaches)
 - [Anomaly Detection](#anomaly-detection)   
-- [Reinforcement Learning](#reinforcement-learning)  
+- [Reinforcement Learning](#reinforcement-learning)
+- [Datasets](#datasets)
+- [Applications](#applications)
+  - [Applications](#applications)
   
 
 
@@ -372,6 +375,9 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 # Anomaly Detection
 
+Anomaly Detection: A Survey
+https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
+
 [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (2017)](https://arxiv.org/abs/1703.05921v1)
 
 # Reinforcement Learning
@@ -429,9 +435,6 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 # Applications
 
-Anomaly Detection: A Survey
-https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
-
 Material Recognition in the Wild with the Materials in Context Database
 http://opensurfaces.cs.cornell.edu/publications/minc/
 
@@ -443,12 +446,7 @@ https://ge.in.tum.de/publications/tempogan/
 [BubGAN: Bubble Generative Adversarial Networks for Synthesizing Realistic Bubbly Flow Images](https://arxiv.org/abs/1809.02266)
 <img src="https://i.pinimg.com/564x/61/64/cb/6164cbe1104d7c38f06307c74da5c14e.jpg" width="400">
 
-# Software
-
-Caffe: Convolutional Architecture for Fast Feature Embedding
-https://arxiv.org/abs/1408.5093
-
-# Applications: Medical
+# Applications: Medical Imaging
 
 Generative adversarial networks for specular highlight removal in endoscopic images
 https://doi.org/10.1117/12.2293755
@@ -460,7 +458,7 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 *In synchrotron-based XRT, CNN-based processing improves the SNR in the data by an order of magnitude, which enables low-dose fast acquisition of radiation-sensitive samples*
 
-# Video / Motion
+# Applications: Video and Motion
 
 Flow-Guided Feature Aggregation for Video Object Detection
 https://arxiv.org/abs/1703.10025
@@ -473,3 +471,8 @@ https://arxiv.org/abs/1611.07715
 [Photo-realistic single image super-resolution using a generative adversarial network (2016)](https://arxiv.org/abs/1609.04802)[[github]](https://github.com/tensorlayer/srgan)
 
 <img src="https://vitalab.github.io/deep-learning/images/srgan-super-resolution/figure2.png" width="350">
+
+# Software
+
+Caffe: Convolutional Architecture for Fast Feature Embedding
+https://arxiv.org/abs/1408.5093
