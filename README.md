@@ -26,7 +26,6 @@
   - [Applications: Video and Motion](#applications-video-and-motion)
   - [Applications: Inpainting](#inpainting)
   - [Applications: Photography](#applications-photography)
-  
 - [Software](#software)  
 
 
