@@ -250,6 +250,9 @@ in marginal distributions across domains by adding multiple adaptation layers an
 
 <img src="https://vision.in.tum.de/_media/spezial/bib/haeusser_iccv_17.png" width="400">
 
+[Return of frustratingly easy domain adaptation (2015)](https://arxiv.org/abs/1511.05547)
+
+
 #### Architectural Criterion
 
 [Deeper, broader and artier domain generalization (2017)](https://arxiv.org/abs/1710.03077)
@@ -270,6 +273,10 @@ in marginal distributions across domains by adding multiple adaptation layers an
 [**[DANN]** Domain-Adversarial Training of Neural Networks (2015)](https://arxiv.org/abs/1505.07818) [github](https://github.com/fungtion/DANN)
 
 <img src="https://camo.githubusercontent.com/5201a6af692fe44c22cc2dfda8e9db02fb0e0ffc/68747470733a2f2f73312e617831782e636f6d2f323031382f30312f31322f70384b5479442e6d642e6a7067" width="350">
+
+
+[Improved techniques for training GANs (2016)](https://arxiv.org/abs/1606.03498) [github](https://github.com/openai/improved-gan)
+
 
 [Domain Separation Networks (2016)](https://arxiv.org/abs/1608.06019)
 
