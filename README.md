@@ -336,13 +336,6 @@ Playing for Data: Ground Truth from Computer Games
 <img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
 
 
-[Texture Synthesis Using Convolutional Neural Networks (2015)](https://arxiv.org/abs/1505.07376) [[github]](https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/)
-
-<img src="https://dmitryulyanov.github.io/assets/online-neural-doodle/textures.png" width="300">
-
-Implementation
-https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/
-
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TODO
 [Context Encoders: Feature Learning by Inpainting (2016)](https://arxiv.org/abs/1604.07379) [[github]](https://github.com/pathak22/context-encoder)
 
@@ -385,6 +378,10 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 
 # Texture Synthesis
+
+[Texture Synthesis Using Convolutional Neural Networks (2015)](https://arxiv.org/abs/1505.07376) [[github]](https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/)
+
+<img src="https://dmitryulyanov.github.io/assets/online-neural-doodle/textures.png" width="300">
 
 DeepTextures
 http://bethgelab.org/deeptextures/
