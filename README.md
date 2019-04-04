@@ -496,6 +496,8 @@ Generative adversarial networks for specular highlight removal in endoscopic ima
 https://doi.org/10.1117/12.2293755
 <img src="https://github.com/axruff/ML_papers/raw/master/images/1902.png" width="600">
 
+[Deep learning with domain adaptation for accelerated projection‐reconstruction MR (2017)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.27106)
+
 # Applications: X-ray Imaging
 Low-dose X-ray tomography through a deep convolutional neural network
 https://www.nature.com/articles/s41598-018-19426-7
