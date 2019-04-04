@@ -474,6 +474,10 @@ https://ge.in.tum.de/publications/tempogan/
 [BubGAN: Bubble Generative Adversarial Networks for Synthesizing Realistic Bubbly Flow Images](https://arxiv.org/abs/1809.02266)
 <img src="https://i.pinimg.com/564x/61/64/cb/6164cbe1104d7c38f06307c74da5c14e.jpg" width="400">
 
+[Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping (2018)](https://ieeexplore.ieee.org/abstract/document/8460875)
+
+<img src="https://www.alexirpan.com/public/sim2realgrasping/image-comparison.png" width="350">
+
 # Applications: Medical Imaging
 
 Generative adversarial networks for specular highlight removal in endoscopic images
