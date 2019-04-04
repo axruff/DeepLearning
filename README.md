@@ -541,6 +541,9 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://user-images.githubusercontent.com/22609465/35364552-6e9dfab0-0135-11e8-8bc1-5f370a9f4b0a.png" width="350">
 
+[Free-Form Image Inpainting with Gated Convolution (2018)](https://arxiv.org/abs/1806.03589)
+
+<img src="https://user-images.githubusercontent.com/22609465/41198673-1aac4f2e-6c38-11e8-9f75-6bac82b94265.jpg" width="350">
 
 # Applications: Photography
 
