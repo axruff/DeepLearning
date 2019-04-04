@@ -386,6 +386,11 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://research.nvidia.com/sites/default/files/publications/cvpr-fig1_down4.png" width="350">
 
+
+[Learning to Segment via Cut-and-Paste (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tal_Remez_Learning_to_Segment_ECCV_2018_paper.pdf)
+
+<img src="https://cdn-images-1.medium.com/max/1600/0*b4CBigBlK_LyGU16" width="350">
+
 # Style Transfer
 
 [Image Style Transfer Using Convolutional Neural Networks (2016)](https://ieeexplore.ieee.org/document/7780634)
