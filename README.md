@@ -14,6 +14,7 @@
     - [Generative Models](#generative-models) 
     - [Non-generative Models](#non-generative-models) 
   - [Reconstruction-based Approaches](#reconstruction-based-approaches)
+  - [Synthetic Data](#synthetic-data)
   - [Style Transfer](#style-transfer) 
   - [Texture Synthesis](#texture-synthesis) 
 - [Anomaly Detection](#anomaly-detection)   
@@ -335,17 +336,8 @@ GAN Zoo
 <img src="https://github.com/hindupuravinash/the-gan-zoo/raw/master/The_GAN_Zoo.jpg" width="250">
 
 
-Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
-[[link]](https://arxiv.org/abs/1804.06516)
-
 Self-ensembling for visual domain adaptation
 [[link]](https://arxiv.org/abs/1706.05208)
-
-Playing for Data: Ground Truth from Computer Games
-[[link]](https://arxiv.org/abs/1608.02192)
-
-<img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
-
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TODO
 [Context Encoders: Feature Learning by Inpainting (2016)](https://arxiv.org/abs/1604.07379) [[github]](https://github.com/pathak22/context-encoder)
@@ -366,9 +358,22 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://www.researchgate.net/profile/Takeru_Miyato/publication/316098571/figure/fig2/AS:667791753498635@1536225369918/Demonstration-of-how-our-VAT-works-on-semi-supervised-learning-We-generated-8-labeled.png" width="300">
 
-[**[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks (2016)](https://arxiv.org/abs/1611.07004)[[github]](https://phillipi.github.io/pix2pix/)
 
 <img src="https://phillipi.github.io/pix2pix/images/teaser_v3.jpg" width="300">
+
+# Synthetic Data
+
+Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
+[[link]](https://arxiv.org/abs/1804.06516)
+
+Playing for Data: Ground Truth from Computer Games
+[[link]](https://arxiv.org/abs/1608.02192)
+
+<img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
+
+[On Pre-Trained Image Features and Synthetic Images for Deep Learning (2017)](https://arxiv.org/abs/1710.10710)
+
+<img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-11009-3_42/MediaObjects/478770_1_En_42_Fig3_HTML.png" width="350">
 
 # Style Transfer
 
@@ -387,6 +392,7 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg" width="400">
 
+[**[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks (2016)](https://arxiv.org/abs/1611.07004)[[github]](https://phillipi.github.io/pix2pix/)
 
 
 # Texture Synthesis
