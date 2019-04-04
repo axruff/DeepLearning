@@ -270,9 +270,8 @@ in marginal distributions across domains by adding multiple adaptation layers an
 <img src="https://i.pinimg.com/564x/de/50/fa/de50fac81074e16ca78114f78a379246.jpg" width="350">
 
 
-
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-[Unsupervised pixel-level domain adaptation with generative adversarial networks (2016)](https://arxiv.org/abs/1612.05424) 
+[**[PixelDA]** Unsupervised pixel-level domain adaptation with generative adversarial networks (2016)](https://arxiv.org/abs/1612.05424) 
 
 ***[Needs a lot of target images to successfully learn the generator]***
 
@@ -287,7 +286,7 @@ without correspondence supervision. A trained CoGAN can adapt the input noise ve
 two distributions and share the labels. Therefore, the shared labels of synthetic target samples can be used to train the target
 model.
 
-[Coupled generative adversarial networks (2016)](https://arxiv.org/abs/1606.07536)
+[**[CoGAN]** Coupled generative adversarial networks (2016)](https://arxiv.org/abs/1606.07536)
 
 [Pixel-level domain transfer (2016)](https://arxiv.org/pdf/1603.07442.pdf) [[github]](https://github.com/fxia22/PixelDTGAN)
 
@@ -309,10 +308,6 @@ the realism of synthetic images using unlabeled real data
 
 <img src="https://junyanz.github.io/BicycleGAN/index_files/teaser.jpg" width="400"> 
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[**[CycleGAN]** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017)](https://arxiv.org/abs/1703.10593)
-
-<img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg" width="400">
 
 ### Non-generative Models
 
@@ -322,6 +317,12 @@ the realism of synthetic images using unlabeled real data
 
 
 ## Others
+
+GAN Zoo
+[[link]](https://github.com/hindupuravinash/the-gan-zoo)
+
+<img src="https://github.com/hindupuravinash/the-gan-zoo/raw/master/The_GAN_Zoo.jpg" width="250">
+
 
 Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
 [[link]](https://arxiv.org/abs/1804.06516)
@@ -351,17 +352,6 @@ https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolu
 
 <img src="http://pbs.twimg.com/media/Di7lWdWXoAAhd6B.jpg" width="400">
 
-DeepTextures
-http://bethgelab.org/deeptextures/
-
-Textures database
-https://www.textures.com/index.php
-
-GAN Zoo
-[[link]](https://github.com/hindupuravinash/the-gan-zoo)
-
-<img src="https://github.com/hindupuravinash/the-gan-zoo/raw/master/The_GAN_Zoo.jpg" width="250">
-
 GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
 [[link]](https://arxiv.org/abs/1811.10597v)
 Interactive tool:
@@ -375,6 +365,32 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 [**[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks (2016)](https://arxiv.org/abs/1611.07004)[[github]](https://phillipi.github.io/pix2pix/)
 
 <img src="https://phillipi.github.io/pix2pix/images/teaser_v3.jpg" width="300">
+
+# Style Transfer
+
+[Image Style Transfer Using Convolutional Neural Networks (2016)](https://ieeexplore.ieee.org/document/7780634)
+
+<imf src="https://i-h1.pinimg.com/564x/8a/e4/97/8ae497d18a7c409c2da67833d5586461.jpg" width="250">
+  
+[Perceptual losses for real-time style transfer and super-resolution (2016)](https://arxiv.org/abs/1603.08155?context=cs) [github](https://github.com/jcjohnson/fast-neural-style)
+
+<img src="https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/RTNS.png" width="350">
+
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[**[CycleGAN]** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017)](https://arxiv.org/abs/1703.10593)
+
+<img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg" width="400">
+
+
+
+# Texture Synthesis
+
+DeepTextures
+http://bethgelab.org/deeptextures/
+
+Textures database
+https://www.textures.com/index.php
 
 # Anomaly Detection
 
