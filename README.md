@@ -262,6 +262,7 @@ in marginal distributions across domains by adding multiple adaptation layers an
 ### Generative Models
 
 [Domain Separation Networks (2016)](https://arxiv.org/abs/1608.06019)
+
 <img src="https://i.pinimg.com/564x/de/50/fa/de50fac81074e16ca78114f78a379246.jpg" width="350">
 
 
