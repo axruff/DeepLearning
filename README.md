@@ -13,6 +13,8 @@
     - [Generative Models](#generative-models) 
     - [Non-generative Models](#non-generative-models) 
   - [Reconstruction-based Approaches](#reconstruction-based-approaches)
+- [Style Transfer](#style-transfer) 
+- [Texture Synthesis](#texture-synthesis) 
 - [Anomaly Detection](#anomaly-detection)   
 - [Reinforcement Learning](#reinforcement-learning)
 - [Datasets](#datasets)
@@ -261,6 +263,7 @@ in marginal distributions across domains by adding multiple adaptation layers an
 
 ### Generative Models
 
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [**[DANN]** Domain-Adversarial Training of Neural Networks (2015)](https://arxiv.org/abs/1505.07818) [github](https://github.com/fungtion/DANN)
 
 <img src="https://camo.githubusercontent.com/5201a6af692fe44c22cc2dfda8e9db02fb0e0ffc/68747470733a2f2f73312e617831782e636f6d2f323031382f30312f31322f70384b5479442e6d642e6a7067" width="350">
@@ -364,7 +367,8 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 [Image Style Transfer Using Convolutional Neural Networks (2016)](https://ieeexplore.ieee.org/document/7780634)
 
 <imf src="https://i-h1.pinimg.com/564x/8a/e4/97/8ae497d18a7c409c2da67833d5586461.jpg" width="250">
-  
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [Perceptual losses for real-time style transfer and super-resolution (2016)](https://arxiv.org/abs/1603.08155?context=cs) [github](https://github.com/jcjohnson/fast-neural-style)
 
 <img src="https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/RTNS.png" width="350">
