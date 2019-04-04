@@ -391,7 +391,7 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 <imf src="https://i-h1.pinimg.com/564x/8a/e4/97/8ae497d18a7c409c2da67833d5586461.jpg" width="250">
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Perceptual losses for real-time style transfer and super-resolution (2016)](https://arxiv.org/abs/1603.08155?context=cs) [github](https://github.com/jcjohnson/fast-neural-style)
+[Perceptual losses for real-time style transfer and super-resolution (2016)](https://arxiv.org/abs/1603.08155?context=cs) [[github]](https://github.com/jcjohnson/fast-neural-style)
 
 <img src="https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/RTNS.png" width="350">
 
@@ -403,7 +403,7 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 [**[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks (2016)](https://arxiv.org/abs/1611.07004)[[github]](https://phillipi.github.io/pix2pix/)
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Diverse Image-to-Image Translation via Disentangled Representations (2018)](https://arxiv.org/abs/1808.00948)[github](https://github.com/HsinYingLee/DRIT)
+[**[DRIT]** Diverse Image-to-Image Translation via Disentangled Representations (2018)](https://arxiv.org/abs/1808.00948)[[github]](https://github.com/HsinYingLee/DRIT)
 
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01246-5_3/MediaObjects/474172_1_En_3_Fig3_HTML.gif" width="350">
 
