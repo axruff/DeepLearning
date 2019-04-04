@@ -262,7 +262,9 @@ in marginal distributions across domains by adding multiple adaptation layers an
 ### Generative Models
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-[Unsupervised pixel-level domain adaptation with generative adversarial networks (2016)](https://arxiv.org/abs/1612.05424) ***[Needs a lot of target images to successfully learn the generator]***
+[Unsupervised pixel-level domain adaptation with generative adversarial networks (2016)](https://arxiv.org/abs/1612.05424) 
+
+***[Needs a lot of target images to successfully learn the generator]***
 
 <img src="https://i.pinimg.com/564x/f8/52/1e/f8521e45415762465e5e01452a963a31.jpg" width="400">
 
