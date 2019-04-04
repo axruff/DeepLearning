@@ -1,11 +1,12 @@
 # Machine Learning papers
 
 
-##### Table of Contents  
-- [Neural Networks](#neural-networks)  
-- [Optimization and Regularisation](#optimization-and-regularisation)  
-- [Visualization](#visualization)  
-- [Data Augmentation](#data-augmentation)  
+##### Table of Contents
+- [Neural Networks](#neural-networks)
+  - [Models](#models)  
+  - [Optimization and Regularisation](#optimization-and-regularisation)  
+  - [Visualization](#visualization)  
+  - [Data Augmentation](#data-augmentation)  
 - [Domain Adaptation and Transfer Learning](#domain-adaptation-and-transfer-learning) 
   - [Surveys](#surveys)
   - [Discrepancy-based Approaches](#discrepancy-based-approaches)
@@ -13,8 +14,8 @@
     - [Generative Models](#generative-models) 
     - [Non-generative Models](#non-generative-models) 
   - [Reconstruction-based Approaches](#reconstruction-based-approaches)
-- [Style Transfer](#style-transfer) 
-- [Texture Synthesis](#texture-synthesis) 
+  - [Style Transfer](#style-transfer) 
+  - [Texture Synthesis](#texture-synthesis) 
 - [Anomaly Detection](#anomaly-detection)   
 - [Reinforcement Learning](#reinforcement-learning)
 - [Datasets](#datasets)
@@ -34,6 +35,8 @@ Notations
 
 
 # Neural Networks
+
+## Models
 
 [Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/document/726791)
 
@@ -98,7 +101,7 @@ Notations
 <img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
 
 
-# Optimization and Regularisation
+## Optimization and Regularisation
 
 Random search for hyper-parameter optimisation
 http://www.jmlr.org/papers/v13/bergstra12a.html
@@ -129,7 +132,7 @@ https://arxiv.org/abs/1806.09055
 https://arxiv.org/abs/1812.01187v1
 
 
-# Visualization
+## Visualization
 
 Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/abs/1712.09913
@@ -144,7 +147,7 @@ https://gandissect.csail.mit.edu/
 
 
 
-# Data Augmentation
+## Data Augmentation
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
 https://arxiv.org/abs/1406.6909
