@@ -268,6 +268,8 @@ in marginal distributions across domains by adding multiple adaptation layers an
 
 ### Generative Models
 
+[Generative Adversarial Networks (2014)](https://arxiv.org/abs/1406.2661)
+
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [**[DANN]** Domain-Adversarial Training of Neural Networks (2015)](https://arxiv.org/abs/1505.07818) [github](https://github.com/fungtion/DANN)
 
