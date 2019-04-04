@@ -24,7 +24,7 @@
   - [Applications: Medical Imaging](#applications-medical-imaging)
   - [Applications: X-ray Imaging](#applications-x-ray-imaging)
   - [Applications: Video and Motion](#applications-video-and-motion)
-  - [Applications: Inpainting](#inpainting)
+  - [Applications: Inpainting](#applications-inpainting)
   - [Applications: Photography](#applications-photography)
 - [Software](#software)  
 
