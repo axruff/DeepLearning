@@ -320,6 +320,8 @@ the realism of synthetic images using unlabeled real data
 
 <img src="https://junyanz.github.io/BicycleGAN/index_files/teaser.jpg" width="400"> 
 
+[From Source to Target and Back: Symmetric Bi-Directional Adaptive GAN (2018)](http://openaccess.thecvf.com/content_cvpr_2018/html/Russo_From_Source_to_CVPR_2018_paper.html)
+
 
 ### Non-generative Models
 
@@ -358,8 +360,9 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://www.researchgate.net/profile/Takeru_Miyato/publication/316098571/figure/fig2/AS:667791753498635@1536225369918/Demonstration-of-how-our-VAT-works-on-semi-supervised-learning-We-generated-8-labeled.png" width="300">
 
-
 <img src="https://phillipi.github.io/pix2pix/images/teaser_v3.jpg" width="300">
+
+[Pros and Cons of GAN Evaluation Measures (2018)](https://arxiv.org/abs/1802.03446)
 
 # Synthetic Data
 
@@ -393,12 +396,16 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 <img src="https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/RTNS.png" width="350">
 
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [**[CycleGAN]** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017)](https://arxiv.org/abs/1703.10593)
 
 <img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg" width="400">
 
 [**[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks (2016)](https://arxiv.org/abs/1611.07004)[[github]](https://phillipi.github.io/pix2pix/)
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[Diverse Image-to-Image Translation via Disentangled Representations (2018)](https://arxiv.org/abs/1808.00948)[github](https://github.com/HsinYingLee/DRIT)
+
+<img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01246-5_3/MediaObjects/474172_1_En_3_Fig3_HTML.gif" width="350">
 
 
 # Texture Synthesis
