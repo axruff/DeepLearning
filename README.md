@@ -367,13 +367,19 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
 
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [On Pre-Trained Image Features and Synthetic Images for Deep Learning (2017)](https://arxiv.org/abs/1710.10710)
 
 <img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-11009-3_42/MediaObjects/478770_1_En_42_Fig3_HTML.png" width="350">
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization (2018)](https://arxiv.org/abs/1804.06516)
+[Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World (2017)](https://arxiv.org/abs/1703.06907)
 
+<img src="https://i.pinimg.com/564x/99/e9/65/99e9657382ef1e94e2acb958c7c1cf6c.jpg" width="350">
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization (2017)](https://arxiv.org/abs/1804.06516)
+
+<img src="https://research.nvidia.com/sites/default/files/publications/cvpr-fig1_down4.png" width="350">
 
 # Style Transfer
 
