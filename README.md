@@ -261,6 +261,11 @@ in marginal distributions across domains by adding multiple adaptation layers an
 
 ### Generative Models
 
+[Domain Separation Networks (2016)](https://arxiv.org/abs/1608.06019)
+<img src="https://i.pinimg.com/564x/de/50/fa/de50fac81074e16ca78114f78a379246.jpg" width="350">
+
+
+
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
 [Unsupervised pixel-level domain adaptation with generative adversarial networks (2016)](https://arxiv.org/abs/1612.05424) 
 
