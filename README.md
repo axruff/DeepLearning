@@ -24,7 +24,9 @@
   - [Applications: Medical Imaging](#applications-medical-imaging)
   - [Applications: X-ray Imaging](#applications-x-ray-imaging)
   - [Applications: Video and Motion](#applications-video-and-motion)
+  - [Applications: Inpainting](#inpainting)
   - [Applications: Photography](#applications-photography)
+  
 - [Software](#software)  
 
 
@@ -525,6 +527,13 @@ https://arxiv.org/abs/1703.10025
 
 Deep Feature Flow for Video Recognition
 https://arxiv.org/abs/1611.07715
+
+# Applications: Inpainting
+
+[Image Inpainting for Irregular Holes Using Partial Convolutions (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf)[[github]](https://github.com/MathiasGruber/PConv-Keras)
+
+<img src="https://i.pinimg.com/564x/63/fa/a3/63faa338eba25225c7e84f1d3bad74d3.jpg" width="350">
+
 
 # Applications: Photography
 
