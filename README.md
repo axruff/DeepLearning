@@ -339,7 +339,7 @@ GAN Zoo
 Self-ensembling for visual domain adaptation
 [[link]](https://arxiv.org/abs/1706.05208)
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TODO
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [Context Encoders: Feature Learning by Inpainting (2016)](https://arxiv.org/abs/1604.07379) [[github]](https://github.com/pathak22/context-encoder)
 
 <img src="https://i.pinimg.com/564x/57/be/d5/57bed585ea990b858314f919db5fc522.jpg" width="400">
@@ -363,17 +363,17 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 # Synthetic Data
 
-Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization
-[[link]](https://arxiv.org/abs/1804.06516)
-
-Playing for Data: Ground Truth from Computer Games
-[[link]](https://arxiv.org/abs/1608.02192)
+[Playing for Data: Ground Truth from Computer Games ()](https://arxiv.org/abs/1608.02192)
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
 
 [On Pre-Trained Image Features and Synthetic Images for Deep Learning (2017)](https://arxiv.org/abs/1710.10710)
 
 <img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-11009-3_42/MediaObjects/478770_1_En_42_Fig3_HTML.png" width="350">
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization (2018)](https://arxiv.org/abs/1804.06516)
+
 
 # Style Transfer
 
