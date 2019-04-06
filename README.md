@@ -336,7 +336,7 @@ the realism of synthetic images using unlabeled real data
 [From Source to Target and Back: Symmetric Bi-Directional Adaptive GAN (2018)](http://openaccess.thecvf.com/content_cvpr_2018/html/Russo_From_Source_to_CVPR_2018_paper.html)
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[SRDA: Generating Instance Segmentation Annotation Via Scanning, Reasoning And Domain Adaptation (2018)](https://arxiv.org/abs/1801.08839) [***[Geometry-guided GAN]***]
+[SRDA: Generating Instance Segmentation Annotation Via Scanning, Reasoning And Domain Adaptation (2018)](https://arxiv.org/abs/1801.08839) ***[Geometry-guided GAN]***
 
 [How good is my GAN? (2018)](https://arxiv.org/abs/1807.09499)
 
