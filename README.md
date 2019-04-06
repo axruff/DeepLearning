@@ -26,6 +26,7 @@
   - [Applications: Video and Motion](#applications-video-and-motion)
   - [Applications: Inpainting](#applications-inpainting)
   - [Applications: Photography](#applications-photography)
+  - [Applications: Misc](#applications-misc)
 - [Software](#software)  
 
 
@@ -574,6 +575,12 @@ https://arxiv.org/abs/1611.07715
 [A Closed-form Solution to Photorealistic Image Stylization (2018)](https://arxiv.org/abs/1802.06474)[[github]](https://github.com/NVIDIA/FastPhotoStyle)
 
 <img src="http://i.gzn.jp/img/2018/02/21/nvidia-fastphotostyle/00.jpg" width="350">
+
+# Applications: Misc
+
+[**[pix2code]**: Generating Code from a Graphical User Interface Screenshot](https://arxiv.org/abs/1705.07962v2) [[github]](https://github.com/tonybeltramelli/pix2code)
+
+<img src="https://i.pinimg.com/564x/be/e6/30/bee6302aec1c80d81ba0d206b47222b9.jpg" width="350">
 
 # Software
 
