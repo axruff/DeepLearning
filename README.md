@@ -102,6 +102,8 @@ Notations
 
 <img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
 
+[CubeNet: Equivariance to 3D Rotation and Translation (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Worrall_CubeNet_Equivariance_to_ECCV_2018_paper.pdf)[[github]](https://github.com/deworrall92/cubenet), [*[video]*](https://www.youtube.com/watch?v=TlzRyHbWeP0&feature=youtu.be)
+
 
 ## Optimization and Regularisation
 
