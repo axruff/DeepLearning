@@ -432,7 +432,7 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01246-5_3/MediaObjects/474172_1_En_3_Fig3_HTML.gif" width="350">
 
-[A Style-Based Generator Architecture for Generative Adversarial Networks (2018)](A Style-Based Generator Architecture for Generative Adversarial Networks)[[github]](https://github.com/NVlabs/stylegan)
+[A Style-Based Generator Architecture for Generative Adversarial Networks (2018)](https://arxiv.org/abs/1812.04948)[[github]](https://github.com/NVlabs/stylegan)
 
 <img src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png" width="350">
 
