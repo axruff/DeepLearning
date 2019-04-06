@@ -338,6 +338,10 @@ the realism of synthetic images using unlabeled real data
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [SRDA: Generating Instance Segmentation Annotation Via Scanning, Reasoning And Domain Adaptation (2018)](https://arxiv.org/abs/1801.08839) [***[Geometry-guided GAN]***]
 
+[How good is my GAN? (2018)](https://arxiv.org/abs/1807.09499)
+
+<img src="http://thoth.inrialpes.fr/research/ganeval/images/fig1.png" width="350">
+
 
 ### Non-generative Models
 
