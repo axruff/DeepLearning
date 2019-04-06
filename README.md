@@ -104,6 +104,10 @@ Notations
 
 [CubeNet: Equivariance to 3D Rotation and Translation (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Worrall_CubeNet_Equivariance_to_ECCV_2018_paper.pdf)[[github]](https://github.com/deworrall92/cubenet), [*[video]*](https://www.youtube.com/watch?v=TlzRyHbWeP0&feature=youtu.be)
 
+[Deep Rotation Equivariant Network (2018)](https://arxiv.org/abs/1705.08623)[[github]](https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png)
+
+<img src="https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png" width="350">
+
 
 ## Optimization and Regularisation
 
