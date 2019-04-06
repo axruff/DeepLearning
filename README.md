@@ -551,6 +551,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://vitalab.github.io/deep-learning/images/srgan-super-resolution/figure2.png" width="350">
 
+[A Closed-form Solution to Photorealistic Image Stylization (2018)](https://arxiv.org/abs/1802.06474)[[github]](https://github.com/NVIDIA/FastPhotoStyle)
+
+<ing src="http://i.gzn.jp/img/2018/02/21/nvidia-fastphotostyle/00.jpg" width="350">
+
 # Software
 
 Caffe: Convolutional Architecture for Fast Feature Embedding
