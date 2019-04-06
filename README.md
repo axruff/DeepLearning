@@ -144,6 +144,8 @@ https://arxiv.org/abs/1806.09055
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **Bag of Tricks** for Image Classification with Convolutional Neural Networks
 https://arxiv.org/abs/1812.01187v1
 
+[**Tune**: A Research Platform for Distributed Model Selection and Training (2018)](https://arxiv.org/abs/1807.05118) [[github]](https://github.com/ray-project/ray/tree/master/python/ray/tune)
+
 
 ## Visualization
 
@@ -437,6 +439,10 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png" width="350">
 
+[Deep Painterly Harmonization (2018)](https://arxiv.org/abs/1804.03189v3) [[github]](https://github.com/luanfujun/deep-painterly-harmonization)
+
+<img src="https://i.pinimg.com/564x/f6/fa/74/f6fa740395c1b99ecee2b71f46b16751.jpg" width="350">
+
 # Texture Synthesis
 
 [Texture Synthesis Using Convolutional Neural Networks (2015)](https://arxiv.org/abs/1505.07376) [[github]](https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/)
@@ -548,6 +554,8 @@ https://arxiv.org/abs/1703.10025
 Deep Feature Flow for Video Recognition
 https://arxiv.org/abs/1611.07715
 
+[Video-to-Video Synthesis (2018)](https://arxiv.org/abs/1808.06601) [[github]](https://github.com/NVIDIA/vid2vid)
+
 # Applications: Inpainting
 
 [Image Inpainting for Irregular Holes Using Partial Convolutions (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf)[[github official]](https://github.com/NVIDIA/partialconv), [[github]](https://github.com/MathiasGruber/PConv-Keras)
@@ -584,5 +592,7 @@ https://arxiv.org/abs/1611.07715
 
 # Software
 
-Caffe: Convolutional Architecture for Fast Feature Embedding
-https://arxiv.org/abs/1408.5093
+[**Caffe**: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/abs/1408.5093)
+
+[**Tune**: A Research Platform for Distributed Model Selection and Training (2018)](https://arxiv.org/abs/1807.05118) [[github]](https://github.com/ray-project/ray/tree/master/python/ray/tune)
+
