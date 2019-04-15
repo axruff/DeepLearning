@@ -521,6 +521,8 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 [**[3D ShapeNets]**: A Deep Representation for Volumetric Shapes (2015)](https://ieeexplore.ieee.org/document/7298801)
 
+[**[BLEND SWAP]**: IS A COMMUNITY OF PASSIONATE BLENDER ARTISTS WHO SHARE THEIR WORK UNDER CREATIVE COMMONS LICENSES](https://www.blendswap.com/)
+
 # Applications
 
 Material Recognition in the Wild with the Materials in Context Database
