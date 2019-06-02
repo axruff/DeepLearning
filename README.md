@@ -80,6 +80,7 @@ Notations
 [**[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 
 [Pyramid Scene Parsing Network (2016)](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet)
+
 <img src="https://hszhao.github.io/projects/pspnet/figures/pspnet.png" width="400">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
