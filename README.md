@@ -92,8 +92,12 @@ Notations
 
 [Rethinking Atrous Convolution for Semantic Image Segmentation (2017)](https://arxiv.org/pdf/1706.05587.pdf)
 
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [**[EncNet]** Context Encoding for Semantic Segmentation (2018)](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZS4gdvv26N8N7dpr92pPoHmVP3RQ8ztddravjJlwHr1Sw5fCT" width="400">
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation (2019)](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation (2019)](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN)
