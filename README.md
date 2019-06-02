@@ -98,6 +98,7 @@ Notations
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation (2019)](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling)
+<img src="https://tonghe90.github.io/papers/cvpr2019_tz.png" width="400">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation (2019)](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN)
