@@ -92,7 +92,7 @@ Notations
 
 [Rethinking Atrous Convolution for Semantic Image Segmentation (2017)](https://arxiv.org/pdf/1706.05587.pdf)
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation (2019)](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN)
 
 <img src="http://wuhuikai.me/FastFCNProject/images/Framework.png" width="350">
