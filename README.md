@@ -85,6 +85,7 @@ Notations
 <img src="https://hszhao.github.io/projects/pspnet/figures/pspnet.png" width="400">
 
 [Feature Pyramid Networks for Object Detection (2017)](https://arxiv.org/abs/1612.03144)
+
 <img src="https://1.bp.blogspot.com/-Q0-o_ej8BDU/WTYnS568nPI/AAAAAAAAADQ/TTBczrPIQi8IvXZrjy3suRDBlo_p1pONQCLcB/s640/r1.png" width="400">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
