@@ -20,6 +20,7 @@
 - [Anomaly Detection](#anomaly-detection)   
 - [Reinforcement Learning](#reinforcement-learning)
 - [Datasets](#datasets)
+- [Benchmarks](#benchmarks)
 - [Applications](#applications)
   - [Applications: Medical Imaging](#applications-medical-imaging)
   - [Applications: X-ray Imaging](#applications-x-ray-imaging)
@@ -539,6 +540,14 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 [**[3D ShapeNets]**: A Deep Representation for Volumetric Shapes (2015)](https://ieeexplore.ieee.org/document/7298801)
 
 [**[BLEND SWAP]**: IS A COMMUNITY OF PASSIONATE BLENDER ARTISTS WHO SHARE THEIR WORK UNDER CREATIVE COMMONS LICENSES](https://www.blendswap.com/)
+
+# Benchmarks
+
+
+[MLPerf: A broad ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms.](https://mlperf.org/results/)
+
+
+
 
 # Applications
 
