@@ -638,3 +638,7 @@ https://arxiv.org/abs/1611.07715
 
 [**Tune**: A Research Platform for Distributed Model Selection and Training (2018)](https://arxiv.org/abs/1807.05118) [[github]](https://github.com/ray-project/ray/tree/master/python/ray/tune)
 
+[**Glow**: Compiler for Neural Network hardware accelerators](https://github.com/pytorch/glow)
+
+<img src="https://github.com/pytorch/glow/raw/master/docs/3LevelIR.png" width="400">
+
