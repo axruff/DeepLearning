@@ -186,6 +186,8 @@ https://gandissect.csail.mit.edu/
 
 [***[Netron ]*** Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
 
+<img src="https://raw.githubusercontent.com/lutzroeder/netron/master/media/screenshot.png" width="400">
+
 
 
 ## Data Augmentation
