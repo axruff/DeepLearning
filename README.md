@@ -184,6 +184,8 @@ https://arxiv.org/abs/1811.10597v1
 Interactive tool:
 https://gandissect.csail.mit.edu/
 
+[***[Netron ]*** Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
+
 
 
 ## Data Augmentation
