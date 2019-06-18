@@ -171,7 +171,7 @@ https://arxiv.org/abs/1812.01187v1
 [**Tune**: A Research Platform for Distributed Model Selection and Training (2018)](https://arxiv.org/abs/1807.05118) [[github]](https://github.com/ray-project/ray/tree/master/python/ray/tune)
 
 
-## Visualization
+## Visualization and Analysis
 
 Visualizing the Loss Landscape of Neural Nets
 https://arxiv.org/abs/1712.09913
@@ -187,6 +187,10 @@ https://gandissect.csail.mit.edu/
 [***[Netron ]*** Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
 
 <img src="https://raw.githubusercontent.com/lutzroeder/netron/master/media/screenshot.png" width="400">
+
+[Discovering Causal Signals in Images (2016)](https://arxiv.org/abs/1605.08179)
+
+<img src="https://2.bp.blogspot.com/-ZS7WHgo3f9U/XD26idxNEEI/AAAAAAAABl8/DipJ1Fm3ZK0C3tXhu03psC4nByTlID-sQCLcBGAs/s1600/Screen%2BShot%2B2019-01-15%2Bat%2B19.48.13.png" width="400">
 
 
 
