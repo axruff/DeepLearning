@@ -5,7 +5,7 @@
 - [Neural Networks](#neural-networks)
   - [Models](#models)  
   - [Optimization and Regularisation](#optimization-and-regularisation)  
-  - [Visualization](#visualization)  
+  - [Visualization](#visualization-and-analysis)  
   - [Data Augmentation](#data-augmentation)  
 - [Domain Adaptation and Transfer Learning](#domain-adaptation-and-transfer-learning) 
   - [Surveys](#surveys)
