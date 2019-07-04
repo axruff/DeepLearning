@@ -138,6 +138,10 @@ Notations
 <img src="https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png" width="350">
 
 
+[**[PacNet**]: Pixel-Adaptive Convolutional Neural Networks(2018)](https://arxiv.org/abs/1904.05373)
+
+<img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
+
 ## Optimization and Regularisation
 
 Random search for hyper-parameter optimisation
