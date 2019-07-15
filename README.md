@@ -606,6 +606,12 @@ https://arxiv.org/abs/1611.07715
 
 [Video-to-Video Synthesis (2018)](https://arxiv.org/abs/1808.06601) [[github]](https://github.com/NVIDIA/vid2vid)
 
+# Application: Denoising and Superresolution
+
+[Residual Dense Network for Image Restoration (2018)](https://arxiv.org/abs/1812.10477v1) [[github]](https://github.com/yulunzhang/RDN)
+
+<img src="https://i.pinimg.com/564x/12/7e/b4/127eb4dfbf482db1ba436ea960821fae.jpg" width="350" >
+
 # Applications: Inpainting
 
 [Image Inpainting for Irregular Holes Using Partial Convolutions (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf)[[github official]](https://github.com/NVIDIA/partialconv), [[github]](https://github.com/MathiasGruber/PConv-Keras)
