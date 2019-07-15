@@ -139,7 +139,7 @@ Notations
 <img src="https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png" width="350">
 
 
-[**[PacNet**]: Pixel-Adaptive Convolutional Neural Networks(2019)](https://arxiv.org/abs/1904.05373)
+[**[PacNet]**: Pixel-Adaptive Convolutional Neural Networks(2019)](https://arxiv.org/abs/1904.05373)
 
 <img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
 
@@ -189,7 +189,7 @@ https://arxiv.org/abs/1811.10597v1
 Interactive tool:
 https://gandissect.csail.mit.edu/
 
-[***[Netron ]*** Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
+[**[Netron ]** Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
 
 <img src="https://raw.githubusercontent.com/lutzroeder/netron/master/media/screenshot.png" width="400">
 
@@ -212,7 +212,7 @@ https://arxiv.org/abs/1809.06839
 Code
 https://github.com/albu/albumentations
 
-[**[UDA:]** Unsupervised Data Augmentation for Consistency Training (2019)](Unsupervised Data Augmentation for Consistency Training)[[github]](https://github.com/google-research/uda)
+[**[UDA]** Unsupervised Data Augmentation for Consistency Training (2019)](Unsupervised Data Augmentation for Consistency Training)[[github]](https://github.com/google-research/uda)
 
 [Random Erasing Data Augmentation (2017)](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
 
