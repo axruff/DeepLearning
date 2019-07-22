@@ -226,6 +226,9 @@ https://github.com/albu/albumentations
 
 <img src="https://github.com/zhunzhong07/Random-Erasing/raw/master/all_examples-page-001.jpg" width="350">
 
+[Data Augmentation by Pairing Samples for Images Classification (2018)](https://arxiv.org/abs/1801.02929)
+
+[Smart Augmentation - Learning an Optimal Data Augmentation Strategy (2017)](https://arxiv.org/abs/1703.08383)
 
 [Population Based Training of Neural Networks (2017)](https://arxiv.org/abs/1711.09846)
 
@@ -237,6 +240,7 @@ https://github.com/albu/albumentations
 [Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification (2018)](https://arxiv.org/abs/1801.02385)
 
 [GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks (2018)](https://arxiv.org/abs/1810.10863)
+
 
 
 
