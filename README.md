@@ -234,6 +234,8 @@ https://github.com/albu/albumentations
 
 [AutoAugment: Learning Augmentation Policies from Data (2018)](https://arxiv.org/abs/1805.09501)
 
+[Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification (2018)](https://arxiv.org/abs/1801.02385)
+
 # Domain Adaptation and Transfer Learning
 
 ## Surveys 
