@@ -221,6 +221,10 @@ https://github.com/albu/albumentations
 
 <img src="https://github.com/zhunzhong07/Random-Erasing/raw/master/all_examples-page-001.jpg" width="350">
 
+
+[Population Based Training of Neural Networks (2017)](https://arxiv.org/abs/1711.09846)
+
+
 [Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules (2019)](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
 
 [AutoAugment: Learning Augmentation Policies from Data (2018)](https://arxiv.org/abs/1805.09501)
