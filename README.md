@@ -511,6 +511,8 @@ https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-su
 
 [Greedy InfoMax for Biologically Plausible Self-Supervised Representation Learning (2019)](https://arxiv.org/abs/1905.11786)
 
+[Unsupervised Learning via Meta-Learning (2019)](https://arxiv.org/abs/1810.02334)
+
 
 # Reinforcement Learning
 
