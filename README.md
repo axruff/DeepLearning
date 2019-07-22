@@ -222,6 +222,8 @@ https://github.com/albu/albumentations
 <img src="https://github.com/zhunzhong07/Random-Erasing/raw/master/all_examples-page-001.jpg" width="350">
 
 
+[Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules (2019)](https://arxiv.org/abs/1905.05393)
+
 # Domain Adaptation and Transfer Learning
 
 ## Surveys 
