@@ -176,7 +176,7 @@ https://arxiv.org/abs/1812.01187v1
 
 [**Tune**: A Research Platform for Distributed Model Selection and Training (2018)](https://arxiv.org/abs/1807.05118) [[github]](https://github.com/ray-project/ray/tree/master/python/ray/tune)
 
-[Training Neural Networks with Local Error Signals (2019)](https://arxiv.org/abs/1901.06656)
+[Training Neural Networks with Local Error Signals (2019)](https://arxiv.org/abs/1901.06656) [[github]](https://github.com/anokland/local-loss)
 
 
 ## Visualization and Analysis
