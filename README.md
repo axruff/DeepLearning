@@ -505,6 +505,12 @@ https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-su
 
 [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (2017)](https://arxiv.org/abs/1703.05921v1)
 
+
+## Unsupervised Learning
+
+[Greedy InfoMax for Biologically Plausible Self-Supervised Representation Learning (2019)](https://arxiv.org/abs/1905.11786)
+
+
 # Reinforcement Learning
 
 An Introduction to Deep Reinforcement Learning
