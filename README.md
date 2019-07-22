@@ -223,6 +223,8 @@ https://github.com/albu/albumentations
 
 [Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules (2019)](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
 
+[AutoAugment: Learning Augmentation Policies from Data (2018)](https://arxiv.org/abs/1805.09501)
+
 # Domain Adaptation and Transfer Learning
 
 ## Surveys 
