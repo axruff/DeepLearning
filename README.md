@@ -236,6 +236,8 @@ https://github.com/albu/albumentations
 
 [Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification (2018)](https://arxiv.org/abs/1801.02385)
 
+[GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks (2018)](https://arxiv.org/abs/1810.10863)
+
 # Domain Adaptation and Transfer Learning
 
 ## Surveys 
