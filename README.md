@@ -513,6 +513,8 @@ https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-su
 
 [Unsupervised Learning via Meta-Learning (2019)](https://arxiv.org/abs/1810.02334)
 
+[Representation Learning with Contrastive Predictive Coding (2019)](https://arxiv.org/abs/1807.03748)
+
 
 # Reinforcement Learning
 
