@@ -218,7 +218,7 @@ https://gandissect.csail.mit.edu/
 <img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-[Albumentations: fast and flexible image augmentations (2018)] (https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
+[Albumentations: fast and flexible image augmentations (2018)](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
 
 [**UDA**: Unsupervised Data Augmentation for Consistency Training (2019)](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
 
