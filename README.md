@@ -183,6 +183,7 @@ https://arxiv.org/abs/1812.01187v1
 
 [Error Forward-Propagation: Reusing Feedforward Connections to Propagate Errors in Deep Learning (2018)](https://arxiv.org/abs/1808.03357)
 
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [Training Neural Networks with Local Error Signals (2019)](https://arxiv.org/abs/1901.06656) [[github]](https://github.com/anokland/local-loss)
 
 
