@@ -232,6 +232,7 @@ https://github.com/albu/albumentations
 
 [Population Based Training of Neural Networks (2017)](https://arxiv.org/abs/1711.09846)
 
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 [Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules (2019)](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
 
