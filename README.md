@@ -75,6 +75,10 @@ Notations
 <img src="http://deeplearning.net/tutorial/_images/cat_segmentation.png" width="400">
 
 
+[**[SPP-Net]** Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition (2014)](https://arxiv.org/abs/1406.4729)
+
+<img src="http://kaiminghe.com/eccv14sppnet/img/sppnet.jpg" width="350">
+
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[U-net]**: Convolutional networks for biomedical image segmentation (2015)](https://arxiv.org/abs/1505.04597)
 
