@@ -82,15 +82,15 @@ Notations
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[U-net]**: Convolutional networks for biomedical image segmentation (2015)](https://arxiv.org/abs/1505.04597)
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-[**[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746)
+[**[Xception]**: Deep Learning with Depthwise Separable Convolutions (2016)](https://arxiv.org/abs/1610.02357)
+[Implementation](https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4)
 
-[**[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797)
+[**[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016)](https://arxiv.org/abs/1606.04797)
 
-[**[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+[**[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017)](https://arxiv.org/abs/1704.04861)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[Pyramid Scene Parsing Network (2016)](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet)
+[**[PSPNet]**: Pyramid Scene Parsing Network (2016)](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet)
 
 <img src="https://hszhao.github.io/projects/pspnet/figures/pspnet.png" width="400">
 
@@ -99,14 +99,15 @@ Notations
 <img src="https://1.bp.blogspot.com/-Q0-o_ej8BDU/WTYnS568nPI/AAAAAAAAADQ/TTBczrPIQi8IvXZrjy3suRDBlo_p1pONQCLcB/s640/r1.png" width="400">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[**[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf)
+[**[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (2016)](https://arxiv.org/pdf/1606.00915.pdf)
 
-[**[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611)
+[**[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018)](https://arxiv.org/abs/1802.02611)
 
 <img src="https://2.bp.blogspot.com/-gxnbZ9w2Dro/WqMOQTJ_zzI/AAAAAAAACeA/dyLgkY5TnFEf2j6jyXDXIDWj_wrbHhteQCLcBGAs/s640/image2.png" width="400">
 
-[**[Xception]**: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
-[Implementation](https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4)
+
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
+[**[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation (2018)](https://arxiv.org/abs/1801.05746)
 
 
 [Rethinking Atrous Convolution for Semantic Image Segmentation (2017)](https://arxiv.org/pdf/1706.05587.pdf)
