@@ -704,7 +704,7 @@ https://arxiv.org/abs/1611.07715
 
 [Fast Interactive Object Annotation with Curve-GCN (2019)](https://arxiv.org/abs/1903.06874v1)
 
-<img src="" width="https://raw.githubusercontent.com/fidler-lab/curve-gcn/master/docs/model.png">
+<img src="https://raw.githubusercontent.com/fidler-lab/curve-gcn/master/docs/model.png" width="350">
 
 # Software
 
