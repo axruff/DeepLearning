@@ -79,6 +79,11 @@ Notations
 
 <img src="http://kaiminghe.com/eccv14sppnet/img/sppnet.jpg" width="350">
 
+
+[**[ParseNet]**: Looking Wider to See Better (2016)](https://arxiv.org/abs/1506.04579)
+
+<img src="https://miro.medium.com/max/700/1*dRhGetHArI_bs6IdiIFhkA.png" width="350">
+
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[U-net]**: Convolutional networks for biomedical image segmentation (2015)](https://arxiv.org/abs/1505.04597)
 
