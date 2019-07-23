@@ -209,18 +209,15 @@ https://gandissect.csail.mit.edu/
 
 ## Data Augmentation
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
-https://arxiv.org/abs/1406.6909
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
+[Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks (2014)](https://arxiv.org/abs/1406.6909)
 
 <img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
 
-Albumentations: fast and flexible image augmentations
-https://arxiv.org/abs/1809.06839
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
+[Albumentations: fast and flexible image augmentations (2018)] (https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
 
-Code
-https://github.com/albu/albumentations
-
-[**[UDA]** Unsupervised Data Augmentation for Consistency Training (2019)](Unsupervised Data Augmentation for Consistency Training)[[github]](https://github.com/google-research/uda)
+[**UDA**: Unsupervised Data Augmentation for Consistency Training (2019)](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
 
 [Random Erasing Data Augmentation (2017)](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
 
@@ -233,7 +230,6 @@ https://github.com/albu/albumentations
 [Population Based Training of Neural Networks (2017)](https://arxiv.org/abs/1711.09846)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
 [Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules (2019)](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
 
 [AutoAugment: Learning Augmentation Policies from Data (2018)](https://arxiv.org/abs/1805.09501)
