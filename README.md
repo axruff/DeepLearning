@@ -702,6 +702,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://i.pinimg.com/564x/be/e6/30/bee6302aec1c80d81ba0d206b47222b9.jpg" width="350">
 
+[Fast Interactive Object Annotation with Curve-GCN (2019)](https://arxiv.org/abs/1903.06874v1)
+
+<img src="" width="https://raw.githubusercontent.com/fidler-lab/curve-gcn/master/docs/model.png">
+
 # Software
 
 [**Caffe**: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/abs/1408.5093)
