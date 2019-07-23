@@ -656,6 +656,10 @@ https://doi.org/10.1117/12.2293755
 
 [GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks (2018)](https://arxiv.org/abs/1810.10863)
 
+[Abdominal multi-organ segmentation with organ-attention networks and statistical fusion (2018)](https://arxiv.org/abs/1804.08414)
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1361841518302524-gr1.jpg" width="350">
+
 # Applications: X-ray Imaging
 Low-dose X-ray tomography through a deep convolutional neural network
 https://www.nature.com/articles/s41598-018-19426-7
