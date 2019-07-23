@@ -106,6 +106,11 @@ Notations
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (2016)](https://arxiv.org/pdf/1606.00915.pdf)
 
+
+[Zoom Better to See Clearer: Human and Object Parsing with Hierarchical Auto-Zoom Net (2015)](https://arxiv.org/abs/1511.06881)
+
+<img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-46454-1_39/MediaObjects/419978_1_En_39_Fig1_HTML.gif" width="350">
+
 [Attention to Scale: Scale-aware Semantic Image Segmentation (2016)](https://arxiv.org/abs/1511.03339)
 
 <img src="http://liangchiehchen.com/fig/attention.jpg" width="350">
