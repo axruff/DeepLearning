@@ -67,6 +67,8 @@ Notations
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[ResNet]** Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
+[**[WRN]**: Wide Residual Networks (2016)](https://arxiv.org/abs/1605.07146) [[github]](https://github.com/szagoruyko/wide-residual-networks)
+
 [**[FCN]** Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
 
 <img src="http://deeplearning.net/tutorial/_images/cat_segmentation.png" width="400">
