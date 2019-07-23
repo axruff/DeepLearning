@@ -658,6 +658,10 @@ https://doi.org/10.1117/12.2293755
 
 [Abdominal multi-organ segmentation with organ-attention networks and statistical fusion (2018)](https://arxiv.org/abs/1804.08414)
 
+[Prior-aware Neural Network for Partially-Supervised Multi-Organ Segmentation (2019)](https://arxiv.org/abs/1904.06346)
+
+<img src="https://www.groundai.com/media/arxiv_projects/530543/x2.png" width="350">
+
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1361841518302524-gr1.jpg" width="350">
 
 # Applications: X-ray Imaging
