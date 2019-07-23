@@ -101,6 +101,10 @@ Notations
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (2016)](https://arxiv.org/pdf/1606.00915.pdf)
 
+[Attention to Scale: Scale-aware Semantic Image Segmentation (2016)](https://arxiv.org/abs/1511.03339)
+
+<img src="http://liangchiehchen.com/fig/attention.jpg" width="350">
+
 [**[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018)](https://arxiv.org/abs/1802.02611)
 
 <img src="https://2.bp.blogspot.com/-gxnbZ9w2Dro/WqMOQTJ_zzI/AAAAAAAACeA/dyLgkY5TnFEf2j6jyXDXIDWj_wrbHhteQCLcBGAs/s640/image2.png" width="400">
