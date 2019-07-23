@@ -664,6 +664,8 @@ https://doi.org/10.1117/12.2293755
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1361841518302524-gr1.jpg" width="350">
 
+[Breast Tumor Segmentation and Shape Classification in Mammograms using Generative Adversarial and Convolutional Neural Network (2018)](https://arxiv.org/abs/1809.01687)
+
 # Applications: X-ray Imaging
 Low-dose X-ray tomography through a deep convolutional neural network
 https://www.nature.com/articles/s41598-018-19426-7
