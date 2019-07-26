@@ -189,6 +189,8 @@ Notations
 
 [Human-level intelligence or animal-like abilities? (2018)](https://dl.acm.org/citation.cfm?id=3271625)
 
+[Deep Nets: What have they ever done for Vision? (2019)](https://arxiv.org/abs/1805.04025)
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
