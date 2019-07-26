@@ -213,8 +213,8 @@ Notations
 <img src="https://2.bp.blogspot.com/-gxnbZ9w2Dro/WqMOQTJ_zzI/AAAAAAAACeA/dyLgkY5TnFEf2j6jyXDXIDWj_wrbHhteQCLcBGAs/s640/image2.png" width="400">
 
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [2019 - **[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 <img src="http://wuhuikai.me/FastFCNProject/images/Framework.png" width="350">
 
@@ -227,9 +227,9 @@ Notations
 
 <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/P/PDFangeltop1/20160406/20160406161035.png" width="350">
 
-
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [**[EncNet]** Context Encoding for Semantic Segmentation (2018)](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZS4gdvv26N8N7dpr92pPoHmVP3RQ8ztddravjJlwHr1Sw5fCT" width="400">
 
 
@@ -253,21 +253,17 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 
 
-Random search for hyper-parameter optimisation
-http://www.jmlr.org/papers/v13/bergstra12a.html
+[Random search for hyper-parameter optimisation](http://www.jmlr.org/papers/v13/bergstra12a.html)
 
-Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
-https://arxiv.org/pdf/1502.03167.pdf
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 
-Adam: A Method for Stochastic Optimization
-https://arxiv.org/abs/1412.6980
+[**[Adam]**: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 
-Dropout: A Simple Way to Prevent Neural Networks from Overfitting
-http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
+[**[Dropout]**: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
-https://arxiv.org/abs/1406.6909
+[Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 Multi-Scale Context Aggregation by Dilated Convolutions
 https://arxiv.org/abs/1511.07122
@@ -277,18 +273,19 @@ https://arxiv.org/abs/1511.07122
 
 DARTS: Differentiable Architecture Search
 https://arxiv.org/abs/1806.09055
+ 
+[**Bag of Tricks** for Image Classification with Convolutional Neural Networks](htps://arxiv.org/abs/1812.01187v1)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) **Bag of Tricks** for Image Classification with Convolutional Neural Networks
-https://arxiv.org/abs/1812.01187v1
+[2018 - **Tune**: A Research Platform for Distributed Model Selection and Training](https://arxiv.org/abs/1807.05118) [[github]](https://github.com/ray-project/ray/tree/master/python/ray/tune)
 
-[**Tune**: A Research Platform for Distributed Model Selection and Training (2018)](https://arxiv.org/abs/1807.05118) [[github]](https://github.com/ray-project/ray/tree/master/python/ray/tune)
+[2017 - Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation](https://arxiv.org/abs/1602.05179)
 
-[Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation (2017)](https://arxiv.org/abs/1602.05179)
+[2018 - Error Forward-Propagation: Reusing Feedforward Connections to Propagate Errors in Deep Learning](https://arxiv.org/abs/1808.03357)
 
-[Error Forward-Propagation: Reusing Feedforward Connections to Propagate Errors in Deep Learning (2018)](https://arxiv.org/abs/1808.03357)
 
+[2019 - Training Neural Networks with Local Error Signals](https://arxiv.org/abs/1901.06656) [[github]](https://github.com/anokland/local-loss)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Training Neural Networks with Local Error Signals (2019)](https://arxiv.org/abs/1901.06656) [[github]](https://github.com/anokland/local-loss)
 
 
 <!--- ------------------------------------------------------------------------------- -->
@@ -315,7 +312,7 @@ https://gandissect.csail.mit.edu/
 
 <img src="https://raw.githubusercontent.com/lutzroeder/netron/master/media/screenshot.png" width="400">
 
-[Discovering Causal Signals in Images (2016)](https://arxiv.org/abs/1605.08179)
+[2016 - Discovering Causal Signals in Images](https://arxiv.org/abs/1605.08179)
 
 <img src="https://2.bp.blogspot.com/-ZS7WHgo3f9U/XD26idxNEEI/AAAAAAAABl8/DipJ1Fm3ZK0C3tXhu03psC4nByTlID-sQCLcBGAs/s1600/Screen%2BShot%2B2019-01-15%2Bat%2B19.48.13.png" width="400">
 
@@ -328,34 +325,36 @@ https://gandissect.csail.mit.edu/
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
+[2014 - Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-[Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks (2014)](https://arxiv.org/abs/1406.6909)
 
 <img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
+ 
+[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-[Albumentations: fast and flexible image augmentations (2018)](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
+[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
 
-[**UDA**: Unsupervised Data Augmentation for Consistency Training (2019)](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
-
-[Random Erasing Data Augmentation (2017)](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
+[2017 - Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
 
 <img src="https://github.com/zhunzhong07/Random-Erasing/raw/master/all_examples-page-001.jpg" width="350">
 
-[Data Augmentation by Pairing Samples for Images Classification (2018)](https://arxiv.org/abs/1801.02929)
+[2018 - Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/abs/1801.02929)
 
-[Smart Augmentation - Learning an Optimal Data Augmentation Strategy (2017)](https://arxiv.org/abs/1703.08383)
+[2017 - Smart Augmentation - Learning an Optimal Data Augmentation Strategy](https://arxiv.org/abs/1703.08383)
 
-[Population Based Training of Neural Networks (2017)](https://arxiv.org/abs/1711.09846)
+[2017 - Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
+
+[2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules (2019)](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
 
-[AutoAugment: Learning Augmentation Policies from Data (2018)](https://arxiv.org/abs/1805.09501)
+[2018 - **[AutoAugment]**: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
 
-[Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification (2018)](https://arxiv.org/abs/1801.02385)
+[2018 - Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification](https://arxiv.org/abs/1801.02385)
 
-[GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks (2018)](https://arxiv.org/abs/1810.10863)
+[2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
 
 
 
@@ -590,31 +589,32 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
+[2013 - Simulation as an engine of physical scene understanding](https://www.pnas.org/content/110/45/18327)
+
 [Playing for Data: Ground Truth from Computer Games](https://arxiv.org/abs/1608.02192)
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
 
+
+[2017 - On Pre-Trained Image Features and Synthetic Images for Deep Learning)](https://arxiv.org/abs/1710.10710)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[On Pre-Trained Image Features and Synthetic Images for Deep Learning (2017)](https://arxiv.org/abs/1710.10710)
 
 <img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-11009-3_42/MediaObjects/478770_1_En_42_Fig3_HTML.png" width="350">
 
-[Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World (2017)](https://arxiv.org/abs/1703.06907)
+[2017 - Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://arxiv.org/abs/1703.06907)
 
 <img src="https://i.pinimg.com/564x/99/e9/65/99e9657382ef1e94e2acb958c7c1cf6c.jpg" width="350">
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization (2017)](https://arxiv.org/abs/1804.06516)
 
+[2017 - Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization](https://arxiv.org/abs/1804.06516)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 <img src="https://research.nvidia.com/sites/default/files/publications/cvpr-fig1_down4.png" width="350">
 
 
-[Learning to Segment via Cut-and-Paste (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tal_Remez_Learning_to_Segment_ECCV_2018_paper.pdf)
+[2018 - Learning to Segment via Cut-and-Paste](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tal_Remez_Learning_to_Segment_ECCV_2018_paper.pdf)
 
 <img src="https://cdn-images-1.medium.com/max/1600/0*b4CBigBlK_LyGU16" width="350">
 
-
-[Simulation as an engine of physical scene understanding (2013)](https://www.pnas.org/content/110/45/18327)
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
@@ -624,32 +624,34 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[Image Style Transfer Using Convolutional Neural Networks (2016)](https://ieeexplore.ieee.org/document/7780634)
+[2016 - Image Style Transfer Using Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7780634)
 
 <imf src="https://i-h1.pinimg.com/564x/8a/e4/97/8ae497d18a7c409c2da67833d5586461.jpg" width="250">
 
+
+[2016 Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155?context=cs) [[github]](https://github.com/jcjohnson/fast-neural-style)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Perceptual losses for real-time style transfer and super-resolution (2016)](https://arxiv.org/abs/1603.08155?context=cs) [[github]](https://github.com/jcjohnson/fast-neural-style)
 
 <img src="https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/RTNS.png" width="350">
 
 
-[**[CycleGAN]** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017)](https://arxiv.org/abs/1703.10593)
+[2017 - **[CycleGAN]** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 
 <img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg" width="400">
 
-[**[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks (2016)](https://arxiv.org/abs/1611.07004)[[github]](https://phillipi.github.io/pix2pix/)
+[2016 - **[pix2pix]** Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)[[github]](https://phillipi.github.io/pix2pix/)
 
+
+[2018 - **[DRIT]** Diverse Image-to-Image Translation via Disentangled Representations](https://arxiv.org/abs/1808.00948)[[github]](https://github.com/HsinYingLee/DRIT)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[**[DRIT]** Diverse Image-to-Image Translation via Disentangled Representations (2018)](https://arxiv.org/abs/1808.00948)[[github]](https://github.com/HsinYingLee/DRIT)
 
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01246-5_3/MediaObjects/474172_1_En_3_Fig3_HTML.gif" width="350">
 
-[A Style-Based Generator Architecture for Generative Adversarial Networks (2018)](https://arxiv.org/abs/1812.04948)[[github]](https://github.com/NVlabs/stylegan)
+[2018 - A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)[[github]](https://github.com/NVlabs/stylegan)
 
 <img src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png" width="350">
 
-[Deep Painterly Harmonization (2018)](https://arxiv.org/abs/1804.03189v3) [[github]](https://github.com/luanfujun/deep-painterly-harmonization)
+[2018 - Deep Painterly Harmonization](https://arxiv.org/abs/1804.03189v3) [[github]](https://github.com/luanfujun/deep-painterly-harmonization)
 
 <img src="https://i.pinimg.com/564x/f6/fa/74/f6fa740395c1b99ecee2b71f46b16751.jpg" width="350">
 
@@ -661,7 +663,7 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[Texture Synthesis Using Convolutional Neural Networks (2015)](https://arxiv.org/abs/1505.07376) [[github]](https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/)
+[2015 - Texture Synthesis Using Convolutional Neural Networks](https://arxiv.org/abs/1505.07376) [[github]](https://mc.ai/tensorflow-implementation-of-paper-texture-synthesis-using-convolutional-neural-networks/)
 
 <img src="https://dmitryulyanov.github.io/assets/online-neural-doodle/textures.png" width="300">
 
@@ -680,10 +682,9 @@ https://www.textures.com/index.php
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-Anomaly Detection: A Survey
-https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf
+[2009 - Anomaly Detection: A Survey](https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf)
 
-[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (2017)](https://arxiv.org/abs/1703.05921v1)
+[2017 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921v1)
 
 
 <!--- ------------------------------------------------------------------------------- -->
@@ -694,11 +695,11 @@ https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-su
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[Greedy InfoMax for Biologically Plausible Self-Supervised Representation Learning (2019)](https://arxiv.org/abs/1905.11786)
+[2019 - Greedy InfoMax for Biologically Plausible Self-Supervised Representation Learning](https://arxiv.org/abs/1905.11786)
 
-[Unsupervised Learning via Meta-Learning (2019)](https://arxiv.org/abs/1810.02334)
+[2019 - Unsupervised Learning via Meta-Learning](https://arxiv.org/abs/1810.02334)
 
-[Representation Learning with Contrastive Predictive Coding (2019)](https://arxiv.org/abs/1807.03748)
+[2019 - Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 
 
 <!--- ------------------------------------------------------------------------------- -->
