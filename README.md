@@ -3,8 +3,8 @@
 
 ##### Table of Contents
 - [Neural Networks](#neural-networks)
+  - [Opinions](#opinions)
   - [Models](#models)
-  - [Opinions](#opinions)  
   - [Optimization and Regularisation](#optimization-and-regularisation)  
   - [Visualization](#visualization-and-analysis)  
   - [Data Augmentation](#data-augmentation)  
