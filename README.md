@@ -174,6 +174,8 @@ Notations
 [2019 - **[DeeperLab]**: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
+<img src="http://deeperlab.mit.edu/deeperlab_illustration.png" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 ### Multi-level
 <!--- ------------------------------------------------------------------------------- -->
