@@ -255,6 +255,10 @@ Notations
 
 <img src="https://www.groundai.com/media/arxiv_projects/536654/x1.png" width="350">
 
+[2017 - Teaching Compositionality to CNNs](https://www.semanticscholar.org/paper/Teaching-Compositionality-to-CNNs-Stone-Wang/3726b82007512a15a530fd1adad57af58a9abb62)
+
+<img src="https://www.vicarious.com/wp-content/uploads/2017/10/compositionality3.png" width="350">
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
