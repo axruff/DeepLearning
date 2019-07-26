@@ -104,6 +104,9 @@ Notations
 
 <img src="http://deeplearning.net/tutorial/_images/cat_segmentation.png" width="400">
 
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[**[U-net]**: Convolutional networks for biomedical image segmentation (2015)](https://arxiv.org/abs/1505.04597)
+
 [**[Xception]**: Deep Learning with Depthwise Separable Convolutions (2016)](https://arxiv.org/abs/1610.02357)
 [Implementation](https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4)
 
@@ -135,9 +138,6 @@ Notations
 [**[ParseNet]**: Looking Wider to See Better (2016)](https://arxiv.org/abs/1506.04579)
 
 <img src="https://miro.medium.com/max/700/1*dRhGetHArI_bs6IdiIFhkA.png" width="350">
-
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[**[U-net]**: Convolutional networks for biomedical image segmentation (2015)](https://arxiv.org/abs/1505.04597)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[PSPNet]**: Pyramid Scene Parsing Network (2016)](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet)
