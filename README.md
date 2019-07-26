@@ -539,7 +539,7 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[Playing for Data: Ground Truth from Computer Games ()](https://arxiv.org/abs/1608.02192)
+[Playing for Data: Ground Truth from Computer Games](https://arxiv.org/abs/1608.02192)
 
 <img src="https://github.com/axruff/ML_papers/raw/master/images/PlayingforData.png" width="300">
 
@@ -562,6 +562,8 @@ Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Su
 
 <img src="https://cdn-images-1.medium.com/max/1600/0*b4CBigBlK_LyGU16" width="350">
 
+
+[Simulation as an engine of physical scene understanding (2013)](https://www.pnas.org/content/110/45/18327)
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
