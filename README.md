@@ -183,6 +183,7 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 
 [Image Captioning with Semantic Attention](https://arxiv.org/abs/1603.03925)
+
 <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/P/PDFangeltop1/20160406/20160406161035.png" width="350">
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
