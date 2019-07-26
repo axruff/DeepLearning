@@ -375,6 +375,8 @@ https://gandissect.csail.mit.edu/
 [2019 - Panoptic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.html)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
+<img src="https://miro.medium.com/max/1400/1*OelVuv2thUGAj_400WfseQ.png" width="350">
+
 [2019 - Panoptic Feature Pyramid Networks](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.html)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
