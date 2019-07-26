@@ -5,6 +5,9 @@
 - [Neural Networks](#neural-networks)
   - [Opinions](#opinions)
   - [Models](#models)
+    - [Multi-level](#multi-level)
+    - [Context and Attention](#context-and-attention)
+    - [Composition](#composition)
   - [Optimization and Regularisation](#optimization-and-regularisation)  
   - [Visualization](#visualization-and-analysis)  
   - [Data Augmentation](#data-augmentation)  
@@ -42,6 +45,19 @@ Notations
 
 
 # Neural Networks
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+## Overview
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+
+[Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
+
+[An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678)
 
 
 <!--- ------------------------------------------------------------------------------- -->
@@ -125,6 +141,11 @@ Notations
 
 <img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
 
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation (2019)](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling)
+
+<img src="https://tonghe90.github.io/papers/cvpr2019_tz.png" width="400">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Multi-level
@@ -173,11 +194,6 @@ Notations
 <img src="http://wuhuikai.me/FastFCNProject/images/Framework.png" width="350">
 
 
-[Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
-
-[An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678)
-
-
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
 <!--- ------------------------------------------------------------------------------- -->
@@ -201,14 +217,10 @@ Notations
 [**[EncNet]** Context Encoding for Semantic Segmentation (2018)](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZS4gdvv26N8N7dpr92pPoHmVP3RQ8ztddravjJlwHr1Sw5fCT" width="400">
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation (2019)](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling)
-<img src="https://tonghe90.github.io/papers/cvpr2019_tz.png" width="400">
-
 
 
 <!--- ------------------------------------------------------------------------------- -->
-### Compositionality
+### Composition
 <!--- ------------------------------------------------------------------------------- -->
 
 [Local Relation Networks for Image Recognition (2019)](https://arxiv.org/pdf/1904.11491.pdf)
