@@ -238,6 +238,11 @@ Notations
 ### Composition
 <!--- ------------------------------------------------------------------------------- -->
 
+[2005 - Image Parsing: Unifying Segmentation, Detection, and Recognition](https://link.springer.com/article/10.1007/s11263-005-6642-x)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<img src="" width="350">
+
 [Local Relation Networks for Image Recognition (2019)](https://arxiv.org/pdf/1904.11491.pdf)
 
 <img src="https://www.groundai.com/media/arxiv_projects/536654/x1.png" width="350">
@@ -357,6 +362,23 @@ https://gandissect.csail.mit.edu/
 [2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
 
 
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+## Segmentation
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+[2019 - Panoptic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.html)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+[2019 - Panoptic Feature Pyramid Networks](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.html)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+[2019 - **[DeeperLab]**: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
