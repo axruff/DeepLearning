@@ -183,8 +183,11 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
+
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [Building Machines That Learn and Think Like People (2016)](https://www.semanticscholar.org/paper/Building-Machines-That-Learn-and-Think-Like-People-Lake-Ullman/5721a0c623aeb12a65b4d6f5a5c83a5f82988d7c)
+
+[A Berkeley View of Systems Challenges for AI (2016)](https://arxiv.org/abs/1712.05855)
 
 [Deep Learning: A Critical Appraisal (2018)](https://arxiv.org/abs/1801.00631)
 
