@@ -3,7 +3,8 @@
 
 ##### Table of Contents
 - [Neural Networks](#neural-networks)
-  - [Models](#models)  
+  - [Models](#models)
+  - [Opinions](#opinions)  
   - [Optimization and Regularisation](#optimization-and-regularisation)  
   - [Visualization](#visualization-and-analysis)  
   - [Data Augmentation](#data-augmentation)  
@@ -165,6 +166,16 @@ Notations
 [**[PacNet]**: Pixel-Adaptive Convolutional Neural Networks(2019)](https://arxiv.org/abs/1904.05373)
 
 <img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
+
+
+## -------------------------------------------------------------------------------
+## Opinions
+## -------------------------------------------------------------------------------
+
+
+[Deep Learning: A Critical Appraisal (2018)](https://arxiv.org/abs/1801.00631)
+
+[Human-level intelligence or animal-like abilities? (2018)](https://dl.acm.org/citation.cfm?id=3271625)
 
 ## Optimization and Regularisation
 
