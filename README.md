@@ -183,7 +183,7 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 
 [Image Captioning with Semantic Attention](https://arxiv.org/abs/1603.03925)
-<img src="https://github.com/axruff/ML_papers/raw/master/images/ImageCaptioningSemanticAttention.png" width="400">
+<img src="http://cdn-ak.f.st-hatena.com/images/fotolife/P/PDFangeltop1/20160406/20160406161035.png" width="350">
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [CubeNet: Equivariance to 3D Rotation and Translation (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Worrall_CubeNet_Equivariance_to_ECCV_2018_paper.pdf)[[github]](https://github.com/deworrall92/cubenet), [*[video]*](https://www.youtube.com/watch?v=TlzRyHbWeP0&feature=youtu.be)
