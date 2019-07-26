@@ -249,9 +249,10 @@ Notations
 [2005 - Image Parsing: Unifying Segmentation, Detection, and Recognition](https://link.springer.com/article/10.1007/s11263-005-6642-x)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
-<img src="" width="350">
 
-[Local Relation Networks for Image Recognition (2019)](https://arxiv.org/pdf/1904.11491.pdf)
+[2013 - Complexity of Representation and Inference in Compositional Models with Part Sharing](https://arxiv.org/abs/1301.3560)
+
+[2019 - Local Relation Networks for Image Recognition ](https://arxiv.org/pdf/1904.11491.pdf)
 
 <img src="https://www.groundai.com/media/arxiv_projects/536654/x1.png" width="350">
 
