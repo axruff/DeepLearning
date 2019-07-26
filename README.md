@@ -47,6 +47,28 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
+## Opinions
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[Building Machines That Learn and Think Like People (2016)](https://www.semanticscholar.org/paper/Building-Machines-That-Learn-and-Think-Like-People-Lake-Ullman/5721a0c623aeb12a65b4d6f5a5c83a5f82988d7c)
+
+[A Berkeley View of Systems Challenges for AI (2016)](https://arxiv.org/abs/1712.05855)
+
+[Deep Learning: A Critical Appraisal (2018)](https://arxiv.org/abs/1801.00631)
+
+[Human-level intelligence or animal-like abilities? (2018)](https://dl.acm.org/citation.cfm?id=3271625)
+
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[Deep Nets: What have they ever done for Vision? (2019)](https://arxiv.org/abs/1805.04025)
+
+
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
 ## Models
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
@@ -82,6 +104,28 @@ Notations
 
 <img src="http://deeplearning.net/tutorial/_images/cat_segmentation.png" width="400">
 
+[**[Xception]**: Deep Learning with Depthwise Separable Convolutions (2016)](https://arxiv.org/abs/1610.02357)
+[Implementation](https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4)
+
+[**[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016)](https://arxiv.org/abs/1606.04797)
+
+[**[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017)](https://arxiv.org/abs/1704.04861)
+
+[Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](https://arxiv.org/abs/1210.5644)
+
+<img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
+
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
+[**[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation (2018)](https://arxiv.org/abs/1801.05746)
+
+[**[PacNet]**: Pixel-Adaptive Convolutional Neural Networks(2019)](https://arxiv.org/abs/1904.05373)
+
+<img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
+
+
+<!--- ------------------------------------------------------------------------------- -->
+### Multi-level
+<!--- ------------------------------------------------------------------------------- -->
 
 [**[SPP-Net]** Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition (2014)](https://arxiv.org/abs/1406.4729)
 
@@ -94,13 +138,6 @@ Notations
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[U-net]**: Convolutional networks for biomedical image segmentation (2015)](https://arxiv.org/abs/1505.04597)
-
-[**[Xception]**: Deep Learning with Depthwise Separable Convolutions (2016)](https://arxiv.org/abs/1610.02357)
-[Implementation](https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4)
-
-[**[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016)](https://arxiv.org/abs/1606.04797)
-
-[**[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017)](https://arxiv.org/abs/1704.04861)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[PSPNet]**: Pyramid Scene Parsing Network (2016)](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet)
@@ -127,20 +164,8 @@ Notations
 
 <img src="https://2.bp.blogspot.com/-gxnbZ9w2Dro/WqMOQTJ_zzI/AAAAAAAACeA/dyLgkY5TnFEf2j6jyXDXIDWj_wrbHhteQCLcBGAs/s640/image2.png" width="400">
 
-
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-[**[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation (2018)](https://arxiv.org/abs/1801.05746)
-
-
 [Rethinking Atrous Convolution for Semantic Image Segmentation (2017)](https://arxiv.org/pdf/1706.05587.pdf)
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[**[EncNet]** Context Encoding for Semantic Segmentation (2018)](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZS4gdvv26N8N7dpr92pPoHmVP3RQ8ztddravjJlwHr1Sw5fCT" width="400">
-
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation (2019)](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling)
-<img src="https://tonghe90.github.io/papers/cvpr2019_tz.png" width="400">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation (2019)](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN)
@@ -152,12 +177,13 @@ Notations
 
 [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678)
 
+
+<!--- ------------------------------------------------------------------------------- -->
+### Context and Attention
+<!--- ------------------------------------------------------------------------------- -->
+
 [Image Captioning with Semantic Attention](https://arxiv.org/abs/1603.03925)
 <img src="https://github.com/axruff/ML_papers/raw/master/images/ImageCaptioningSemanticAttention.png" width="400">
-
-[Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](https://arxiv.org/abs/1210.5644)
-
-<img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 [CubeNet: Equivariance to 3D Rotation and Translation (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Worrall_CubeNet_Equivariance_to_ECCV_2018_paper.pdf)[[github]](https://github.com/deworrall92/cubenet), [*[video]*](https://www.youtube.com/watch?v=TlzRyHbWeP0&feature=youtu.be)
@@ -170,9 +196,14 @@ Notations
 <img src="https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png" width="350">
 
 
-[**[PacNet]**: Pixel-Adaptive Convolutional Neural Networks(2019)](https://arxiv.org/abs/1904.05373)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[**[EncNet]** Context Encoding for Semantic Segmentation (2018)](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZS4gdvv26N8N7dpr92pPoHmVP3RQ8ztddravjJlwHr1Sw5fCT" width="400">
 
-<img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation (2019)](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling)
+<img src="https://tonghe90.github.io/papers/cvpr2019_tz.png" width="400">
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
@@ -183,25 +214,6 @@ Notations
 
 <img src="https://www.groundai.com/media/arxiv_projects/536654/x1.png" width="350">
 
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
-## Opinions
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
-
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Building Machines That Learn and Think Like People (2016)](https://www.semanticscholar.org/paper/Building-Machines-That-Learn-and-Think-Like-People-Lake-Ullman/5721a0c623aeb12a65b4d6f5a5c83a5f82988d7c)
-
-[A Berkeley View of Systems Challenges for AI (2016)](https://arxiv.org/abs/1712.05855)
-
-[Deep Learning: A Critical Appraisal (2018)](https://arxiv.org/abs/1801.00631)
-
-[Human-level intelligence or animal-like abilities? (2018)](https://dl.acm.org/citation.cfm?id=3271625)
-
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[Deep Nets: What have they ever done for Vision? (2019)](https://arxiv.org/abs/1805.04025)
 
 
 <!--- ------------------------------------------------------------------------------- -->
