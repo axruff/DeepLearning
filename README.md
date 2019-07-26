@@ -56,9 +56,9 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 
 
-[Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
+[2017 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
 
-[An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678)
+[2016 - An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678)
 
 
 <!--- ------------------------------------------------------------------------------- -->
@@ -70,16 +70,16 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Building Machines That Learn and Think Like People (2016)](https://www.semanticscholar.org/paper/Building-Machines-That-Learn-and-Think-Like-People-Lake-Ullman/5721a0c623aeb12a65b4d6f5a5c83a5f82988d7c)
+[2016 - Building Machines That Learn and Think Like People](https://www.semanticscholar.org/paper/Building-Machines-That-Learn-and-Think-Like-People-Lake-Ullman/5721a0c623aeb12a65b4d6f5a5c83a5f82988d7c)
 
-[A Berkeley View of Systems Challenges for AI (2016)](https://arxiv.org/abs/1712.05855)
+[2016 - A Berkeley View of Systems Challenges for AI](https://arxiv.org/abs/1712.05855)
 
-[Deep Learning: A Critical Appraisal (2018)](https://arxiv.org/abs/1801.00631)
+[2018 - Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631)
 
-[Human-level intelligence or animal-like abilities? (2018)](https://dl.acm.org/citation.cfm?id=3271625)
+[2018 - Human-level intelligence or animal-like abilities?](https://dl.acm.org/citation.cfm?id=3271625)
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[Deep Nets: What have they ever done for Vision? (2019)](https://arxiv.org/abs/1805.04025)
+[2019 - Deep Nets: What have they ever done for Vision?](https://arxiv.org/abs/1805.04025)
 
 
 
@@ -115,35 +115,47 @@ Notations
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 [**[ResNet]** Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
-[**[WRN]**: Wide Residual Networks (2016)](https://arxiv.org/abs/1605.07146) [[github]](https://github.com/szagoruyko/wide-residual-networks)
+[2016 - **[WRN]**: Wide Residual Networks](https://arxiv.org/abs/1605.07146) [[github]](https://github.com/szagoruyko/wide-residual-networks)
 
-[**[FCN]** Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
+[2015 - **[FCN]** Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
 
 <img src="http://deeplearning.net/tutorial/_images/cat_segmentation.png" width="400">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[**[U-net]**: Convolutional networks for biomedical image segmentation (2015)](https://arxiv.org/abs/1505.04597)
+[2015 - **[U-net]**: Convolutional networks for biomedical image segmentation](https://arxiv.org/abs/1505.04597)
 
-[**[Xception]**: Deep Learning with Depthwise Separable Convolutions (2016)](https://arxiv.org/abs/1610.02357)
+[2016 - **[Xception]**: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 [Implementation](https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4)
 
-[**[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016)](https://arxiv.org/abs/1606.04797)
+[2016 - **[V-Net]**: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797)
 
-[**[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017)](https://arxiv.org/abs/1704.04861)
+[2017 - **[MobileNets]**: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 
 [Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](https://arxiv.org/abs/1210.5644)
 
 <img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-[**[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation (2018)](https://arxiv.org/abs/1801.05746)
+[2018 - **[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746)
 
-[**[PacNet]**: Pixel-Adaptive Convolutional Neural Networks(2019)](https://arxiv.org/abs/1904.05373)
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2018 - CubeNet: Equivariance to 3D Rotation and Translation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Worrall_CubeNet_Equivariance_to_ECCV_2018_paper.pdf)[[github]](https://github.com/deworrall92/cubenet), [*[video]*](https://www.youtube.com/watch?v=TlzRyHbWeP0&feature=youtu.be)
+
+<img src="https://i.pinimg.com/564x/8c/c8/44/8cc844bb8784d93790f9d2d2552297bf.jpg" width="350">
+
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2018 - Deep Rotation Equivariant Network](https://arxiv.org/abs/1705.08623)[[github]](https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png)
+
+<img src="https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png" width="350">
+
+
+[2019 - **[PacNet]**: Pixel-Adaptive Convolutional Neural Networks](https://arxiv.org/abs/1904.05373)
 
 <img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation (2019)](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling)
+[2019 - Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling)
 
 <img src="https://tonghe90.github.io/papers/cvpr2019_tz.png" width="400">
 
@@ -152,45 +164,47 @@ Notations
 ### Multi-level
 <!--- ------------------------------------------------------------------------------- -->
 
-[**[SPP-Net]** Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition (2014)](https://arxiv.org/abs/1406.4729)
+[2014 - **[SPP-Net]** Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/abs/1406.4729)
 
 <img src="http://kaiminghe.com/eccv14sppnet/img/sppnet.jpg" width="350">
 
 
-[**[ParseNet]**: Looking Wider to See Better (2016)](https://arxiv.org/abs/1506.04579)
+[2016 - **[ParseNet]**: Looking Wider to See Better](https://arxiv.org/abs/1506.04579)
 
 <img src="https://miro.medium.com/max/700/1*dRhGetHArI_bs6IdiIFhkA.png" width="350">
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[**[PSPNet]**: Pyramid Scene Parsing Network (2016)](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet)
+[2016 - **[PSPNet]**: Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet)
 
 <img src="https://hszhao.github.io/projects/pspnet/figures/pspnet.png" width="400">
 
-[Feature Pyramid Networks for Object Detection (2017)](https://arxiv.org/abs/1612.03144)
-
-<img src="https://1.bp.blogspot.com/-Q0-o_ej8BDU/WTYnS568nPI/AAAAAAAAADQ/TTBczrPIQi8IvXZrjy3suRDBlo_p1pONQCLcB/s640/r1.png" width="400">
-
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[**[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (2016)](https://arxiv.org/pdf/1606.00915.pdf)
+[2016 - **[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf)
 
 
-[Zoom Better to See Clearer: Human and Object Parsing with Hierarchical Auto-Zoom Net (2015)](https://arxiv.org/abs/1511.06881)
+[2015 - Zoom Better to See Clearer: Human and Object Parsing with Hierarchical Auto-Zoom Net](https://arxiv.org/abs/1511.06881)
 
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-46454-1_39/MediaObjects/419978_1_En_39_Fig1_HTML.gif" width="350">
 
-[Attention to Scale: Scale-aware Semantic Image Segmentation (2016)](https://arxiv.org/abs/1511.03339)
+[2016 - Attention to Scale: Scale-aware Semantic Image Segmentation](https://arxiv.org/abs/1511.03339)
 
 <img src="http://liangchiehchen.com/fig/attention.jpg" width="350">
 
-[**[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018)](https://arxiv.org/abs/1802.02611)
+[2017 - Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
+
+
+[2017 - Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144)
+
+<img src="https://1.bp.blogspot.com/-Q0-o_ej8BDU/WTYnS568nPI/AAAAAAAAADQ/TTBczrPIQi8IvXZrjy3suRDBlo_p1pONQCLcB/s640/r1.png" width="400">
+
+
+[2018 - **[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611)
 
 <img src="https://2.bp.blogspot.com/-gxnbZ9w2Dro/WqMOQTJ_zzI/AAAAAAAACeA/dyLgkY5TnFEf2j6jyXDXIDWj_wrbHhteQCLcBGAs/s640/image2.png" width="400">
 
-[Rethinking Atrous Convolution for Semantic Image Segmentation (2017)](https://arxiv.org/pdf/1706.05587.pdf)
-
 
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-[**[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation (2019)](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN)
+[2019 - **[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN)
 
 <img src="http://wuhuikai.me/FastFCNProject/images/Framework.png" width="350">
 
@@ -202,16 +216,6 @@ Notations
 [Image Captioning with Semantic Attention](https://arxiv.org/abs/1603.03925)
 
 <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/P/PDFangeltop1/20160406/20160406161035.png" width="350">
-
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[CubeNet: Equivariance to 3D Rotation and Translation (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Worrall_CubeNet_Equivariance_to_ECCV_2018_paper.pdf)[[github]](https://github.com/deworrall92/cubenet), [*[video]*](https://www.youtube.com/watch?v=TlzRyHbWeP0&feature=youtu.be)
-
-<img src="https://i.pinimg.com/564x/8c/c8/44/8cc844bb8784d93790f9d2d2552297bf.jpg" width="350">
-
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-[Deep Rotation Equivariant Network (2018)](https://arxiv.org/abs/1705.08623)[[github]](https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png)
-
-<img src="https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png" width="350">
 
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
