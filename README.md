@@ -1,4 +1,4 @@
-# Machine Learning papers
+# Machine Learning papers and resources
 
 
 ##### Table of Contents
