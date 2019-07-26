@@ -168,6 +168,11 @@ Notations
 
 <img src="https://tonghe90.github.io/papers/cvpr2019_tz.png" width="400">
 
+[2019 - Panoptic Feature Pyramid Networks](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.html)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+[2019 - **[DeeperLab]**: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Multi-level
@@ -377,11 +382,6 @@ https://gandissect.csail.mit.edu/
 
 <img src="https://miro.medium.com/max/1400/1*OelVuv2thUGAj_400WfseQ.png" width="350">
 
-[2019 - Panoptic Feature Pyramid Networks](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.html)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-
-[2019 - **[DeeperLab]**: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
