@@ -295,6 +295,10 @@ https://arxiv.org/abs/1806.09055
 [2019 - Training Neural Networks with Local Error Signals](https://arxiv.org/abs/1901.06656) [[github]](https://github.com/anokland/local-loss)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
+[Switchable Normalization for Learning-to-Normalize Deep Representation (2019)](https://arxiv.org/abs/1907.10473)
+
+<img src="http://luoping.me/post/family-normalization/SN.png" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
