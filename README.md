@@ -566,6 +566,10 @@ https://doi.org/10.1117/12.2293755
 
 [Breast Tumor Segmentation and Shape Classification in Mammograms using Generative Adversarial and Convolutional Neural Network (2018)](https://arxiv.org/abs/1809.01687)
 
+[2019 - H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes](https://arxiv.org/abs/1709.07330v3)
+
+<img src="https://miro.medium.com/max/2000/1*upabGHvSJDva8wVct21hNg.png" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 # Applications: X-ray Imaging
 <!--- ------------------------------------------------------------------------------- -->
