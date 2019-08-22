@@ -216,6 +216,10 @@ Notations
 
 <img src="http://wuhuikai.me/FastFCNProject/images/Framework.png" width="350">
 
+[2019 - Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)
+
+<img src="https://i.pinimg.com/564x/72/a2/5c/72a25c7d87e1c4dfef45bec81adee2e7.jpg" width="250">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
