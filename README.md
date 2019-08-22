@@ -383,10 +383,14 @@ https://gandissect.csail.mit.edu/
 <!--- ------------------------------------------------------------------------------- -->
 
 [2019 - Panoptic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.html)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 <img src="https://miro.medium.com/max/1400/1*OelVuv2thUGAj_400WfseQ.png" width="350">
 
+[2019 - The Best of Both Modes: Separately Leveraging RGB and Depth for Unseen Object Instance Segmentation](https://arxiv.org/abs/1907.13236)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<img src="https://i.pinimg.com/564x/31/a7/a1/31a7a1a70bd76e035d92f811cb4701d0.jpg" width="350">
 
 
 
