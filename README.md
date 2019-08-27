@@ -394,7 +394,7 @@ https://gandissect.csail.mit.edu/
 
 [2019 - ShapeMask: Learning to Segment Novel Objects by Refining Shape Priors](https://arxiv.org/abs/1904.03239)
 
-<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_225114/project_350444/images/figures/shapemask_fig1_v3.jpg" width="350">
+<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_225114/project_350444/images/figures/shapemask_fig1_v3.jpg" width="300">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
