@@ -405,6 +405,13 @@ and the ability to produce sharp masks by training on RGB.
 > For the semantic segmentation loss, we use a weighted cross entropy as this
 has been shown to work well in detecting object boundaries in imbalanced images [29].
 
+> In order to train the RRN, we need examples of perturbed masks along with ground truth masks.
+Since such perturbations do not exist, this problem can be seen as a data augmentation task where we
+augment the ground truth mask into something that resembles an initial mask
+
+> In order to seek a fair comparison, all models trained in this section are trained for 100k iterations
+of SGD using a fixed learning rate of 1e-2 and batch size of 8. 
+
 [2019 - ShapeMask: Learning to Segment Novel Objects by Refining Shape Priors](https://arxiv.org/abs/1904.03239)
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_225114/project_350444/images/figures/shapemask_fig1_v3.jpg" width="300">
