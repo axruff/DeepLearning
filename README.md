@@ -388,7 +388,16 @@ https://gandissect.csail.mit.edu/
 <img src="https://miro.medium.com/max/1400/1*OelVuv2thUGAj_400WfseQ.png" width="350">
 
 [2019 - The Best of Both Modes: Separately Leveraging RGB and Depth for Unseen Object Instance Segmentation](https://arxiv.org/abs/1907.13236)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+> Recognizing unseen objects is a challenging perception task
+since the robot needs to learn the concept of “objects” and generalize it to unseen objects
+> An ideal method would combine the generalization capability of training on synthetic depth
+and the ability to produce sharp masks by training on RGB.
+> Training DSN with depth images allows for better generalization to the real world data
+> We posit that mask refinement is an easier problem than directly using RGB as input to produce instance masks.
+> For the semantic segmentation loss, we use a weighted cross entropy as this
+has been shown to work well in detecting object boundaries in imbalanced images [29].
 
 <img src="https://i.pinimg.com/564x/31/a7/a1/31a7a1a70bd76e035d92f811cb4701d0.jpg" width="350">
 
