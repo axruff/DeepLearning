@@ -416,6 +416,10 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_225114/project_350444/images/figures/shapemask_fig1_v3.jpg" width="300">
 
+[2019 - Learning to Segment via Cut-and-Paste](https://arxiv.org/abs/1803.06414)
+
+<img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01234-2_3/MediaObjects/474212_1_En_3_Fig3_HTML.gif" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
