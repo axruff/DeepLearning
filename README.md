@@ -420,6 +420,10 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01234-2_3/MediaObjects/474212_1_En_3_Fig3_HTML.gif" width="350">
 
+[2019 - YOLACT Real-time Instance Segmentation](https://arxiv.org/abs/1904.02689)[[github]](https://github.com/dbolya/yolact)
+
+<img src="https://i.pinimg.com/564x/52/0c/3e/520c3ee5e0695482c12a73e096dd4b9f.jpg" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
