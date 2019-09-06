@@ -9,7 +9,8 @@
     - [Multi-level](#multi-level)
     - [Context and Attention](#context-and-attention)
     - [Composition](#composition)
-  - [Optimization and Regularisation](#optimization-and-regularisation)  
+  - [Optimization and Regularisation](#optimization-and-regularisation)
+  - [Pruning](#network-pruning)
   - [Visualization](#visualization-and-analysis)  
   - [Data Augmentation](#data-augmentation)
   - [Segmentation](#segmentation) 
@@ -302,6 +303,20 @@ https://arxiv.org/abs/1806.09055
 [2019 - Switchable Normalization for Learning-to-Normalize Deep Representation](https://arxiv.org/abs/1907.10473)
 
 <img src="http://luoping.me/post/family-normalization/SN.png" width="350">
+
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+## Network Pruning
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+[2015 - Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626)
+
+<img src="https://xmfbit.github.io/img/paper-pruning-network-demo.png" width="350">
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
