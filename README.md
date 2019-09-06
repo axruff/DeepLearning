@@ -318,6 +318,10 @@ https://arxiv.org/abs/1806.09055
 <img src="https://xmfbit.github.io/img/paper-pruning-network-demo.png" width="350">
 
 
+[2019 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+<img src="https://miro.medium.com/max/2916/1*IraKnowykSyMZtrW1dJOVA.png" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
