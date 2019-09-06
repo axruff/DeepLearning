@@ -313,6 +313,9 @@ https://arxiv.org/abs/1806.09055
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
+
+[2013 - Do Deep Nets Really Need to be Deep?](https://arxiv.org/abs/1312.6184)
+
 [2015 - Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626)
 
 <img src="https://xmfbit.github.io/img/paper-pruning-network-demo.png" width="350">
@@ -321,6 +324,11 @@ https://arxiv.org/abs/1806.09055
 
 <img src="https://anandj.in/wp-content/uploads/dc.png" width="350">
 
+[2015 - Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+[2018 - Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 [2019 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
