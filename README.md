@@ -323,6 +323,15 @@ https://arxiv.org/abs/1806.09055
 
 <img src="https://miro.medium.com/max/2916/1*IraKnowykSyMZtrW1dJOVA.png" width="350">
 
+> Based on these results, we articulate the lottery ticket hypothesis: dense, randomly-initialized, feed-forward
+networks contain subnetworks (winning tickets) that—when trained in isolation—
+reach test accuracy comparable to the original network in a similar number of
+iterations.
+
+> The winning tickets we find have won the **initialization** lottery: their
+connections have initial weights that make training particularly effective.
+
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
