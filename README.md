@@ -10,7 +10,7 @@
     - [Context and Attention](#context-and-attention)
     - [Composition](#composition)
   - [Optimization and Regularisation](#optimization-and-regularisation)
-  - [Pruning](#network-pruning)
+  - [Speed: Pruning, Compression](#pruning-and-compression)
   - [Visualization](#visualization-and-analysis)  
   - [Data Augmentation](#data-augmentation)
   - [Segmentation](#segmentation) 
@@ -308,7 +308,7 @@ https://arxiv.org/abs/1806.09055
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
-## Network Pruning
+## Pruning and Compression
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -316,6 +316,11 @@ https://arxiv.org/abs/1806.09055
 [2015 - Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626)
 
 <img src="https://xmfbit.github.io/img/paper-pruning-network-demo.png" width="350">
+
+[2015 - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<img scr="https://anandj.in/wp-content/uploads/dc.png" width="350">
 
 
 [2019 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
