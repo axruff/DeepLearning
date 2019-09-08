@@ -327,6 +327,11 @@ https://arxiv.org/abs/1806.09055
 [2015 - Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
+[2017 - Learning Efficient Convolutional Networks through Network Slimming(https://arxiv.org/abs/1708.06519)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<img src="https://user-images.githubusercontent.com/8370623/29604272-d56a73f4-879b-11e7-80ea-0702de6bd584.jpg" width="350">
+
 [2018 - Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
