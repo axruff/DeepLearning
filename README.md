@@ -328,7 +328,24 @@ https://arxiv.org/abs/1806.09055
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 [2018 - Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRq9LlknFNmCyXoKoEVqfMX3JgP66T5Ezpbh4FF9xUVLBU0jO6" width="350">
+
+
+> For all state-of-the-art structured pruning algorithms we examined, fine-tuning a pruned model only gives
+comparable or worse performance than training that model with randomly initialized weights. For pruning algorithms which assume a predefined target network architecture, one can get rid of the full pipeline and directly train the target network from scratch.
+
+> Our observations are consistent for multiple network architectures, datasets, and tasks, which imply that: 
+
+> 1) training a large, over-parameterized model is often not necessary to obtain an efficient final model
+
+> 2) learned “important” weights of the large model are typically not useful for the small pruned
+model
+
+> 3) the pruned architecture itself, rather than a set of inherited “important”
+weights, is more crucial to the efficiency in the final model, which suggests that in
+some cases pruning can be useful as an architecture search paradigm.
 
 [2019 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
