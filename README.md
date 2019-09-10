@@ -296,6 +296,9 @@ https://arxiv.org/abs/1806.09055
 
 [2018 - Error Forward-Propagation: Reusing Feedforward Connections to Propagate Errors in Deep Learning](https://arxiv.org/abs/1808.03357)
 
+[2018 - An Empirical Model of Large-Batch Training](https://arxiv.org/abs/1812.06162v1)
+
+<img src="https://i.pinimg.com/564x/36/bb/e4/36bbe4d951a1c100714ea7baa43e0e44.jpg" width="350">
 
 [2019 - Training Neural Networks with Local Error Signals](https://arxiv.org/abs/1901.06656) [[github]](https://github.com/anokland/local-loss)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
@@ -303,6 +306,8 @@ https://arxiv.org/abs/1806.09055
 [2019 - Switchable Normalization for Learning-to-Normalize Deep Representation](https://arxiv.org/abs/1907.10473)
 
 <img src="http://luoping.me/post/family-normalization/SN.png" width="350">
+
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
