@@ -32,9 +32,9 @@
 
 Notations
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Read and worked
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Checked
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TODO
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+) To Check
 
 
 # Neural Networks
