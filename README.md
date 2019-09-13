@@ -28,6 +28,7 @@
   - [Applications: Photography](#applications-photography)
   - [Applications: Misc](#applications-misc)
 - [Software](#software)  
+- [Future of AI](#future-of-ai) 
 
 
 Notations
@@ -758,4 +759,17 @@ https://arxiv.org/abs/1611.07715
 [**Glow**: Compiler for Neural Network hardware accelerators](https://github.com/pytorch/glow)
 
 <img src="https://github.com/pytorch/glow/raw/master/docs/3LevelIR.png" width="400">
+
+
+<!--- ------------------------------------------------------------------------------- -->
+# Future of AI
+<!--- ------------------------------------------------------------------------------- -->
+
+[2018 - When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807)
+
+[2018 - The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://docs.google.com/document/d/e/2PACX-1vQzbSybtXtYzORLqGhdRYXUqiFsaEOvftMSnhVgJ-jRh6plwkzzJXoQ-sKtej3HW_0pzWTFY7-1eoGf/pub)
+
+[2018 - Deciphering China’s AI Dream: The context, components, capabilities, and consequences of China’s strategy to lead the world in AI](https://www.fhi.ox.ac.uk/deciphering-chinas-ai-dream/)
+
+
 
