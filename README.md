@@ -17,6 +17,7 @@
 - [Anomaly Detection](#anomaly-detection)   
 - [Unsupervised Learning](#unsupervised-learning)
 - [Reinforcement Learning](#reinforcement-learning)
+- [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
 - [Datasets](#datasets)
 - [Benchmarks](#benchmarks)
 - [Applications](#applications)
@@ -557,6 +558,11 @@ https://arxiv.org/abs/1406.6247
 
 <img src="https://raw.githubusercontent.com/torch/torch.github.io/master/blog/_posts/images/rva-diagram.png" width="400">
 
+
+
+[2019 - On the Feasibility of Learning, Rather than Assuming, Human Biases for Reward Inference](https://arxiv.org/abs/1906.09624)
+
+<img src="https://i.pinimg.com/564x/cf/0a/08/cf0a0859ca749d389c5ccc24d20fd1a3.jpg" widtg="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
