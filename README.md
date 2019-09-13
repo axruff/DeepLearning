@@ -767,7 +767,11 @@ https://arxiv.org/abs/1611.07715
 
 [2018 - When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807)
 
+<img src="https://i.pinimg.com/564x/66/2a/af/662aaf5ca744d6bd7aad44d4a70523a6.jpg" width="200">
+
 [2018 - The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://docs.google.com/document/d/e/2PACX-1vQzbSybtXtYzORLqGhdRYXUqiFsaEOvftMSnhVgJ-jRh6plwkzzJXoQ-sKtej3HW_0pzWTFY7-1eoGf/pub)
+
+<img src="https://www.cser.ac.uk/media/uploads/files/front_cover_malicious_use_square.png" width="200">
 
 [2018 - Deciphering China’s AI Dream: The context, components, capabilities, and consequences of China’s strategy to lead the world in AI](https://www.fhi.ox.ac.uk/deciphering-chinas-ai-dream/)
 
