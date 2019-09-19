@@ -257,7 +257,7 @@ Notations
 
 [2019 - Local Relation Networks for Image Recognition ](https://arxiv.org/pdf/1904.11491.pdf)
 
-<img src="https://www.groundai.com/media/arxiv_projects/536654/x1.png" width="350">
+<img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_10859%2Fproject_356834%2Fimages%2Fx1.png" width="350">
 
 [2017 - Teaching Compositionality to CNNs](https://www.semanticscholar.org/paper/Teaching-Compositionality-to-CNNs-Stone-Wang/3726b82007512a15a530fd1adad57af58a9abb62)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
