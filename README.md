@@ -249,11 +249,18 @@ Notations
 
 [2013 - Complexity of Representation and Inference in Compositional Models with Part Sharing](https://arxiv.org/abs/1301.3560)
 
+
+[2017 - Interpretable Convolutional Neural Networks](https://arxiv.org/abs/1710.00935)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<img src="https://miro.medium.com/max/2712/0*DGs0o1DFHCaCMZvY" width="350">
+
 [2019 - Local Relation Networks for Image Recognition ](https://arxiv.org/pdf/1904.11491.pdf)
 
 <img src="https://www.groundai.com/media/arxiv_projects/536654/x1.png" width="350">
 
 [2017 - Teaching Compositionality to CNNs](https://www.semanticscholar.org/paper/Teaching-Compositionality-to-CNNs-Stone-Wang/3726b82007512a15a530fd1adad57af58a9abb62)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 <img src="https://www.vicarious.com/wp-content/uploads/2017/10/compositionality3.png" width="350">
 
