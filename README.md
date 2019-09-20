@@ -10,7 +10,7 @@
     - [Context and Attention](#context-and-attention)
     - [Composition](#composition)
   - [Optimization](#optimization)
-    - [OptimizatioN and Regularisation](#optimization-and-regularisation)
+    - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
   - [Visualization](#visualization-and-analysis)  
   - [Data Augmentation](#data-augmentation)
