@@ -740,6 +740,11 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 *In synchrotron-based XRT, CNN-based processing improves the SNR in the data by an order of magnitude, which enables low-dose fast acquisition of radiation-sensitive samples*
 
+
+# Applications: Image Registration
+
+[2019 - A Deep Learning Framework for Unsupervised Affine and Deformable Image Registration](https://arxiv.org/abs/1809.06130)
+
 <!--- ------------------------------------------------------------------------------- -->
 # Applications: Video and Motion
 <!--- ------------------------------------------------------------------------------- -->
