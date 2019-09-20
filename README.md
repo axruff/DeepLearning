@@ -373,7 +373,7 @@ some cases pruning can be useful as an architecture search paradigm.
 
 [2019 - Universally Slimmable Networks and Improved Training Techniques](https://arxiv.org/abs/1903.05134)
 
-<img src="https://user-images.githubusercontent.com/22609465/54562571-45b5ae00-4995-11e9-8984-49e32d07e325.png" width="350">
+<img src="https://user-images.githubusercontent.com/22609465/54562571-45b5ae00-4995-11e9-8984-49e32d07e325.png" width="300">
 
 
 
