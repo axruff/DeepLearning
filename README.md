@@ -223,6 +223,9 @@ Notations
 
 <img src="https://i.pinimg.com/564x/72/a2/5c/72a25c7d87e1c4dfef45bec81adee2e7.jpg" width="250">
 
+[2019 - **[LEDNet]**: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/abs/1905.02423v1)
+
+<img src="http://www.programmersought.com/images/387/eb5e83159442106d19fbd79698e299eb.png" width="300">
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
