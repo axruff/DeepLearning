@@ -14,7 +14,8 @@
   - [Visualization](#visualization-and-analysis)  
   - [Data Augmentation](#data-augmentation)
   - [Segmentation](#segmentation) 
-- [Anomaly Detection](#anomaly-detection)   
+- [Anomaly Detection](#anomaly-detection)
+- [Semi and Weak Supervision](#semi-and-weak-supervision)
 - [Unsupervised Learning](#unsupervised-learning)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
@@ -534,17 +535,16 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 [2017 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921v1)
 
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
-# Visual Questions and Object Retrieval
+# Semi and Weak Supervision
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[2015 - Natural Language Object Retrieval](https://arxiv.org/abs/1511.04164)
-
-[2019 - CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](https://arxiv.org/abs/1901.00850)
+[2019 - Localization with Limited Annotation for Chest X-rays](https://arxiv.org/abs/1909.08842v1)
 
 
 <!--- ------------------------------------------------------------------------------- -->
@@ -599,6 +599,20 @@ https://arxiv.org/abs/1406.6247
 [2019 - On the Feasibility of Learning, Rather than Assuming, Human Biases for Reward Inference](https://arxiv.org/abs/1906.09624)
 
 <img src="https://i.pinimg.com/564x/cf/0a/08/cf0a0859ca749d389c5ccc24d20fd1a3.jpg" widtg="350">
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+# Visual Questions and Object Retrieval
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+[2015 - Natural Language Object Retrieval](https://arxiv.org/abs/1511.04164)
+
+[2019 - CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](https://arxiv.org/abs/1901.00850)
+
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
