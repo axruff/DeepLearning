@@ -227,6 +227,10 @@ Notations
 
 <img src="http://www.programmersought.com/images/387/eb5e83159442106d19fbd79698e299eb.png" width="300">
 
+[2019 - Feature Pyramid Encoding Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1909.08599v1)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_290654%2Fproject_390693%2Fimages%2FFPENet.png" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
 <!--- ------------------------------------------------------------------------------- -->
