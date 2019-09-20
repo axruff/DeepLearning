@@ -366,6 +366,9 @@ model
 weights, is more crucial to the efficiency in the final model, which suggests that in
 some cases pruning can be useful as an architecture search paradigm.
 
+[2018- Slimmable Neural Networks](https://arxiv.org/abs/1812.08928)
+
+
 [2019 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
