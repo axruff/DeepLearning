@@ -390,6 +390,10 @@ iterations.
 > The winning tickets we find have won the **initialization** lottery: their
 connections have initial weights that make training particularly effective.
 
+[2019 - AutoSlim: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_14%2Fproject_372245%2Fimages%2Fx1.png" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
