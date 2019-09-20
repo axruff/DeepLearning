@@ -368,6 +368,8 @@ some cases pruning can be useful as an architecture search paradigm.
 
 [2018- Slimmable Neural Networks](https://arxiv.org/abs/1812.08928)
 
+<img src="https://user-images.githubusercontent.com/22609465/50390872-1b3fb600-0702-11e9-8034-d0f41825d775.png" width="350">
+
 
 [2019 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
