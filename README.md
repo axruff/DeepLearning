@@ -280,6 +280,14 @@ Notations
 ### Mutual Learning
 <!--- ------------------------------------------------------------------------------- -->
 
+[2017 - Deep Mutual Learning](https://arxiv.org/abs/1706.00384)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_1989/project_107452/images/x1.png" width="350">
+
+
+[2019 - Feature Fusion for Online Mutual Knowledge Distillation ](https://arxiv.org/abs/1904.09058)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_228887%2Fproject_355567%2Fimages%2Foverallprocess.png" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
@@ -288,10 +296,6 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
-
-[Deep Mutual Learning (2017)](https://arxiv.org/abs/1706.00384)
-
-<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_1989/project_107452/images/x1.png" width="350">
 
 [Random search for hyper-parameter optimisation](http://www.jmlr.org/papers/v13/bergstra12a.html)
 
