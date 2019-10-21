@@ -325,6 +325,9 @@ https://arxiv.org/abs/1806.09055
 
 [2017 - Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation](https://arxiv.org/abs/1602.05179)
 
+[2017 - Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
 [2018 - Error Forward-Propagation: Reusing Feedforward Connections to Propagate Errors in Deep Learning](https://arxiv.org/abs/1808.03357)
 
 [2018 - An Empirical Model of Large-Batch Training](https://arxiv.org/abs/1812.06162v1)
