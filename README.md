@@ -9,6 +9,7 @@
     - [Multi-level](#multi-level)
     - [Context and Attention](#context-and-attention)
     - [Composition](#composition)
+    - [Mutual Learning](#mutual-learning)
   - [Optimization](#optimization)
     - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
@@ -275,6 +276,10 @@ Notations
 <img src="https://www.vicarious.com/wp-content/uploads/2017/10/compositionality3.png" width="350">
 
 
+<!--- ------------------------------------------------------------------------------- -->
+### Mutual Learning
+<!--- ------------------------------------------------------------------------------- -->
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
@@ -284,6 +289,9 @@ Notations
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
+[Deep Mutual Learning (2017)](https://arxiv.org/abs/1706.00384)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_1989/project_107452/images/x1.png" width="350">
 
 [Random search for hyper-parameter optimisation](http://www.jmlr.org/papers/v13/bergstra12a.html)
 
