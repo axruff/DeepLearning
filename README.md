@@ -173,6 +173,10 @@ Notations
 
 <img src="http://deeperlab.mit.edu/deeperlab_illustration.png" width="350">
 
+
+
+
+
 <!--- ------------------------------------------------------------------------------- -->
 ### Multi-level
 <!--- ------------------------------------------------------------------------------- -->
@@ -235,6 +239,9 @@ Notations
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_290654%2Fproject_390693%2Fimages%2FFPENet.png" width="350">
 
+
+
+
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
 <!--- ------------------------------------------------------------------------------- -->
@@ -281,6 +288,7 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 
 [2017 - Deep Mutual Learning](https://arxiv.org/abs/1706.00384)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_1989/project_107452/images/x1.png" width="350">
 
