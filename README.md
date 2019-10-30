@@ -174,7 +174,10 @@ Notations
 <img src="http://deeperlab.mit.edu/deeperlab_illustration.png" width="350">
 
 
+[2019 - **[EfficientNet]**: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
+<img src="https://miro.medium.com/max/4044/1*xQCVt1tFWe7XNWVEmC6hGQ.png" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
