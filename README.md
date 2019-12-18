@@ -837,6 +837,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://raw.githubusercontent.com/fidler-lab/curve-gcn/master/docs/model.png" width="350">
 
+[2017 - Learning Fashion Compatibility with Bidirectional LSTMs](https://arxiv.org/abs/1707.05691)[[github]](https://github.com/xthan/polyvore)
+
+<img src="https://i.pinimg.com/564x/4b/af/fc/4baffc51cc87b1354ed9e88cc8bd534e.jpg" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 # Software
 <!--- ------------------------------------------------------------------------------- -->
