@@ -574,6 +574,11 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 [2019 - Localization with Limited Annotation for Chest X-rays](https://arxiv.org/abs/1909.08842v1)
 
+[2019 - **[RealMix]**: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766v1)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+<src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_402411/images/RealMix.png" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
