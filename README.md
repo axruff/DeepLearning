@@ -473,25 +473,20 @@ https://gandissect.csail.mit.edu/
 
 <img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
  
-[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
-[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
-
 [2017 - Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
 
 <img src="https://github.com/zhunzhong07/Random-Erasing/raw/master/all_examples-page-001.jpg" width="350">
-
-[2018 - Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/abs/1801.02929)
 
 [2017 - Smart Augmentation - Learning an Optimal Data Augmentation Strategy](https://arxiv.org/abs/1703.08383)
 
 [2017 - Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
-
-[2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
+[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+
+[2018 - Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/abs/1801.02929)
 
 [2018 - **[AutoAugment]**: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
 
@@ -499,6 +494,10 @@ https://gandissect.csail.mit.edu/
 
 [2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
 
+[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
+
+[2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 
 <!--- ------------------------------------------------------------------------------- -->
@@ -577,7 +576,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 [2019 - **[RealMix]**: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766v1)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
-<src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_402411/images/RealMix.png" width="350">
+<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_402411/images/RealMix.png" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
