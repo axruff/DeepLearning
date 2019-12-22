@@ -499,6 +499,10 @@ https://gandissect.csail.mit.edu/
 [2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
+[2019 - **AugMix**: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781v1)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+<img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
