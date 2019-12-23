@@ -248,7 +248,7 @@ Notations
 
 [2019 - PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193)
 
-<ing src="https://media.arxiv-vanity.com/render-output/1976701/x1.png" width="350">
+<img src="https://media.arxiv-vanity.com/render-output/1976701/x1.png" width="300">
 
 
 
