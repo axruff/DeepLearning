@@ -244,7 +244,11 @@ Notations
 
 [2019 - Efficient Segmentation: Learning Downsampling Near Semantic Boundaries](https://arxiv.org/abs/1907.07156)
 
-<img src="https://images.deepai.org/converted-papers/1907.07156/x5.png" width="300">
+<img src="https://images.deepai.org/converted-papers/1907.07156/x5.png" width="250">
+
+[2019 - PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193)
+
+<ing src="https://media.arxiv-vanity.com/render-output/1976701/x1.png" width="350">
 
 
 
