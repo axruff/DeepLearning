@@ -242,6 +242,10 @@ Notations
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_290654%2Fproject_390693%2Fimages%2FFPENet.png" width="350">
 
+[2019 - Efficient Segmentation: Learning Downsampling Near Semantic Boundaries](https://arxiv.org/abs/1907.07156)
+
+<img src="https://images.deepai.org/converted-papers/1907.07156/x5.png" width="300">
+
 
 
 
