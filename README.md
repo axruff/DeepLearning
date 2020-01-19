@@ -252,7 +252,7 @@ Notations
 
 [2019 - Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423)
 
-<ing src="https://raw.githubusercontent.com/facebookresearch/FixRes/master/image/image2.png" width="350">
+<img src="https://raw.githubusercontent.com/facebookresearch/FixRes/master/image/image2.png" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
