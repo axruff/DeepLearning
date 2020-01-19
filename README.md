@@ -254,6 +254,10 @@ Notations
 
 <img src="https://raw.githubusercontent.com/facebookresearch/FixRes/master/image/image2.png" width="350">
 
+> This paper first shows that existing augmentations induce a significant discrepancy between the typical size of the objects seen by the classifier at train and test time. 
+
+> We experimentally validate that, for a target test resolu- tion, using a lower train resolution offers better classification at test time.
+
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
 <!--- ------------------------------------------------------------------------------- -->
