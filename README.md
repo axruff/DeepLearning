@@ -263,16 +263,18 @@ Notations
 ### Context and Attention
 <!--- ------------------------------------------------------------------------------- -->
 
-[Image Captioning with Semantic Attention](https://arxiv.org/abs/1603.03925)
+[2016 - Image Captioning with Semantic Attention](https://arxiv.org/abs/1603.03925)
 
 <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/P/PDFangeltop1/20160406/20160406161035.png" width="350">
 
-[**[EncNet]** Context Encoding for Semantic Segmentation (2018)](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding)
+[2018 - **[EncNet]** Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZS4gdvv26N8N7dpr92pPoHmVP3RQ8ztddravjJlwHr1Sw5fCT" width="400">
 
+[2018 - Tell Me Where to Look: Guided Attention Inference Network](https://arxiv.org/abs/1802.10171)
 
+<img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_55108%2Fproject_88090%2Fimages%2Fx1.png" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Composition
