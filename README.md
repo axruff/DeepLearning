@@ -251,6 +251,7 @@ Notations
 <img src="https://media.arxiv-vanity.com/render-output/1976701/x3.png" width="300">
 
 [2019 - Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 <img src="https://raw.githubusercontent.com/facebookresearch/FixRes/master/image/image2.png" width="350">
 
