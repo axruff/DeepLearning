@@ -473,6 +473,10 @@ https://gandissect.csail.mit.edu/
 
 <img src="https://2.bp.blogspot.com/-ZS7WHgo3f9U/XD26idxNEEI/AAAAAAAABl8/DipJ1Fm3ZK0C3tXhu03psC4nByTlID-sQCLcBGAs/s1600/Screen%2BShot%2B2019-01-15%2Bat%2B19.48.13.png" width="400">
 
+[2016 - **[Grad-CAM]**: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391) [[github]](https://github.com/jacobgil/pytorch-grad-cam)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR95EORUuYqxk3MtWiiQoDmHnizHVPxr1JnGVbfWJrHesJjZln&s" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
