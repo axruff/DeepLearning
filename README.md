@@ -370,7 +370,7 @@ https://arxiv.org/abs/1806.09055
 
 [2019 - Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
 
-<img src="https://www.pyimagesearch.com/wp-content/uploads/2019/07/keras_clr_triangular2.png" width=""350>
+<img src="https://www.pyimagesearch.com/wp-content/uploads/2019/07/keras_clr_triangular2.png" width="350">
 
 
 
