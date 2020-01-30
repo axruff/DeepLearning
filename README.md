@@ -3,8 +3,6 @@
 
 ##### Table of Contents
 - [Neural Networks](#neural-networks)
-  - [Overview](#overview)
-  - [Opinions](#opinions)
   - [Models](#models)
     - [Multi-level](#multi-level)
     - [Context and Attention](#context-and-attention)
@@ -32,8 +30,11 @@
   - [Applications: Inpainting](#applications-inpainting)
   - [Applications: Photography](#applications-photography)
   - [Applications: Misc](#applications-misc)
-- [Software](#software)  
+- [Software](#software)
+- [Overview](#overview)
+- [Opinions](#opinions)
 - [Future of AI](#future-of-ai) 
+
 
 
 Notations
@@ -44,41 +45,6 @@ Notations
 
 
 # Neural Networks
-
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
-## Overview
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
-
-[2016 - An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678)
-
-[2017 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
-
-
-
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
-## Opinions
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
-
-
-[2016 - Building Machines That Learn and Think Like People](https://www.semanticscholar.org/paper/Building-Machines-That-Learn-and-Think-Like-People-Lake-Ullman/5721a0c623aeb12a65b4d6f5a5c83a5f82988d7c)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-
-[2016 - A Berkeley View of Systems Challenges for AI](https://arxiv.org/abs/1712.05855)
-
-[2018 - Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631)
-
-[2018 - Human-level intelligence or animal-like abilities?](https://dl.acm.org/citation.cfm?id=3271625)
-
-[2019 - Deep Nets: What have they ever done for Vision?](https://arxiv.org/abs/1805.04025)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 
 
@@ -886,6 +852,42 @@ https://arxiv.org/abs/1611.07715
 [**Glow**: Compiler for Neural Network hardware accelerators](https://github.com/pytorch/glow)
 
 <img src="https://github.com/pytorch/glow/raw/master/docs/3LevelIR.png" width="400">
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+## Overview
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+[2016 - An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678)
+
+[2017 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
+
+
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+## Opinions
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+
+[2016 - Building Machines That Learn and Think Like People](https://www.semanticscholar.org/paper/Building-Machines-That-Learn-and-Think-Like-People-Lake-Ullman/5721a0c623aeb12a65b4d6f5a5c83a5f82988d7c)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+[2016 - A Berkeley View of Systems Challenges for AI](https://arxiv.org/abs/1712.05855)
+
+[2018 - Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631)
+
+[2018 - Human-level intelligence or animal-like abilities?](https://dl.acm.org/citation.cfm?id=3271625)
+
+[2019 - Deep Nets: What have they ever done for Vision?](https://arxiv.org/abs/1805.04025)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
