@@ -854,6 +854,8 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://github.com/pytorch/glow/raw/master/docs/3LevelIR.png" width="400">
 
+[**Lucid**: A collection of infrastructure and tools for research in neural network interpretability](https://github.com/tensorflow/lucid)
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
