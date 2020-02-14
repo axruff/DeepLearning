@@ -449,6 +449,7 @@ https://gandissect.csail.mit.edu/
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR95EORUuYqxk3MtWiiQoDmHnizHVPxr1JnGVbfWJrHesJjZln&s" width="350">
 
+[Distill: Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/)
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
