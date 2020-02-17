@@ -15,7 +15,7 @@
   - [Data Augmentation](#data-augmentation)
 - [Segmentation](#segmentation) 
 - [Semi and Weak Supervision](#semi-and-weak-supervision)
-- [Unsupervised Learning](#unsupervised-learning)
+- [Unsupervised / Self-supervised Learning](#unsupervised-learning)
 - [Anomaly Detection](#anomaly-detection)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
@@ -589,6 +589,9 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 [2019 - Unsupervised Learning via Meta-Learning](https://arxiv.org/abs/1810.02334)
 
 [2019 - Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+
+[2020 - A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
