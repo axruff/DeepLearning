@@ -225,6 +225,10 @@ Notations
 
 > We experimentally validate that, for a target test resolu- tion, using a lower train resolution offers better classification at test time.
 
+[2020 - Roto-Translation Equivariant Convolutional Networks: Application to Histopathology Image Analysis](https://arxiv.org/abs/2002.08725)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_408932/images/x1.png" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
 <!--- ------------------------------------------------------------------------------- -->
