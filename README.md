@@ -145,6 +145,10 @@ Notations
 
 <img src="https://miro.medium.com/max/4044/1*xQCVt1tFWe7XNWVEmC6hGQ.png" width="350">
 
+[2020 - Roto-Translation Equivariant Convolutional Networks: Application to Histopathology Image Analysis](https://arxiv.org/abs/2002.08725)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_408932/images/x1.png" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Multi-level
@@ -224,10 +228,6 @@ Notations
 > This paper first shows that existing augmentations induce a significant discrepancy between the typical size of the objects seen by the classifier at train and test time. 
 
 > We experimentally validate that, for a target test resolu- tion, using a lower train resolution offers better classification at test time.
-
-[2020 - Roto-Translation Equivariant Convolutional Networks: Application to Histopathology Image Analysis](https://arxiv.org/abs/2002.08725)
-
-<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_408932/images/x1.png" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
