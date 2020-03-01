@@ -311,6 +311,20 @@ https://arxiv.org/abs/1511.07122
 
 <img src="https://user-images.githubusercontent.com/22321977/48708394-7121c980-ec3d-11e8-98ab-2c116df0aaae.png" width="300">
 
+[2017 - The Marginal Value of Adaptive Gradient Methods in Machine Learning](https://papers.nips.cc/paper/7003-the-marginal-value-of-adaptive-gradient-methods-in-machine-learning)
+
+> (i) Adaptive methods find solutions that generalize worse than those found by non-adaptive methods.
+
+> (ii) Even when the adaptive methods achieve
+the same training loss or lower than non-adaptive methods, the development or test performance
+is worse.
+
+> (iii) Adaptive methods often display faster initial progress on the training set, but their
+performance quickly plateaus on the development set. 
+
+> (iv) Though conventional wisdom suggests
+that Adam does not require tuning, we find that tuning the initial learning rate and decay scheme for
+Adam yields significant improvements over its default settings in all cases.
 
 DARTS: Differentiable Architecture Search
 https://arxiv.org/abs/1806.09055
