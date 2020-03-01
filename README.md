@@ -345,8 +345,13 @@ https://arxiv.org/abs/1806.09055
 [2020 - Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/abs/1912.02178)
 
 > The most direct and principled approach for studying
-generalization in deep learning is to prove a generalization bound which is typically an upper
+generalization in deep learning is to prove a **generalization bound** which is typically an upper
 bound on the test error based on some quantity that can be calculated on the training set.
+
+> **Kendall’s Rank-Correlation Coefficient**: Given a set of models
+resulted by training with hyperparameters in the set Θ, their associated generalization gap {g(θ)| θ ∈
+Θ}, and their respective values of the measure {µ(θ)| θ ∈ Θ}, our goal is to analyze how consistent
+a measure (e.g. L2 norm of network weights) is with the empirically observed generalization. 
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
