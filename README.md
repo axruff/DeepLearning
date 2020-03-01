@@ -342,8 +342,11 @@ https://arxiv.org/abs/1806.09055
 
 <img src="https://www.pyimagesearch.com/wp-content/uploads/2019/07/keras_clr_triangular2.png" width="350">
 
+[2020 - Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/abs/1912.02178)
 
-
+> The most direct and principled approach for studying
+generalization in deep learning is to prove a generalization bound which is typically an upper
+bound on the test error based on some quantity that can be calculated on the training set.
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
