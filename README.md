@@ -343,6 +343,7 @@ https://arxiv.org/abs/1806.09055
 <img src="https://www.pyimagesearch.com/wp-content/uploads/2019/07/keras_clr_triangular2.png" width="350">
 
 [2020 - Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/abs/1912.02178)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 > The most direct and principled approach for studying
 generalization in deep learning is to prove a **generalization bound** which is typically an upper
@@ -352,6 +353,40 @@ bound on the test error based on some quantity that can be calculated on the tra
 resulted by training with hyperparameters in the set Θ, their associated generalization gap {g(θ)| θ ∈
 Θ}, and their respective values of the measure {µ(θ)| θ ∈ Θ}, our goal is to analyze how consistent
 a measure (e.g. L2 norm of network weights) is with the empirically observed generalization. 
+If complexity and generalization are independent, the coefficient becomes zero
+
+> **VC-dimension** as well as the number of parameters are **negatively correlated** with
+generalization gap which confirms the widely known empirical observation that overparametrization
+improves generalization in deep learning.
+
+> These results confirm the general understanding that larger margin, **lower cross-entropy** and higher entropy would
+lead to **better generalization**
+
+> we observed that the **initial phase** (to reach cross-entropy value of 0.1) of the optimization is **negatively
+correlated** with the ??speed of optimization?? (error?) for both τ and Ψ. This would suggest that the **difficulty
+of optimization** during the initial phase of the optimization **benefits the final generalization**.
+
+> Towards the end of the training, the variance of the gradients also
+captures a particular type of “flatness” of the local minima. This measure is surprisingly predictive
+of the generalization both in terms of τ and Ψ, and more importantly, is positively correlated across
+every type of hyperparameter. 
+
+> There are **mixed** results about how the **optimization speed** is relevant to generalization. On one hand
+we know that adding Batch Normalization or using shortcuts in residual architectures help both
+optimization and generalization.On the other hand, there are empirical results showing that adaptive
+optimization methods that are faster, usually generalize worse (Wilson et al., 2017b).
+
+> Based on empirical observations made by the community as a whole, the canonical ordering we give
+to each of the hyper-parameter categories are as follows:
+1. Batchsize: smaller batchsize leads to smaller generalization gap
+2. Depth: deeper network leads to smaller generalization gap
+3. Width: wider network leads to smaller generalization gap
+4. Dropout: The higher the dropout (≤ 0.5) the smaller the generalization gap
+5. Weight decay: The higher the weight decay (smaller than the maximum for each optimizer)
+the smaller the generalization gap
+6. Learning rate: The higher the learning rate (smaller than the maximum for each optimizer)
+the smaller the generalization gap
+7. Optimizer: Generalization gap of Momentum SGD < Generalization gap of Adam < Generalization gap of RMSProp
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
