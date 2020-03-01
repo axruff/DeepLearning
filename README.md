@@ -378,15 +378,15 @@ optimization methods that are faster, usually generalize worse (Wilson et al., 2
 
 > Based on empirical observations made by the community as a whole, the canonical ordering we give
 to each of the hyper-parameter categories are as follows:
-1. Batchsize: smaller batchsize leads to smaller generalization gap
-2. Depth: deeper network leads to smaller generalization gap
-3. Width: wider network leads to smaller generalization gap
-4. Dropout: The higher the dropout (≤ 0.5) the smaller the generalization gap
-5. Weight decay: The higher the weight decay (smaller than the maximum for each optimizer)
+> 1. Batchsize: smaller batchsize leads to smaller generalization gap
+> 2. Depth: deeper network leads to smaller generalization gap
+> 3. Width: wider network leads to smaller generalization gap
+> 4. Dropout: The higher the dropout (≤ 0.5) the smaller the generalization gap
+> 5. Weight decay: The higher the weight decay (smaller than the maximum for each optimizer)
 the smaller the generalization gap
-6. Learning rate: The higher the learning rate (smaller than the maximum for each optimizer)
+> 6. Learning rate: The higher the learning rate (smaller than the maximum for each optimizer)
 the smaller the generalization gap
-7. Optimizer: Generalization gap of Momentum SGD < Generalization gap of Adam < Generalization gap of RMSProp
+> 7. Optimizer: Generalization gap of Momentum SGD < Generalization gap of Adam < Generalization gap of RMSProp
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
