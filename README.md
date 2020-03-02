@@ -920,6 +920,10 @@ https://arxiv.org/abs/1611.07715
 
 [**Lucid**: A collection of infrastructure and tools for research in neural network interpretability](https://github.com/tensorflow/lucid)
 
+[**PySyft**: A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017) [[github]](https://github.com/OpenMined/PySyft)
+
+[**Crypten**: A framework for Privacy Preserving Machine Learning](https://crypten.ai/) [[github]](https://github.com/facebookresearch/crypten)
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
