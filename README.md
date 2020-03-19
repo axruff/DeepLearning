@@ -824,6 +824,9 @@ https://doi.org/10.1117/12.2293755
 
 <img src="https://miro.medium.com/max/2000/1*upabGHvSJDva8wVct21hNg.png" width="350">
 
+[2020 - **[TorchIO]**: a Python library for efficient loading, preprocessing, augmentation and patch-based sampling of medical images in deep learning](https://arxiv.org/abs/2003.04696) [[github]](https://github.com/fepegar/torchio)
+
+
 <!--- ------------------------------------------------------------------------------- -->
 # Applications: X-ray Imaging
 <!--- ------------------------------------------------------------------------------- -->
