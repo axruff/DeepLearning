@@ -8,6 +8,7 @@
     - [Context and Attention](#context-and-attention)
     - [Composition](#composition)
     - [Mutual Learning](#mutual-learning)
+    - [Multi-task Learning](#multitask-learning)
   - [Optimization](#optimization)
     - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
@@ -271,6 +272,11 @@ Notations
 
 <img src="https://www.vicarious.com/wp-content/uploads/2017/10/compositionality3.png" width="350">
 
+
+<!--- ------------------------------------------------------------------------------- -->
+### Multitask Learning
+<!--- ------------------------------------------------------------------------------- -->
+[2017 - An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098)
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Mutual Learning
