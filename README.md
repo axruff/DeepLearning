@@ -690,7 +690,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- ------------------------------------------------------------------------------- -->
 [2017 - An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098)
 
-
+<sub><sup>Multi-task learning (MTL) has led to successes in many applications of machine learning, from natural language processing and speech recognition to computer vision and drug discovery. This article aims to give a general overview of MTL, particularly in deep neural networks. It introduces the two most common methods for MTL in Deep Learning, gives an overview of the literature, and discusses recent advances. In particular, it seeks to help ML practitioners apply MTL by shedding light on how MTL works and providing guidelines for choosing appropriate auxiliary tasks.</sup></sub>
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
