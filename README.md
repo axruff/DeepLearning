@@ -841,6 +841,8 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 [2019 - A Deep Learning Framework for Unsupervised Affine and Deformable Image Registration](https://arxiv.org/abs/1809.06130)
 
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1361841518300495-gr12.jpg" width="300">
+
 <!--- ------------------------------------------------------------------------------- -->
 # Applications: Video and Motion
 <!--- ------------------------------------------------------------------------------- -->
