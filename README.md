@@ -13,10 +13,10 @@
     - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
   - [Visualization](#visualization-and-analysis)  
-  - [Data Augmentation](#data-augmentation)
 - [Segmentation](#segmentation) 
 - [Semi and Weak Supervision](#semi-and-weak-supervision)
 - [Unsupervised / Self-supervised Learning](#unsupervised-learning)
+- [Data Augmentation](#data-augmentation)
 - [Anomaly Detection](#anomaly-detection)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
@@ -518,49 +518,7 @@ https://gandissect.csail.mit.edu/
 
 [Distill: Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/)
 
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
-## Data Augmentation
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
 
-[2014 - Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-
-<img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
- 
-[2017 - Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
-
-<img src="https://github.com/zhunzhong07/Random-Erasing/raw/master/all_examples-page-001.jpg" width="350">
-
-[2017 - Smart Augmentation - Learning an Optimal Data Augmentation Strategy](https://arxiv.org/abs/1703.08383)
-
-[2017 - Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-
-[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
-
-[2018 - Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/abs/1801.02929)
-
-[2018 - **[AutoAugment]**: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
-
-[2018 - Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification](https://arxiv.org/abs/1801.02385)
-
-[2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
-
-[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
-
-[2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
-[2019 - **AugMix**: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781v1) [[github]](https://github.com/google-research/augmix)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
-<img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
@@ -674,6 +632,50 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 [2020 - A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+## Data Augmentation
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+[2014 - Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
+
+<img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
+ 
+[2017 - Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
+
+<img src="https://github.com/zhunzhong07/Random-Erasing/raw/master/all_examples-page-001.jpg" width="350">
+
+[2017 - Smart Augmentation - Learning an Optimal Data Augmentation Strategy](https://arxiv.org/abs/1703.08383)
+
+[2017 - Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+
+[2018 - Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/abs/1801.02929)
+
+[2018 - **[AutoAugment]**: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
+
+[2018 - Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification](https://arxiv.org/abs/1801.02385)
+
+[2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
+
+[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
+
+[2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+[2019 - **AugMix**: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781v1) [[github]](https://github.com/google-research/augmix)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+<img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
