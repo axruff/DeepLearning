@@ -647,7 +647,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_402411/images/RealMix.png" width="350">
 
 [2020 - Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](https://arxiv.org/abs/2002.11955)
-<img src="https://hazyresearch.stanford.edu/assets/img/2020-02-28-flyingsquid/System%20Diagram.png" width="300">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
