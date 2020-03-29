@@ -7,7 +7,6 @@
     - [Multi-level](#multi-level)
     - [Context and Attention](#context-and-attention)
     - [Composition](#composition)
-    - [Mutual Learning](#mutual-learning)
     - [Multi-task Learning](#multitask-learning)
   - [Optimization](#optimization)
     - [Optimization and Regularisation](#optimization-and-regularisation)
@@ -20,6 +19,7 @@
   - [Semi and Weak Supervision](#semi-and-weak-supervision)
   - [Unsupervised / Self-supervised Learning](#unsupervised-learning)
   - [Data Augmentation](#data-augmentation)
+  - [Mutual Learning](#mutual-learning)
   - [Anomaly Detection](#anomaly-detection)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
@@ -281,19 +281,7 @@ Notations
 <!--- ------------------------------------------------------------------------------- -->
 [2017 - An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098)
 
-<!--- ------------------------------------------------------------------------------- -->
-### Mutual Learning
-<!--- ------------------------------------------------------------------------------- -->
 
-[2017 - Deep Mutual Learning](https://arxiv.org/abs/1706.00384)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
-<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_1989/project_107452/images/x1.png" width="350">
-
-
-[2019 - Feature Fusion for Online Mutual Knowledge Distillation ](https://arxiv.org/abs/1904.09058)
-
-<img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_228887%2Fproject_355567%2Fimages%2Foverallprocess.png" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
@@ -576,7 +564,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
-# Anomaly Detection
+## Anomaly Detection
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -589,7 +577,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
-# Transfer Learning
+## Transfer Learning
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -599,7 +587,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
-# Semi and Weak Supervision
+## Semi and Weak Supervision
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -632,7 +620,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
-# Unsupervised Learning
+## Unsupervised Learning
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -690,6 +678,19 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
 
+<!--- ------------------------------------------------------------------------------- -->
+## Mutual Learning
+<!--- ------------------------------------------------------------------------------- -->
+
+[2017 - Deep Mutual Learning](https://arxiv.org/abs/1706.00384)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_1989/project_107452/images/x1.png" width="350">
+
+
+[2019 - Feature Fusion for Online Mutual Knowledge Distillation ](https://arxiv.org/abs/1904.09058)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_228887%2Fproject_355567%2Fimages%2Foverallprocess.png" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
