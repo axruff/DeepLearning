@@ -637,6 +637,11 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://people.eecs.berkeley.edu/~pathak/images/iccv15.png" width="300">
 
+[2018 - **[Survey]**: Not-so-supervised: a survey of semi-supervised, multi-instance, and transfer learning in medical image analysis](https://arxiv.org/abs/1804.06353)
+
+[2018 - Deep Learning with Mixed Supervision for Brain Tumor Segmentation](https://arxiv.org/abs/1812.04571)
+<img src="https://www.spiedigitallibrary.org/ContentImages/Journals/JMIOBU/6/3/034002/WebImages/JMI_6_3_034002_f001.png" widtg="350">
+
 [2019 - Localization with Limited Annotation for Chest X-rays](https://arxiv.org/abs/1909.08842v1)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOFaxbxbwuKln6SgbFVWyVP2A7tj-CTQe05isVKH3gb1IGqg84ig&s" width="350">
