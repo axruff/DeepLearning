@@ -1016,6 +1016,8 @@ https://arxiv.org/abs/1611.07715
 [2019 - Deep Nets: What have they ever done for Vision?](https://arxiv.org/abs/1805.04025)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
+<sup>This is an opinion paper about the strengths and weaknesses of Deep Nets for vision. They are at the center of recent progress on artificial intelligence and are of growing importance in cognitive science and neuroscience. They have enormous successes but also clear limitations. There is also only partial understanding of their inner workings. It seems unlikely that Deep Nets in their current form will be the best long-term solution either for building general purpose intelligent machines or for understanding the mind/brain, but it is likely that many aspects of them will remain. At present Deep Nets do very well on specific types of visual tasks and on specific benchmarked datasets. But Deep Nets are much less general purpose, flexible, and adaptive than the human visual system. Moreover, methods like Deep Nets may run into fundamental difficulties when faced with the enormous complexity of natural images which can lead to a combinatorial explosion. To illustrate our main points, while keeping the references small, this paper is slightly biased towards work from our group.</sup>
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
