@@ -633,6 +633,10 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
+[2015 - Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](https://arxiv.org/abs/1506.03648)
+
+<img src="https://people.eecs.berkeley.edu/~pathak/images/iccv15.png" width="300">
+
 [2019 - Localization with Limited Annotation for Chest X-rays](https://arxiv.org/abs/1909.08842v1)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOFaxbxbwuKln6SgbFVWyVP2A7tj-CTQe05isVKH3gb1IGqg84ig&s" width="350">
