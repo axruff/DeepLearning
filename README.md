@@ -651,6 +651,10 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_402411/images/RealMix.png" width="350">
 
+[2019 - Doubly Weak Supervision of Deep Learning Models for Head CT](https://jdunnmon.github.io/miccai_crc.pdf)
+
+<img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-32248-9_90/MediaObjects/490277_1_En_90_Fig2_HTML.png" width="350">
+
 [2020 - Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](https://arxiv.org/abs/2002.11955)
 
 
