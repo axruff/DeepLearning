@@ -994,6 +994,8 @@ https://arxiv.org/abs/1611.07715
 
 [**Crypten**: A framework for Privacy Preserving Machine Learning](https://crypten.ai/) [[github]](https://github.com/facebookresearch/crypten)
 
+[**[Snorkel]**: Programmatically Building and Managing Training Data](https://www.snorkel.org/)
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
