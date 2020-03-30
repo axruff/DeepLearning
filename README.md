@@ -15,6 +15,7 @@
   - [Segmentation](#segmentation)
 - [Methods](#neural-networks)
   - [TL - Transfer Learning](#transfer-learning)
+  - [GM - Generative Modelling](#generative-modelling)
   - [WS - Semi and Weak Supervision](#semi-and-weak-supervision)
   - [SSL - Unsupervised / Self-supervised Learning](#unsupervised-learning)
   - [AUG - Data Augmentation](#data-augmentation)
@@ -589,7 +590,21 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[PAGE](https://github.com/axruff/TransferLearning)
+- [Transfer Learning](https://github.com/axruff/TransferLearning)
+- [Domain Adaptation](https://github.com/axruff/TransferLearning)
+- [Domain Randomization](https://github.com/axruff/TransferLearning#domain-randomization)
+- [Style Transfer](https://github.com/axruff/TransferLearning#style-transfer)
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+## Generative Modelling
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+- [Generative Models](https://github.com/axruff/TransferLearning#generative-models)
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
