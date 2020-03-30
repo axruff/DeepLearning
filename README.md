@@ -621,6 +621,12 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-32248-9_90/MediaObjects/490277_1_En_90_Fig2_HTML.png" width="350">
 
+[2019 - Training Complex Models with Multi-Task Weak Supervision](https://www.ncbi.nlm.nih.gov/pubmed/31565535)
+
+<sub>As machine learning models continue to increase in complexity, collecting large hand-labeled training sets has become one of the biggest roadblocks in practice. Instead, weaker forms of supervision that provide noisier but cheaper labels are often used. However, these weak supervision sources have diverse and unknown accuracies, may output correlated labels, and may label different tasks or apply at different levels of granularity. We propose a framework for integrating and modeling such weak supervision sources by viewing them as labeling different related sub-tasks of a problem, which we refer to as the multi-task weak supervision setting. We show that by solving a matrix completion-style problem, we can recover the accuracies of these multi-task sources given their dependency structure, but without any labeled data, leading to higher-quality supervision for training an end model. Theoretically, we show that the generalization error of models trained with this approach improves with the number of unlabeled data points, and characterize the scaling with respect to the task and dependency structures. On three fine-grained classification problems, we show that our approach leads to average gains of 20.2 points in accuracy over a traditional supervised approach, 6.8 points over a majority vote baseline, and 4.1 points over a previously proposed weak supervision method that models tasks separately.</sub>
+
+<img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765366/bin/nihms-1037643-f0001.jpg" width="350">
+
 [2020 - Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](https://arxiv.org/abs/2002.11955)
 
 
