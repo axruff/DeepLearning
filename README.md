@@ -102,6 +102,12 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://miro.medium.com/max/3048/1*6hF97Upuqg_LdsqWY6n_wg.png" width="350">
 
+[2015 - Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
+
+<sub>Convolutional Neural Networks define an exceptionally powerful class of models, but are still limited by the lack of ability to be spatially invariant to the input data in a computationally and parameter efficient manner. In this work we introduce a new learnable module, the Spatial Transformer, which <b>explicitly allows the spatial manipulation<b> of data within the network. <b>This differentiable module</b> can be inserted into existing convolutional architectures, giving neural networks the ability to actively spatially transform feature maps, conditional on the feature map itself, without any extra training supervision or modification to the optimisation process. We show that the use of spatial transformers results in models which learn <b>invariance to translation, scale, rotation and more generic warping</b>, resulting in state-of-the-art performance on several benchmarks, and for a number of classes of transformations.</sub>
+
+<img src="https://miro.medium.com/max/1104/0*n3FxIWWb46ARPww-" width="350">
+
 [2016 - **[WRN]**: Wide Residual Networks](https://arxiv.org/abs/1605.07146) [[github]](https://github.com/szagoruyko/wide-residual-networks)
 
 [2015 - **[FCN]** Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
