@@ -838,6 +838,10 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 <img src="https://i.pinimg.com/564x/16/3e/e0/163ee076d96ef19bf5f7b241d42b60f9.jpg" width="350">
 
+[MegaDepth: Learning Single-View Depth Prediction from Internet Photos](https://research.cs.cornell.edu/megadepth/)
+
+<img src="https://research.cs.cornell.edu/megadepth/demo2.png" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
