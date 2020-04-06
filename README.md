@@ -992,27 +992,32 @@ https://arxiv.org/abs/1611.07715
 # Application: Denoising and Superresolution
 <!--- ------------------------------------------------------------------------------- -->
 
-[Residual Dense Network for Image Restoration (2018)](https://arxiv.org/abs/1812.10477v1) [[github]](https://github.com/yulunzhang/RDN)
+[2017 - "Zero-Shot" Super-Resolution using Deep Internal Learning](https://arxiv.org/abs/1712.06087)
+
+<img src="https://i.pinimg.com/564x/5c/80/fc/5c80fcbf98bad9c0c9aa8abb0f142724.jpg" width="350">
+
+[2018 - Residual Dense Network for Image Restoration](https://arxiv.org/abs/1812.10477v1) [[github]](https://github.com/yulunzhang/RDN)
 
 <img src="https://i.pinimg.com/564x/12/7e/b4/127eb4dfbf482db1ba436ea960821fae.jpg" width="350" >
+
 
 <!--- ------------------------------------------------------------------------------- -->
 # Applications: Inpainting
 <!--- ------------------------------------------------------------------------------- -->
 
-[Image Inpainting for Irregular Holes Using Partial Convolutions (2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf)[[github official]](https://github.com/NVIDIA/partialconv), [[github]](https://github.com/MathiasGruber/PConv-Keras)
+[2018 - Image Inpainting for Irregular Holes Using Partial Convolutions](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf)[[github official]](https://github.com/NVIDIA/partialconv), [[github]](https://github.com/MathiasGruber/PConv-Keras)
 
 <img src="https://i.pinimg.com/564x/63/fa/a3/63faa338eba25225c7e84f1d3bad74d3.jpg" width="350">
 
-[Globally and Locally Consistent Image Completion (2017)](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)[[github]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
+[2017 - Globally and Locally Consistent Image Completion](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)[[github]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
 
 <img src="http://iizuka.cs.tsukuba.ac.jp/projects/completion/images/teaser/flickr_4_o.png" width=350>
 
-[Generative Image Inpainting with Contextual Attention(2017)](https://arxiv.org/abs/1801.07892)[[github]](https://github.com/JiahuiYu/generative_inpainting)
+[2017 - Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892)[[github]](https://github.com/JiahuiYu/generative_inpainting)
 
 <img src="https://user-images.githubusercontent.com/22609465/35364552-6e9dfab0-0135-11e8-8bc1-5f370a9f4b0a.png" width="350">
 
-[Free-Form Image Inpainting with Gated Convolution (2018)](https://arxiv.org/abs/1806.03589)
+[2018 - Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589)
 
 <img src="https://user-images.githubusercontent.com/22609465/41198673-1aac4f2e-6c38-11e8-9f75-6bac82b94265.jpg" width="350">
 
