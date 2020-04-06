@@ -934,6 +934,16 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 # Applications: Image Registration
 
+[2014 - Do Convnets Learn Correspondence?](https://arxiv.org/abs/1411.1091)
+
+<img src="https://i.pinimg.com/564x/73/f2/12/73f212fc05c87151112a8381f1904cc0.jpg" width="350">
+
+[2016 - Universal Correspondence Network](https://arxiv.org/abs/1606.03558)
+
+<sub>We present a deep learning framework for accurate visual correspondences and demonstrate its effectiveness for both geometric and semantic matching, spanning across rigid motions to intra-class shape or appearance variations. In contrast to previous CNN-based approaches that optimize a surrogate patch similarity objective, we use deep metric learning to <b>directly learn a feature space</b> that preserves either geometric or semantic similarity. Our fully convolutional architecture, along with a <b>novel correspondence contrastive loss</b> allows faster training by effective reuse of computations, accurate gradient computation through the use of thousands of examples per image pair and faster testing with O(n) feed forward passes for n keypoints, instead of O(n2) for typical patch similarity methods. We propose a <b>convolutional spatial transformer</b> to mimic patch normalization in traditional features like SIFT, which is shown to dramatically boost accuracy for semantic correspondences across intra-class shape variations. Extensive experiments on KITTI, PASCAL, and CUB-2011 datasets demonstrate the significant advantages of our features over prior works that use either hand-constructed or learned features.</sub>
+
+<img src="https://cvgl.stanford.edu/projects/ucn/imgs/overview-nn_sm.png" width="380">
+
 [2016 - Learning Dense Correspondence via 3D-guided Cycle Consistency](https://arxiv.org/abs/1604.05383)
 
 <sub>Discriminative deep learning approaches have shown impressive results for problems where human-labeled ground truth is plentiful, but what about tasks where labels are difficult or impossible to obtain? This paper tackles one such problem: establishing dense visual correspondence across different object instances. For this task, although we do not know what the ground-truth is, we know it should be consistent across instances of that category. <b>We exploit this consistency as a supervisory signal</b> to train a convolutional neural network to predict cross-instance correspondences between pairs of images depicting objects of the same category. For each pair of training images we find an appropriate 3D CAD model and render two synthetic views to link in with the pair, establishing a correspondence flow 4-cycle. We use ground-truth synthetic-to-synthetic correspondences, provided by the rendering engine, to train a ConvNet to predict synthetic-to-real, real-to-real and real-to-synthetic correspondences that are cycle-consistent with the ground-truth. At test time, no CAD models are required. We demonstrate that our end-to-end trained ConvNet supervised by cycle-consistency outperforms state-of-the-art pairwise matching methods in correspondence-related tasks.</sub>
