@@ -954,6 +954,10 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 <img src="https://www.di.ens.fr/willow/research/cnngeometric/images/diagram.png" width="350">
 
+[2018 - **[DGC-Net]**: Dense Geometric Correspondence Network](https://arxiv.org/abs/1810.08393) [[github]](https://github.com/AaltoVision/DGC-Net)
+
+<img src="https://i.pinimg.com/564x/53/76/df/5376df64a3ef357a7306a2d8f96ac407.jpg" width="350">
+
 [2018 - An Unsupervised Learning Model for Deformable Medical Image Registration](https://arxiv.org/abs/1802.02604)
 
 <img src="https://vitalab.github.io/article/images/unsupervised-registration/figure2.png" width="350">
