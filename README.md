@@ -817,7 +817,7 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 [ShapeNet: An Information-Rich 3D Model Repository](https://arxiv.org/abs/1512.03012)
 
-<img src="https://www.shapenet.org/resources/images/logo.png" width="500">
+<img src="https://www.shapenet.org/resources/images/logo.png" width="350">
 
 [Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild [website]](http://cvgl.stanford.edu/projects/pascal3d.html)
 [[paper]](https://ieeexplore.ieee.org/document/6836101)
