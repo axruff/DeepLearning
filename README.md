@@ -685,7 +685,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 [2014 - Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
 
-<img src="https://lmb.informatik.uni-freiburg.de/Publications/2016/DFB16/augmentation.png" width="300">
+<img src="https://www.inference.vc/content/images/2017/05/Screen-Shot-2017-05-11-at-9.31.37-AM.png" width="300">
  
 [2017 - Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
 
