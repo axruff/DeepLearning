@@ -104,7 +104,7 @@ The depth of representations is of central importance for many visual recognitio
 
 [2015 - Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
 
-<sub>Convolutional Neural Networks define an exceptionally powerful class of models, but are still limited by the lack of ability to be spatially invariant to the input data in a computationally and parameter efficient manner. In this work we introduce a new learnable module, the Spatial Transformer, which <b>explicitly allows the spatial manipulation<b> of data within the network. <b>This differentiable module</b> can be inserted into existing convolutional architectures, giving neural networks the ability to actively spatially transform feature maps, conditional on the feature map itself, without any extra training supervision or modification to the optimisation process. We show that the use of spatial transformers results in models which learn <b>invariance to translation, scale, rotation and more generic warping</b>, resulting in state-of-the-art performance on several benchmarks, and for a number of classes of transformations.</sub>
+<sub>Convolutional Neural Networks define an exceptionally powerful class of models, but are still limited by the lack of ability to be spatially invariant to the input data in a computationally and parameter efficient manner. In this work we introduce a new learnable module, the Spatial Transformer, which <b>explicitly allows the spatial manipulation</b> of data within the network. <b>This differentiable module</b> can be inserted into existing convolutional architectures, giving neural networks the ability to actively spatially transform feature maps, conditional on the feature map itself, without any extra training supervision or modification to the optimisation process. We show that the use of spatial transformers results in models which learn <b>invariance to translation, scale, rotation and more generic warping</b>, resulting in state-of-the-art performance on several benchmarks, and for a number of classes of transformations.</sub>
 
 <img src="https://miro.medium.com/max/1104/0*n3FxIWWb46ARPww-" width="350">
 
@@ -664,6 +664,12 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 [2019 - Unsupervised Learning via Meta-Learning](https://arxiv.org/abs/1810.02334)
 
 [2019 - Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+
+[2019 - **MoCo**: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+
+<sub>We present Momentum Contrast (MoCo) for unsupervised <b>visual representation learning</b>. From a perspective on contrastive learning as dictionary look-up, we build a <b>dynamic dictionary with a queue</b> and a moving-averaged encoder. This enables building a large and consistent dictionary on-the-fly that facilitates contrastive unsupervised learning. MoCo provides competitive results under the common linear protocol on ImageNet classification. More importantly, the representations learned by MoCo transfer well to downstream tasks. MoCo can outperform its supervised pre-training counterpart in 7 detection/segmentation tasks on PASCAL VOC, COCO, and other datasets, sometimes surpassing it by large margins. This suggests that <b>the gap between unsupervised and supervised</b> representation learning has been largely closed in many vision tasks.</sub>
+
+<img src="https://pythonawesome.com/content/images/2020/03/MoCo.png" width="350">
 
 [2020 - A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
