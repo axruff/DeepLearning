@@ -668,7 +668,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 [2018 - **[Survey]**: Not-so-supervised: a survey of semi-supervised, multi-instance, and transfer learning in medical image analysis](https://arxiv.org/abs/1804.06353)
 
-[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
+[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) - [[github]](https://github.com/albu/albumentations)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 
@@ -680,7 +680,8 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 [2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
 
-[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
+[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) - [[github]](https://github.com/google-research/uda)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 
 [2019 - **[RealMix]**: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766v1)
