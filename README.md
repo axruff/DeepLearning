@@ -16,9 +16,10 @@
 - [Methods](#neural-networks)
   - [TL - Transfer Learning](#transfer-learning)
   - [GM - Generative Modelling](#generative-modelling)
-  - [WS - Semi and Weak Supervision](#semi-and-weak-supervision)
-  - [SSL - Unsupervised / Self-supervised Learning](#unsupervised-learning)
+  - [WS - Weakly Supervised](#weakly-supervised)
+  - [SSL - Semi-supervised Learning](#semi-supervised-learning)
   - [AUG - Data Augmentation](#data-augmentation)
+  - [UL - Unsupervised Learning](#unsupervised-learning)
   - [CL - Collaborative Learning](#mutual-learning)
   - [MTL - Multi-task Learning](#multitask-learning)
   - [AD - Anomaly Detection](#anomaly-detection)
@@ -615,7 +616,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
-## Semi and Weak Supervision
+## Weakly Supervised
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -624,19 +625,12 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://people.eecs.berkeley.edu/~pathak/images/iccv15.png" width="300">
 
-[2018 - **[Survey]**: Not-so-supervised: a survey of semi-supervised, multi-instance, and transfer learning in medical image analysis](https://arxiv.org/abs/1804.06353)
-
 [2018 - Deep Learning with Mixed Supervision for Brain Tumor Segmentation](https://arxiv.org/abs/1812.04571)
 <img src="https://www.spiedigitallibrary.org/ContentImages/Journals/JMIOBU/6/3/034002/WebImages/JMI_6_3_034002_f001.png" widtg="350">
 
 [2019 - Localization with Limited Annotation for Chest X-rays](https://arxiv.org/abs/1909.08842v1)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOFaxbxbwuKln6SgbFVWyVP2A7tj-CTQe05isVKH3gb1IGqg84ig&s" width="350">
-
-[2019 - **[RealMix]**: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766v1)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
-<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_402411/images/RealMix.png" width="350">
 
 [2019 - Doubly Weak Supervision of Deep Learning Models for Head CT](https://jdunnmon.github.io/miccai_crc.pdf)
 
@@ -649,6 +643,60 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765366/bin/nihms-1037643-f0001.jpg" width="350">
 
 [2020 - Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](https://arxiv.org/abs/2002.11955)
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+## Semi Supervised
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+[2014 - Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
+
+<img src="https://www.inference.vc/content/images/2017/05/Screen-Shot-2017-05-11-at-9.31.37-AM.png" width="300">
+ 
+[2017 - Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
+
+<img src="https://github.com/zhunzhong07/Random-Erasing/raw/master/all_examples-page-001.jpg" width="350">
+
+[2017 - Smart Augmentation - Learning an Optimal Data Augmentation Strategy](https://arxiv.org/abs/1703.08383)
+
+[2017 - Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+
+[2018 - **[Survey]**: Not-so-supervised: a survey of semi-supervised, multi-instance, and transfer learning in medical image analysis](https://arxiv.org/abs/1804.06353)
+
+[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+
+[2018 - Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/abs/1801.02929)
+
+[2018 - **[AutoAugment]**: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
+
+[2018 - Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification](https://arxiv.org/abs/1801.02385)
+
+[2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
+
+[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
+
+
+[2019 - **[RealMix]**: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766v1)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_402411/images/RealMix.png" width="350">
+
+
+[2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+[2019 - **AugMix**: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781v1) [[github]](https://github.com/google-research/augmix)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+<img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
@@ -674,49 +722,6 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 [2020 - A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
 
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
-## Data Augmentation
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
-
-[2014 - Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
-
-<img src="https://www.inference.vc/content/images/2017/05/Screen-Shot-2017-05-11-at-9.31.37-AM.png" width="300">
- 
-[2017 - Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896v2)[[github]](https://github.com/zhunzhong07/Random-Erasing)
-
-<img src="https://github.com/zhunzhong07/Random-Erasing/raw/master/all_examples-page-001.jpg" width="350">
-
-[2017 - Smart Augmentation - Learning an Optimal Data Augmentation Strategy](https://arxiv.org/abs/1703.08383)
-
-[2017 - Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-
-[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) [[github]](https://github.com/albu/albumentations)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
-
-[2018 - Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/abs/1801.02929)
-
-[2018 - **[AutoAugment]**: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
-
-[2018 - Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification](https://arxiv.org/abs/1801.02385)
-
-[2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
-
-[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)[[github]](https://github.com/google-research/uda)
-
-[2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
-[2019 - **AugMix**: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781v1) [[github]](https://github.com/google-research/augmix)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
-
-<img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 ## Mutual Learning
