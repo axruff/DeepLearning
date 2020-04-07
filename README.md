@@ -16,7 +16,7 @@
 - [Methods](#neural-networks)
   - [TL - Transfer Learning](#transfer-learning)
   - [GM - Generative Modelling](#generative-modelling)
-  - [WS - Weakly Supervised](#weakly-supervised)
+  - [WS - Weakly Supervised Learning](#weakly-supervised)
   - [SSL - Semi-supervised Learning](#semi-supervised)
   - [UL - Unsupervised Learning](#unsupervised-learning)
   - [CL - Collaborative Learning](#mutual-learning)
