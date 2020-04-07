@@ -713,6 +713,14 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
 
+[2019 - Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
+![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+
+<sub>We present a simple <b>self-training</b> method that achieves 88.4% top-1 accuracy on ImageNet, which is 2.0% better than the state-of-the-art model that requires 3.5B weakly labeled Instagram images. On <b>robustness test sets</b>, it improves ImageNet-A top-1 accuracy from 61.0% to 83.7%.
+To achieve this result, we first train an EfficientNet model on labeled ImageNet images and <b>use it as a teacher to generate pseudo labels</b> on 300M unlabeled images. We then train a larger EfficientNet as <b>a student model on the combination of labeled and pseudo labeled images</b>. We <b>iterate this process</b> by putting back the student as the teacher. During the generation of the pseudo labels, the teacher is not noised so that the pseudo labels are as accurate as possible. However, during the learning of the student, we <b>inject noise such as dropout, stochastic depth and data augmentation</b> via RandAugment to the student so that the student generalizes better than the teacher.</sub>
+
+<img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_23782%2Fproject_397607%2Fimages%2Fx1.png" width="250">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
