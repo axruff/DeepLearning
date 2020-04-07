@@ -17,7 +17,7 @@
   - [TL - Transfer Learning](#transfer-learning)
   - [GM - Generative Modelling](#generative-modelling)
   - [WS - Weakly Supervised](#weakly-supervised)
-  - [SSL - Semi-supervised Learning](#semi-supervised-learning)
+  - [SSL - Semi-supervised Learning](#semi-supervised)
   - [UL - Unsupervised Learning](#unsupervised-learning)
   - [CL - Collaborative Learning](#mutual-learning)
   - [MTL - Multi-task Learning](#multitask-learning)
