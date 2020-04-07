@@ -713,7 +713,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
 
-[2019 - Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
+[2019 - Self-training with **[Noisy Student]** improves ImageNet classification](https://arxiv.org/abs/1911.04252)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 <sub>We present a simple <b>self-training</b> method that achieves 88.4% top-1 accuracy on ImageNet, which is 2.0% better than the state-of-the-art model that requires 3.5B weakly labeled Instagram images. On <b>robustness test sets</b>, it improves ImageNet-A top-1 accuracy from 61.0% to 83.7%.
