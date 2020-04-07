@@ -611,14 +611,20 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 - [Generative Models](https://github.com/axruff/TransferLearning#generative-models)
 
+ <!--- ===================================================================================
+ <!---   ____                 _                                       _              _ 
+ <!---  / ___|  ___ _ __ ___ (_)      ___ _   _ _ __   ___ _ ____   _(_)___  ___  __| |
+ <!---  \___ \ / _ \ '_ ` _ \| |_____/ __| | | | '_ \ / _ \ '__\ \ / / / __|/ _ \/ _` |
+ <!---   ___) |  __/ | | | | | |_____\__ \ |_| | |_) |  __/ |   \ V /| \__ \  __/ (_| |
+ <!---  |____/ \___|_| |_| |_|_|     |___/\__,_| .__/ \___|_|    \_/ |_|___/\___|\__,_|
+ <!---                                         |_|                                     
+<!--- ===================================================================================
 
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
+
 <!--- ------------------------------------------------------------------------------- -->
 ## Weakly Supervised
 <!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
+
 
 [2015 - Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](https://arxiv.org/abs/1506.03648)
 
@@ -643,13 +649,11 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 [2020 - Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](https://arxiv.org/abs/2002.11955)
 
-<!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
+
 <!--- ------------------------------------------------------------------------------- -->
 ## Semi Supervised
 <!--- ------------------------------------------------------------------------------- -->
-<!--- =============================================================================== -->
-<!--- ------------------------------------------------------------------------------- -->
+
 
 [2014 - Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
@@ -680,8 +684,12 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 [2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
 
-[2019 - **UDA**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) - [[github]](https://github.com/google-research/uda)
+[2019 - **[UDA]**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) - [[github]](https://github.com/google-research/uda)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<sub>Common among recent approaches is the use of <b>consistency training</b> on a large amount of unlabeled data to constrain model predictions to be invariant to input noise. In this work, we present a new perspective on how to effectively noise unlabeled examples and argue that the quality of noising, specifically those produced by <b>advanced data augmentation methods</b>, plays a <b>crucial role</b> in semi-supervised learning. Our method also combines well with <b>transfer learning</b>, e.g., when finetuning from BERT, and yields improvements in high-data regime, such as ImageNet, whether when there is only 10% labeled data or when a full labeled set with 1.3M extra unlabeled examples is used.</sub>
+
+<img src="https://camo.githubusercontent.com/0896cb65f9a87983bee3f2f71f3c064c33216413/68747470733a2f2f692e696d6775722e636f6d2f4c38476b3634622e706e67" width="350">
 
 
 [2019 - **[RealMix]**: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766v1)
@@ -693,7 +701,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 [2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
-[2019 - **AugMix**: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781v1) [[github]](https://github.com/google-research/augmix)
+[2019 - **[AugMix]**: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781v1) [[github]](https://github.com/google-research/augmix)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
 <img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
