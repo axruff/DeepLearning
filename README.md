@@ -691,6 +691,13 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://camo.githubusercontent.com/0896cb65f9a87983bee3f2f71f3c064c33216413/68747470733a2f2f692e696d6775722e636f6d2f4c38476b3634622e706e67" width="350">
 
+[2019 - **[MixMatch]**: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<sub>Semi-supervised learning has proven to be a powerful paradigm for leveraging unlabeled data to mitigate the reliance on large labeled datasets. In this work, we unify the current dominant approaches for semi-supervised learning to produce a new algorithm, MixMatch, that works by <b>guessing low-entropy labels</b> for data-augmented unlabeled examples and <b>mixing labeled and unlabeled</b> data using MixUp. We show that MixMatch obtains state-of-the-art results by a large margin across many datasets and labeled data amounts.</sub>
+
+<img src="https://miro.medium.com/max/1402/1*i4OfXztihCXgrxR52ZlowQ.png" width="350">
+
 
 [2019 - **[RealMix]**: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766v1)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
