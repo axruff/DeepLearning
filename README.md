@@ -1085,6 +1085,10 @@ https://arxiv.org/abs/1611.07715
 
 [2017 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
 
+[2019 - High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
+
+[2020 - Maithra Raghu, Eric Schmidt. A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/abs/2003.11755v1)
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
