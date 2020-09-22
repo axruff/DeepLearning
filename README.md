@@ -428,7 +428,7 @@ the smaller the generalization gap
 
 <img src="https://xmfbit.github.io/img/paper-pruning-network-demo.png" width="350">
 
-[2015 - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2015 - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 
 <img src="https://anandj.in/wp-content/uploads/dc.png" width="350">
 
