@@ -1077,6 +1077,9 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://i.pinimg.com/564x/4b/af/fc/4baffc51cc87b1354ed9e88cc8bd534e.jpg" width="350">
 
+[2020 - A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research](https://arxiv.org/abs/2009.06520)
+<img src="https://pbs.twimg.com/media/Ei2XG-EX0AA2xzD?format=jpg&name=large" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 # Software
 <!--- ------------------------------------------------------------------------------- -->
