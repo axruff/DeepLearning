@@ -498,8 +498,9 @@ connections have initial weights that make training particularly effective.
 <!--- ------------------------------------------------------------------------------- -->
 
 
-Visualizing the Loss Landscape of Neural Nets
-https://arxiv.org/abs/1712.09913
+[2017 - Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
+
+<img src="https://github.com/tomgoldstein/loss-landscape/raw/master/doc/images/resnet56_noshort_small.jpg" width="350">
 
 Visualizing and Understanding Recurrent Networks
 https://arxiv.org/abs/1506.02078
