@@ -10,7 +10,7 @@
   - [Optimization](#optimization)
     - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
-  - [Visualization](#visualization-and-analysis) 
+  - [Analysis, Interpretability](#analysis-and-interpretability) 
 - [Tasks](#tasks)
   - [Segmentation](#segmentation)
 - [Methods](#neural-networks)
@@ -492,7 +492,7 @@ connections have initial weights that make training particularly effective.
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
-## Visualization and Analysis
+## Analysis and Interpretability
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -504,10 +504,11 @@ https://arxiv.org/abs/1712.09913
 Visualizing and Understanding Recurrent Networks
 https://arxiv.org/abs/1506.02078
 
-GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
-https://arxiv.org/abs/1811.10597v1
-Interactive tool:
-https://gandissect.csail.mit.edu/
+[2018 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597v1)
+
+<img src="https://i.pinimg.com/originals/5a/df/e9/5adfe97e85a9023d7f11499ab57e7daf.png" width="350">
+
+[Interactive tool] (https://gandissect.csail.mit.edu/)
 
 [**[Netron ]** Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
 
