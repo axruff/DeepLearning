@@ -498,7 +498,15 @@ connections have initial weights that make training particularly effective.
 <!--- ------------------------------------------------------------------------------- -->
 
 
-[2015 - Visualizing and Understanding Recurrent Networks](Visualizing and Understanding Recurrent Networks)
+[2015 - Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078)
+
+[2016 - Discovering Causal Signals in Images](https://arxiv.org/abs/1605.08179)
+
+<img src="https://2.bp.blogspot.com/-ZS7WHgo3f9U/XD26idxNEEI/AAAAAAAABl8/DipJ1Fm3ZK0C3tXhu03psC4nByTlID-sQCLcBGAs/s1600/Screen%2BShot%2B2019-01-15%2Bat%2B19.48.13.png" width="400">
+
+[2016 - **[Grad-CAM]**: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391) [[github]](https://github.com/jacobgil/pytorch-grad-cam)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR95EORUuYqxk3MtWiiQoDmHnizHVPxr1JnGVbfWJrHesJjZln&s" width="350">
 
 [2017 - Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
 
@@ -515,17 +523,11 @@ connections have initial weights that make training particularly effective.
 
 <img src="https://raw.githubusercontent.com/lutzroeder/netron/master/media/screenshot.png" width="400">
 
-[2016 - Discovering Causal Signals in Images](https://arxiv.org/abs/1605.08179)
+[2019 - **[Distill]**: Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/)
 
-<img src="https://2.bp.blogspot.com/-ZS7WHgo3f9U/XD26idxNEEI/AAAAAAAABl8/DipJ1Fm3ZK0C3tXhu03psC4nByTlID-sQCLcBGAs/s1600/Screen%2BShot%2B2019-01-15%2Bat%2B19.48.13.png" width="400">
+[2019 - On the Units of GANs](https://arxiv.org/abs/1901.09887)
 
-[2016 - **[Grad-CAM]**: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391) [[github]](https://github.com/jacobgil/pytorch-grad-cam)
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR95EORUuYqxk3MtWiiQoDmHnizHVPxr1JnGVbfWJrHesJjZln&s" width="350">
-
-[Distill: Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/)
-
-
+<img src="https://neurohive.io/wp-content/uploads/2018/12/unit-distr-770x382.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
