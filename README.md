@@ -10,7 +10,7 @@
   - [Optimization](#optimization)
     - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
-  - [Analysis, Interpretability](#analysis-and-interpretability) 
+  - [Analysis and Interpretability](#analysis-and-interpretability) 
 - [Tasks](#tasks)
   - [Segmentation](#segmentation)
 - [Methods](#neural-networks)
@@ -498,18 +498,18 @@ connections have initial weights that make training particularly effective.
 <!--- ------------------------------------------------------------------------------- -->
 
 
+[2015 - Visualizing and Understanding Recurrent Networks](Visualizing and Understanding Recurrent Networks)
+
 [2017 - Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
 
-<img src="https://github.com/tomgoldstein/loss-landscape/raw/master/doc/images/resnet56_noshort_small.jpg" width="350">
+<img src="https://github.com/tomgoldstein/loss-landscape/raw/master/doc/images/resnet56_noshort_small.jpg" width="250">
 
-Visualizing and Understanding Recurrent Networks
-https://arxiv.org/abs/1506.02078
 
 [2018 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597v1)
 
 <img src="https://i.pinimg.com/originals/5a/df/e9/5adfe97e85a9023d7f11499ab57e7daf.png" width="350">
 
-[Interactive tool] (https://gandissect.csail.mit.edu/)
+[2018 Interactive tool](https://gandissect.csail.mit.edu/)
 
 [**[Netron ]** Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
 
@@ -1101,6 +1101,10 @@ https://arxiv.org/abs/1611.07715
 [**Crypten**: A framework for Privacy Preserving Machine Learning](https://crypten.ai/) [[github]](https://github.com/facebookresearch/crypten)
 
 [**[Snorkel]**: Programmatically Building and Managing Training Data](https://www.snorkel.org/)
+
+[**[Netron ]** Visualizer for deep learning and machine learning models](https://github.com/lutzroeder/Netron)
+
+<img src="https://raw.githubusercontent.com/lutzroeder/netron/master/media/screenshot.png" width="400">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
