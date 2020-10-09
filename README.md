@@ -7,6 +7,7 @@
     - [Multi-level](#multi-level)
     - [Context and Attention](#context-and-attention)
     - [Composition](#composition)
+    - [Capsule Networks](#capsule-networks)
   - [Optimization](#optimization)
     - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
@@ -295,6 +296,16 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://www.vicarious.com/wp-content/uploads/2017/10/compositionality3.png" width="350">
 
+
+
+<!--- ------------------------------------------------------------------------------- -->
+### Capsule Networks
+<!--- ------------------------------------------------------------------------------- -->
+
+[2017 - Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<img src="https://cdn-images-1.medium.com/fit/t/1600/480/0*9fvb_xaSSqW7XVb_.png" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
