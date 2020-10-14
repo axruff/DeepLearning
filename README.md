@@ -1043,6 +1043,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://i.pinimg.com/564x/12/7e/b4/127eb4dfbf482db1ba436ea960821fae.jpg" width="350" >
 
+[2018 - Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758)
+
+<img src="https://miro.medium.com/max/1200/1*pOUFUNgBQwSh3EUbJI2m3Q.png" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 # Applications: Inpainting
