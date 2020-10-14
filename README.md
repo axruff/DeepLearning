@@ -964,6 +964,10 @@ https://doi.org/10.1117/12.2293755
 
 [2020 - **[TorchIO]**: a Python library for efficient loading, preprocessing, augmentation and patch-based sampling of medical images in deep learning](https://arxiv.org/abs/2003.04696) [[github]](https://github.com/fepegar/torchio)
 
+[2020 - Reconstructing lost BOLD signal in individual participants using deep machine learning](https://www.nature.com/articles/s41467-020-18823-9#disqus_thread)
+
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-18823-9/MediaObjects/41467_2020_18823_Fig1_HTML.png?as=webp" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 # Applications: X-ray Imaging
