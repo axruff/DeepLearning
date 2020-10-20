@@ -737,6 +737,10 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 <img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_23782%2Fproject_397607%2Fimages%2Fx1.png" width="250">
 
 
+[2020 - Rain rendering for evaluating and improving robustness to bad weather](https://arxiv.org/abs/2009.03683)
+
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11263-020-01366-3/MediaObjects/11263_2020_1366_Fig13_HTML.png" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
