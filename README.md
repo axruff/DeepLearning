@@ -882,9 +882,13 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 <img src="https://i.pinimg.com/564x/16/3e/e0/163ee076d96ef19bf5f7b241d42b60f9.jpg" width="350">
 
-[MegaDepth: Learning Single-View Depth Prediction from Internet Photos](https://research.cs.cornell.edu/megadepth/)
+[**[MegaDepth]**: Learning Single-View Depth Prediction from Internet Photos](https://research.cs.cornell.edu/megadepth/)
 
 <img src="https://research.cs.cornell.edu/megadepth/demo2.png" width="350">
+
+[Microsoft **[COCO]**: Common Objects in Context](https://arxiv.org/abs/1405.0312)[[website]](https://cocodataset.org/#home)
+
+<img src="https://cdn.slidesharecdn.com/ss_thumbnails/cocodataset-190410053316-thumbnail-4.jpg?cb=1554874430" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
