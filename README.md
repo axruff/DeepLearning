@@ -761,10 +761,16 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 <img src="https://pythonawesome.com/content/images/2020/03/MoCo.png" width="350">
 
+[2019 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)
+
 [2020 - A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 <img src="https://miro.medium.com/max/8300/1*1uaA1tE5PDnVpSljxSTEoQ.png" width="250">
+
+[2020 - **::SURVEY::** Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
 
 
 
