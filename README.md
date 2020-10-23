@@ -1120,6 +1120,8 @@ https://arxiv.org/abs/1611.07715
 [2020 - A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research](https://arxiv.org/abs/2009.06520)
 <img src="https://pbs.twimg.com/media/Ei2XG-EX0AA2xzD?format=jpg&name=large" width="350">
 
+[2020 - Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895)
+
 <!--- ------------------------------------------------------------------------------- -->
 # Software
 <!--- ------------------------------------------------------------------------------- -->
