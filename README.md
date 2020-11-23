@@ -297,6 +297,10 @@ The depth of representations is of central importance for many visual recognitio
 <img src="https://www.vicarious.com/wp-content/uploads/2017/10/compositionality3.png" width="350">
 
 
+[2020 - Concept Bottleneck Models](https://arxiv.org/abs/2007.04612)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<img src="https://images.deepai.org/converted-papers/2007.04612/figures/teaser.png" width="300">
 
 <!--- ------------------------------------------------------------------------------- -->
 ### Capsule Networks
