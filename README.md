@@ -428,6 +428,9 @@ the smaller the generalization gap
 the smaller the generalization gap
 > 7. Optimizer: Generalization gap of Momentum SGD < Generalization gap of Adam < Generalization gap of RMSProp
 
+[2020 - Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers](https://arxiv.org/abs/2007.01547)
+
+<img src="https://user-images.githubusercontent.com/544269/95753705-f18fbe80-0cdc-11eb-9499-6bf22fa456e0.png" width="250">
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
