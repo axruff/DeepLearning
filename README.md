@@ -381,6 +381,8 @@ https://arxiv.org/abs/1806.09055
 
 <img src="http://luoping.me/post/family-normalization/SN.png" width="350">
 
+[2019 - Revisiting Small Batch Training for Deep Neural Networks](https://arxiv.org/abs/1804.07612)
+
 [2019 - Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
 
 <img src="https://www.pyimagesearch.com/wp-content/uploads/2019/07/keras_clr_triangular2.png" width="350">
