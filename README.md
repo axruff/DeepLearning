@@ -432,6 +432,9 @@ the smaller the generalization gap
 
 <img src="https://user-images.githubusercontent.com/544269/95753705-f18fbe80-0cdc-11eb-9499-6bf22fa456e0.png" width="250">
 
+[2020 - Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth](https://arxiv.org/abs/2010.15327)
+<img src="https://i.pinimg.com/564x/15/8b/af/158baf37ea0b6f05cc0b0d1fd2f364d2.jpg" width="250">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
