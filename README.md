@@ -749,6 +749,7 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11263-020-01366-3/MediaObjects/11263_2020_1366_Fig13_HTML.png" width="350">
 
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -779,8 +780,8 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 [2020 - **::SURVEY::** Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
-
-
+[2020 - **[NeurIPS 2020 Workshop]**: Self-Supervised Learning - Theory and Practice](https://sslneuips20.github.io/pages/Accepted%20Paper.html)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
 <!--- ------------------------------------------------------------------------------- -->
 ## Mutual Learning
