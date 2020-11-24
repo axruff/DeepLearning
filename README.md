@@ -534,6 +534,8 @@ connections have initial weights that make training particularly effective.
 
 <img src="https://github.com/tomgoldstein/loss-landscape/raw/master/doc/images/resnet56_noshort_small.jpg" width="250">
 
+[2019 - **[SURVEY]** Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286)
+
 
 [2018 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597v1)
 
