@@ -371,6 +371,9 @@ https://arxiv.org/abs/1806.09055
 
 <img src="https://i.pinimg.com/564x/36/bb/e4/36bbe4d951a1c100714ea7baa43e0e44.jpg" width="350">
 
+[2018 - A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
 [2019 - Training Neural Networks with Local Error Signals](https://arxiv.org/abs/1901.06656) [[github]](https://github.com/anokland/local-loss)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
