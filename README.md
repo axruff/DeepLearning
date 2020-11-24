@@ -548,6 +548,10 @@ connections have initial weights that make training particularly effective.
 
 <img src="https://neurohive.io/wp-content/uploads/2018/12/unit-distr-770x382.jpg" width="350">
 
+[2020 - Actionable Attribution Maps for Scientific Machine Learning](https://arxiv.org/abs/2006.16533)
+
+<img src="https://i.pinimg.com/564x/45/b0/51/45b05100bff866b98ff050433d4e64dd.jpg" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
