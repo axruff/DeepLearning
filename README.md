@@ -254,6 +254,11 @@ The depth of representations is of central importance for many visual recognitio
 
 > We experimentally validate that, for a target test resolu- tion, using a lower train resolution offers better classification at test time.
 
+[2020 - **[NeRF]**: Representing Scenes as Neural Radiance Fields for View Synthesis ](https://arxiv.org/abs/2003.08934)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e700ef6067b43821ed52768_pipeline_website-01-p-800.png" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 ### Context and Attention
 <!--- ------------------------------------------------------------------------------- -->
