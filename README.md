@@ -1155,7 +1155,7 @@ https://arxiv.org/abs/1611.07715
 
 [Video-to-Video Synthesis (2018)](https://arxiv.org/abs/1808.06601) [[github]](https://github.com/NVIDIA/vid2vid)
 
-[2020 - Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534)
+[2020 - Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534) [[github]](https://github.com/sniklaus/softmax-splatting)
 
 <img src="https://pbs.twimg.com/media/ES9NRrAU8AARSPA.jpg" width="350">
 
