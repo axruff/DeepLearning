@@ -1155,6 +1155,10 @@ https://arxiv.org/abs/1611.07715
 
 [Video-to-Video Synthesis (2018)](https://arxiv.org/abs/1808.06601) [[github]](https://github.com/NVIDIA/vid2vid)
 
+[2017 - PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://arxiv.org/abs/1709.02371)[[github]](https://github.com/axruff/pytorch-pwc)
+
+<img src="https://research.nvidia.com/sites/default/files/publications/pwcnet_0.png" width="350">
+
 [2020 - Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534) [[github]](https://github.com/sniklaus/softmax-splatting)
 
 <img src="https://pbs.twimg.com/media/ES9NRrAU8AARSPA.jpg" width="350">
