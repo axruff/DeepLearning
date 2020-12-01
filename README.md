@@ -717,6 +717,10 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://camo.githubusercontent.com/c05b4ff567b7341240ebc406ae37739f31e41aea17e0e497d530dcabd2f7cd54/687474703a2f2f7777772e64692e656e732e66722f77696c6c6f772f72657365617263682f7765616b616c69676e2f696d616765732f7465617365722e6a7067" width="350">
 
+[2019 - SFNet: Learning Object-aware Semantic Correspondence](https://arxiv.org/abs/1904.01810)
+
+<img src="https://cvlab.yonsei.ac.kr/projects/SFNet/SFNet_files/teaser.png" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
