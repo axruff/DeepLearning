@@ -721,6 +721,10 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <img src="https://cvlab.yonsei.ac.kr/projects/SFNet/SFNet_files/teaser.png" width="350">
 
+[2020 - Deep Semantic Matching with Foreground Detection and Cycle-Consistency](https://arxiv.org/abs/2004.00144)
+
+<img src="https://i.pinimg.com/564x/e9/71/20/e971200126e02c86f8ac2ce349ded90e.jpg" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
