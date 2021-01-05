@@ -1343,6 +1343,7 @@ https://arxiv.org/abs/1611.07715
 [2018 - Deciphering China’s AI Dream: The context, components, capabilities, and consequences of China’s strategy to lead the world in AI](https://www.fhi.ox.ac.uk/deciphering-chinas-ai-dream/)
 
 [2020 - The role of artificial intelligence in achieving the Sustainable Development Goals](https://www.nature.com/articles/s41467-019-14108-y)
+
 <img src="https://i.pinimg.com/564x/27/4a/a8/274aa81d34dee0039192b50020c54879.jpg" width="250">
 
 
