@@ -1186,6 +1186,14 @@ https://arxiv.org/abs/1611.07715
 <img src="https://pbs.twimg.com/media/ES9NRrAU8AARSPA.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
+# Applications: Simulations
+<!--- ------------------------------------------------------------------------------- -->
+
+[2020 - Automating turbulence modelling by multi-agent reinforcement learning](https://www.nature.com/articles/s42256-020-00272-0)
+
+<img src="https://scx1.b-cdn.net/csz/news/800a/2021/2-researchersc.jpg" width="250">
+
+<!--- ------------------------------------------------------------------------------- -->
 # Application: Denoising and Superresolution
 <!--- ------------------------------------------------------------------------------- -->
 
