@@ -1121,6 +1121,8 @@ https://www.nature.com/articles/s41598-018-19426-7
 [2020 - Deep Learning Techniques for Inverse Problems in Imaging](https://ieeexplore.ieee.org/abstract/document/9084378)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
+[2020 - **[Review]**: Deep learning for tomographic image reconstruction (closed)](https://www.nature.com/articles/s42256-020-00273-z#author-information)
+
 # Applications: Image Registration
 
 [2014 - Do Convnets Learn Correspondence?](https://arxiv.org/abs/1411.1091)
