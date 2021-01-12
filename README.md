@@ -96,6 +96,9 @@ Notations
 
 <img src="https://miro.medium.com/max/5176/1*ZFPOSAted10TPd3hBQU8iQ.png" width="350">
 
+
+[2014 - [2014 - Neural Turing Machines](https://arxiv.org/abs/1410.5401)](https://arxiv.org/abs/1410.5401)
+
 [2015 - **[ResNet]** Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
 
