@@ -452,7 +452,7 @@ https://arxiv.org/abs/1806.09055
 
 [2019 - DeepOBS: A Deep Learning Optimizer Benchmark Suite](https://arxiv.org/abs/1903.05499)
 
-<ing src="https://github.com/fsschneider/DeepOBS/raw/master/docs/deepobs_banner.png" width="350">
+<img src="https://github.com/fsschneider/DeepOBS/raw/master/docs/deepobs_banner.png" width="350">
 
 [2020 - Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/abs/1912.02178)
 ![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
