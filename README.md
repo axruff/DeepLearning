@@ -1130,6 +1130,8 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 [2020 - **[Review]**: Deep learning for tomographic image reconstruction (closed)](https://www.nature.com/articles/s42256-020-00273-z#author-information)
 
+<img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-00273-z/MediaObjects/42256_2020_273_Fig1_HTML.png" width="300">
+
 # Applications: Image Registration
 
 [2014 - Do Convnets Learn Correspondence?](https://arxiv.org/abs/1411.1091)
