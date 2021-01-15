@@ -1138,7 +1138,7 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 [2020 - Patient-specific reconstruction of volumetric computed tomography images from a single projection view via deep learning.](https://www.nature.com/articles/s41551-019-0466-4)
 
-<img scr="https://i.pinimg.com/564x/25/3d/1b/253d1bbbaa7cf01291f50262f8475976.jpg" width="350">
+<img src="https://i.pinimg.com/564x/25/3d/1b/253d1bbbaa7cf01291f50262f8475976.jpg" width="350">
 
 # Applications: Image Registration
 
