@@ -1125,6 +1125,10 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 *In synchrotron-based XRT, CNN-based processing improves the SNR in the data by an order of magnitude, which enables low-dose fast acquisition of radiation-sensitive samples*
 
+[2019 - A deep learning reconstruction framework for X-ray computed tomography with incomplete data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224426)
+
+<img src="https://i.pinimg.com/564x/c6/f4/80/c6f480f3419849b1b9598ccc35dbaecf.jpg" width="350">
+
 [2020 - Deep Learning Techniques for Inverse Problems in Imaging](https://ieeexplore.ieee.org/abstract/document/9084378)
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
 
