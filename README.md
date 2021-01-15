@@ -1144,6 +1144,10 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 <img src="https://i.pinimg.com/564x/25/3d/1b/253d1bbbaa7cf01291f50262f8475976.jpg" width="350">
 
+[2020 - End-To-End Convolutional Neural Network for 3D Reconstruction of Knee Bones from Bi-planar X-Ray Images](https://link.springer.com/chapter/10.1007%2F978-3-030-61598-7_12)
+
+<img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-61598-7_12/MediaObjects/502020_1_En_12_Fig2_HTML.png" width="350">
+
 # Applications: Image Registration
 
 [2014 - Do Convnets Learn Correspondence?](https://arxiv.org/abs/1411.1091)
