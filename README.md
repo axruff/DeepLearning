@@ -1125,6 +1125,10 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 *In synchrotron-based XRT, CNN-based processing improves the SNR in the data by an order of magnitude, which enables low-dose fast acquisition of radiation-sensitive samples*
 
+[2019 - Deep learning optoacoustic tomography with sparse data](https://www.nature.com/articles/s42256-019-0095-3)
+
+<img src="https://i.pinimg.com/564x/47/be/49/47be49c16dd75aad64d9616e0bc3ee25.jpg" width="350">
+
 [2019 - A deep learning reconstruction framework for X-ray computed tomography with incomplete data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224426)
 
 <img src="https://i.pinimg.com/564x/c6/f4/80/c6f480f3419849b1b9598ccc35dbaecf.jpg" width="350">
