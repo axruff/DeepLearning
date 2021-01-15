@@ -1148,6 +1148,10 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 <img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-61598-7_12/MediaObjects/502020_1_En_12_Fig2_HTML.png" width="350">
 
+[2020 - Differentiated Backprojection Domain Deep Learning for Conebeam Artifact Removal](https://ieeexplore.ieee.org/document/9109572)
+
+<img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/42/9242349/9109572/ye1abc-3000341-large.gif" width="350">
+
 # Applications: Image Registration
 
 [2014 - Do Convnets Learn Correspondence?](https://arxiv.org/abs/1411.1091)
