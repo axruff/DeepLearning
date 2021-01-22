@@ -187,7 +187,7 @@ The depth of representations is of central importance for many visual recognitio
 
 [2020 - Neural Operator: Graph Kernel Network for Partial Differential Equations](https://arxiv.org/abs/2003.03485)
 
-<img src="https://zongyi-li.github.io/assets/img/ns_sr_v1e-4_labelled.gif" width="350">
+<img src="https://i.pinimg.com/564x/ca/d3/4a/cad34a3e6ef844515239d0ba80d40f8a.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
