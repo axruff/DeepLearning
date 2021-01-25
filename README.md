@@ -1331,6 +1331,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://i.pinimg.com/564x/86/0c/75/860c75ec875e85c8d80a50dce334ebab.jpg" width="350">
 
+[**[TorchIO]** - Medical image preprocessing and augmentation toolkit for deep learning](https://github.com/fepegar/torchio)
+
+<img src="https://raw.githubusercontent.com/fepegar/torchio/master/docs/images/gifs_readme/1_Lambda_mri.png" width="250">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
