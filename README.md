@@ -1335,6 +1335,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://raw.githubusercontent.com/fepegar/torchio/master/docs/images/gifs_readme/1_Lambda_mri.png" width="250">
 
+[**[Ignite]** - high-level library to help with training and evaluating neural networks](https://github.com/pytorch/ignite)
+
+<img src="https://github.com/pytorch/ignite/raw/master/assets/logo/ignite_logo_mixed.svg" width="250">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
