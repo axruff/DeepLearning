@@ -1339,6 +1339,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://github.com/pytorch/ignite/raw/master/assets/logo/ignite_logo_mixed.svg" width="250">
 
+[**[Cadene]** - Pretrained models for Pytorch](https://github.com/Cadene/pretrained-models.pytorch)
+
+[**[PyTorch Toolbelt]** - a Python library with a set of bells and whistles for PyTorch for fast R&D prototyping](https://github.com/BloodAxe/pytorch-toolbelt)
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
