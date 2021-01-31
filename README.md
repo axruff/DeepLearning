@@ -1343,6 +1343,10 @@ https://arxiv.org/abs/1611.07715
 
 [**[PyTorch Toolbelt]** - a Python library with a set of bells and whistles for PyTorch for fast R&D prototyping](https://github.com/BloodAxe/pytorch-toolbelt)
 
+[**[PyTorch Lightning]**- The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate](https://github.com/PyTorchLightning/pytorch-lightning)
+
+<img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_images/logos/lightning_logo-name.png" width="200">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
