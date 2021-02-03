@@ -1369,7 +1369,7 @@ https://arxiv.org/abs/1611.07715
 <img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_images/logos/lightning_logo-name.png" width="200">
 
 
-[**[Rapid]**] - Open GPU Data Science](https://rapids.ai/index.html)
+[**[Rapid]** - Open GPU Data Science](https://rapids.ai/index.html)
 <img src="https://i.pinimg.com/564x/0b/1d/71/0b1d71b49b792974988a54922be51120.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
