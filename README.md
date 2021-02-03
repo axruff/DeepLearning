@@ -1370,7 +1370,7 @@ https://arxiv.org/abs/1611.07715
 
 
 [**[Rapid]**] - Open GPU Data Science](https://rapids.ai/index.html)
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5d418bc9-74a0-46b8-b3f4-69db5f409f62/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210203T095618Z&X-Amz-Expires=86400&X-Amz-Signature=49c3fa2b28cefb7e7cc7b645b1e1454b6d0d06c21cd1a2f2811f8a252132f4bd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+<img src="https://i.pinimg.com/564x/0b/1d/71/0b1d71b49b792974988a54922be51120.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
