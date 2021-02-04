@@ -1389,6 +1389,8 @@ https://arxiv.org/abs/1611.07715
 
 [2020 - Maithra Raghu, Eric Schmidt. A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/abs/2003.11755v1)
 
+[**[ml-surveys [github]]** - a selection of survey papers summarizing the advances in the field](https://github.com/eugeneyan/ml-surveys)
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
