@@ -51,8 +51,6 @@ Notations
 
 ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) To Check
 
-test
-
 
 # Neural Networks
 
