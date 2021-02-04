@@ -3,7 +3,7 @@
 
 ##### Table of Contents
 - [Neural Networks](#neural-networks)
-  - [Models](#models)
+  - [🔏 Models](#models)
     - [Multi-level](#multi-level)
     - [Context and Attention](#context-and-attention)
     - [Composition](#composition)
