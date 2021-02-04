@@ -2,8 +2,8 @@
 
 ##### Table of Contents
 
-- [Neural Networks](#neural-networks)
-  - [💎 Models](#models)
+- [💎 Neural Networks](#neural-networks)
+  - [⭕ Models](#models)
     - [Multi-level](#multi-level)
     - [Context and Attention](#context-and-attention)
     - [Composition](#composition)
@@ -38,10 +38,10 @@
   - [Applications: Inpainting](#applications-inpainting)
   - [Applications: Photography](#applications-photography)
   - [Applications: Misc](#applications-misc)
-- [Software](#software)
-- [Overview](#overview)
-- [Opinions](#opinions)
-- [Future of AI](#future-of-ai) 
+- [💻 Software](#software)
+- [📈 Overview](#overview)
+- [💬 Opinions](#opinions)
+- [🤖 Future of AI](#future-of-ai) 
 
 
 
