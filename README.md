@@ -1,6 +1,5 @@
 # Deep Learning papers and resources
 
-
 ##### Table of Contents
 
 - [Neural Networks](#neural-networks)
