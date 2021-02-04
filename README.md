@@ -15,7 +15,7 @@
 </thead>
 <tfoot>
 <tr>
-<td>foot1</td>
+<td style="font-size: 18px;">foot1</td>
 <td>foot2</td>
 <td>foot3</td>
 </tr>
