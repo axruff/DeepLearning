@@ -7,7 +7,7 @@
 
 <table class="greyGridTable">
 <thead>
-<tr>
+<tr style="color:blue;">
 <th>head1</th>
 <th>head2</th>
 <th>head3</th>
