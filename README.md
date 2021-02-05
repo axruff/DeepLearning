@@ -9,6 +9,7 @@
     - [Composition](#composition)
     - [Capsule Networks](#capsule-networks)
     - [Transformers](#transformers)
+    - [Neural Rendering](#neural-rendering)
   - [💪 Optimization](#optimization)
     - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
@@ -179,25 +180,10 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_408932/images/x1.png" width="350">
 
-[2020 - **[NeRF]**: Representing Scenes as Neural Radiance Fields for View Synthesis ](https://arxiv.org/abs/2003.08934)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
-
-<img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e700ef6067b43821ed52768_pipeline_website-01-p-800.png" width="350">
-
-<sub>We present a method that achieves state-of-the-art results for synthesizing novel views of complex scenes by optimizing an underlying <b>continuous volumetric scene function </b> using a sparse set of input views. Our algorithm represents a scene using a fully-connected (non-convolutional) deep network, whose input is a single continuous 5D coordinate (spatial location (x,y,z) and viewing direction (θ,ϕ)) and whose output is the volume density and view-dependent emitted radiance at that spatial location. We synthesize views by querying 5D coordinates along camera rays and use classic volume rendering techniques to project the output colors and densities into an image. Because volume rendering is naturally differentiable, the only input required to optimize our representation is a set of images with known camera poses. We describe how to effectively optimize neural radiance fields to render photorealistic novel views of scenes with complicated geometry and appearance, and demonstrate results that outperform prior work on neural rendering and view synthesis. View synthesis results are best viewed as videos, so we urge readers to view our supplementary video for convincing comparisons.</sub>
 
 [2020 - Neural Operator: Graph Kernel Network for Partial Differential Equations](https://arxiv.org/abs/2003.03485)
 
 <img src="https://i.pinimg.com/564x/ca/d3/4a/cad34a3e6ef844515239d0ba80d40f8a.jpg" width="350">
-
-
-[2020 - [BLOG] NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
-
-[2020 - **[SURVEY]** State of the Art on Neural Rendering](https://arxiv.org/abs/2004.03805)
-
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8e90a05-3207-43cc-9a16-00be7bdae536/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210205T142824Z&X-Amz-Expires=86400&X-Amz-Signature=432f6096a6b940cadaade65b71dd7d85628e4567565489a3ced22b0fd6160f52&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
-
-
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -396,6 +382,37 @@ The depth of representations is of central importance for many visual recognitio
 [2020 - **SURVEY**: A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556)
 
 [2021 - **SURVEY**: Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
+
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+### Neural Rendering
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+
+[2020 - **[NeRF]**: Representing Scenes as Neural Radiance Fields for View Synthesis ](https://arxiv.org/abs/2003.08934)
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+
+<img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e700ef6067b43821ed52768_pipeline_website-01-p-800.png" width="350">
+
+<sub>We present a method that achieves state-of-the-art results for synthesizing novel views of complex scenes by optimizing an underlying <b>continuous volumetric scene function </b> using a sparse set of input views. Our algorithm represents a scene using a fully-connected (non-convolutional) deep network, whose input is a single continuous 5D coordinate (spatial location (x,y,z) and viewing direction (θ,ϕ)) and whose output is the volume density and view-dependent emitted radiance at that spatial location. We synthesize views by querying 5D coordinates along camera rays and use classic volume rendering techniques to project the output colors and densities into an image. Because volume rendering is naturally differentiable, the only input required to optimize our representation is a set of images with known camera poses. We describe how to effectively optimize neural radiance fields to render photorealistic novel views of scenes with complicated geometry and appearance, and demonstrate results that outperform prior work on neural rendering and view synthesis. View synthesis results are best viewed as videos, so we urge readers to view our supplementary video for convincing comparisons.</sub>
+
+
+[2020 - [BLOG] NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
+
+[2020 - **[SURVEY]** State of the Art on Neural Rendering](https://arxiv.org/abs/2004.03805)
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8e90a05-3207-43cc-9a16-00be7bdae536/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210205T142824Z&X-Amz-Expires=86400&X-Amz-Signature=432f6096a6b940cadaade65b71dd7d85628e4567565489a3ced22b0fd6160f52&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
