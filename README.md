@@ -27,7 +27,7 @@
   - [MTL - Multi-task Learning](#multitask-learning)
   - [AD - Anomaly Detection](#anomaly-detection)
   - [RL - Reinforcement Learning](#reinforcement-learning)
-  - [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
+  - [IRL - Inverse Reinforcement Learning](#inverse-reinforcement-learning)
 - [🎁 Datasets](#datasets)
 - [⚔ Benchmarks](#benchmarks)
 - [🌍 Applications](#applications)
@@ -48,9 +48,9 @@
 
 Notations
 
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) Checked
+:white_check_mark: Checked
 
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+) To Check
+⭕ To Check
 
 
 # Neural Networks
@@ -67,7 +67,7 @@ Notations
 [1998 - **[LeNet]**: Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/document/726791)
 
 
-[2012 - **[AlexNet]** ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) ✔️
+[2012 - **[AlexNet]** ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) ✅
 
 
 [2013 - Learning Hierarchical Features for Scene Labeling](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
@@ -83,16 +83,14 @@ Notations
 [2014 - **[Seq2Seq]**: Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
 
 
-[2014 - **[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2014 - **[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) ✅
 
 <sub>In this work we investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting. Our main contribution is a thorough evaluation of networks of increasing depth using an architecture with very small (3x3) convolution filters, which shows that a significant improvement on the prior-art configurations can be achieved by pushing the depth to 16-19 weight layers. These findings were the basis of our ImageNet Challenge 2014 submission, where our team secured the first and the second places in the localisation and classification tracks respectively. We also show that our representations generalise well to other datasets, where they achieve state-of-the-art results. We have made our two best-performing ConvNet models publicly available to facilitate further research on the use of deep visual representations in computer vision.</sub>
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*HzxRI1qHXjiVXla-_NiMBA.png" width="350">
 
 
-[2014 - **[GoogleNet]** Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2014 - **[GoogleNet]** Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) ✅
 
 <sub>We propose a deep convolutional neural network architecture codenamed "Inception", which was responsible for setting the new state of the art for classification and detection in the ImageNet Large-Scale Visual Recognition Challenge 2014 (ILSVRC 2014). The main hallmark of this architecture is the improved utilization of the computing resources inside the network. This was achieved by a carefully crafted design that allows for increasing the depth and width of the network while keeping the computational budget constant. To optimize quality, the architectural decisions were based on the Hebbian principle and the intuition of multi-scale processing. One particular incarnation used in our submission for ILSVRC 2014 is called GoogLeNet, a 22 layers deep network, the quality of which is assessed in the context of classification and detection.</sub>
 
@@ -101,8 +99,7 @@ Notations
 
 [2014 - Neural Turing Machines](https://arxiv.org/abs/1410.5401)
 
-[2015 - **[ResNet]** Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2015 - **[ResNet]** Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ✅
 
 <sub>Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth. On the ImageNet dataset we evaluate residual nets with a depth of up to 152 layers---8x deeper than VGG nets but still having lower complexity. An ensemble of these residual nets achieves 3.57% error on the ImageNet test set. This result won the 1st place on the ILSVRC 2015 classification task. We also present analysis on CIFAR-10 with 100 and 1000 layers.
 The depth of representations is of central importance for many visual recognition tasks. Solely due to our extremely deep representations, we obtain a 28% relative improvement on the COCO object detection dataset. Deep residual nets are foundations of our submissions to ILSVRC & COCO 2015 competitions, where we also won the 1st places on the tasks of ImageNet detection, ImageNet localization, COCO detection, and COCO segmentation.</sub>
@@ -122,8 +119,7 @@ The depth of representations is of central importance for many visual recognitio
 <img src="http://deeplearning.net/tutorial/_images/cat_segmentation.png" width="400">
 
 
-[2015 - **[U-net]**: Convolutional networks for biomedical image segmentation](https://arxiv.org/abs/1505.04597)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2015 - **[U-net]**: Convolutional networks for biomedical image segmentation](https://arxiv.org/abs/1505.04597) ✅
 
 [2016 - **[Xception]**: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 [Implementation](https://colab.research.google.com/drive/1BT_t64JCzr8ge51orG8uLBLIL7w1Hos4)
@@ -137,18 +133,15 @@ The depth of representations is of central importance for many visual recognitio
 <img src="http://vladlen.info/wp-content/uploads/2011/12/densecrf1.png" width="300">
 
 
-[2018 - **[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
+[2018 - **[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746) ✅
 
 
-[2018 - CubeNet: Equivariance to 3D Rotation and Translation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Worrall_CubeNet_Equivariance_to_ECCV_2018_paper.pdf)[[github]](https://github.com/deworrall92/cubenet), [*[video]*](https://www.youtube.com/watch?v=TlzRyHbWeP0&feature=youtu.be)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2018 - CubeNet: Equivariance to 3D Rotation and Translation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Worrall_CubeNet_Equivariance_to_ECCV_2018_paper.pdf)[[github]](https://github.com/deworrall92/cubenet), [*[video]*](https://www.youtube.com/watch?v=TlzRyHbWeP0&feature=youtu.be) ⭕
 
 <img src="https://i.pinimg.com/564x/8c/c8/44/8cc844bb8784d93790f9d2d2552297bf.jpg" width="350">
 
 
-[2018 - Deep Rotation Equivariant Network](https://arxiv.org/abs/1705.08623)[[github]](https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2018 - Deep Rotation Equivariant Network](https://arxiv.org/abs/1705.08623)[[github]](https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png) ⭕
 
 <img src="https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png" width="350">
 
@@ -157,22 +150,18 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
 
-[2019 - Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2019 - Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling) ⭕
 
 <img src="https://tonghe90.github.io/papers/cvpr2019_tz.png" width="400">
 
-[2019 - Panoptic Feature Pyramid Networks](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.html)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2019 - Panoptic Feature Pyramid Networks](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.html) ⭕
 
-[2019 - **[DeeperLab]**: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2019 - **[DeeperLab]**: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093) ⭕
 
 <img src="http://deeperlab.mit.edu/deeperlab_illustration.png" width="350">
 
 
-[2019 - **[EfficientNet]**: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2019 - **[EfficientNet]**: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) ⭕
 
 <img src="https://miro.medium.com/max/4044/1*xQCVt1tFWe7XNWVEmC6hGQ.png" width="350">
 
@@ -208,14 +197,12 @@ The depth of representations is of central importance for many visual recognitio
 <img src="https://miro.medium.com/max/700/1*dRhGetHArI_bs6IdiIFhkA.png" width="350">
 
 
-[2016 - **[PSPNet]**: Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2016 - **[PSPNet]**: Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet) ✅
 
 <img src="https://hszhao.github.io/projects/pspnet/figures/pspnet.png" width="400">
 
 
-[2016 - **[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2016 - **[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf) ✅
 
 
 [2015 - Zoom Better to See Clearer: Human and Object Parsing with Hierarchical Auto-Zoom Net](https://arxiv.org/abs/1511.06881)
@@ -239,8 +226,7 @@ The depth of representations is of central importance for many visual recognitio
 <img src="https://2.bp.blogspot.com/-gxnbZ9w2Dro/WqMOQTJ_zzI/AAAAAAAACeA/dyLgkY5TnFEf2j6jyXDXIDWj_wrbHhteQCLcBGAs/s640/image2.png" width="400">
 
 
-[2019 - **[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - **[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN) ✅
 
 <img src="http://wuhuikai.me/FastFCNProject/images/Framework.png" width="350">
 
@@ -264,8 +250,7 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://media.arxiv-vanity.com/render-output/1976701/x3.png" width="300">
 
-[2019 - Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423) ✅
 
 <img src="https://raw.githubusercontent.com/facebookresearch/FixRes/master/image/image2.png" width="350">
 
@@ -292,8 +277,7 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/P/PDFangeltop1/20160406/20160406161035.png" width="350">
 
-[2018 - **[EncNet]** Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2018 - **[EncNet]** Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding) ⭕
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZS4gdvv26N8N7dpr92pPoHmVP3RQ8ztddravjJlwHr1Sw5fCT" width="400">
 
@@ -316,15 +300,13 @@ The depth of representations is of central importance for many visual recognitio
 <!--- ------------------------------------------------------------------------------- -->
 
 
-[2005 - Image Parsing: Unifying Segmentation, Detection, and Recognition](https://link.springer.com/article/10.1007/s11263-005-6642-x)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2005 - Image Parsing: Unifying Segmentation, Detection, and Recognition](https://link.springer.com/article/10.1007/s11263-005-6642-x) ⭕
 
 
 [2013 - Complexity of Representation and Inference in Compositional Models with Part Sharing](https://arxiv.org/abs/1301.3560)
 
 
-[2017 - Interpretable Convolutional Neural Networks](https://arxiv.org/abs/1710.00935)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2017 - Interpretable Convolutional Neural Networks](https://arxiv.org/abs/1710.00935) ⭕
 
 <img src="https://miro.medium.com/max/2712/0*DGs0o1DFHCaCMZvY" width="350">
 
@@ -332,14 +314,12 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_10859%2Fproject_356834%2Fimages%2Fx1.png" width="350">
 
-[2017 - Teaching Compositionality to CNNs](https://www.semanticscholar.org/paper/Teaching-Compositionality-to-CNNs-Stone-Wang/3726b82007512a15a530fd1adad57af58a9abb62)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2017 - Teaching Compositionality to CNNs](https://www.semanticscholar.org/paper/Teaching-Compositionality-to-CNNs-Stone-Wang/3726b82007512a15a530fd1adad57af58a9abb62) ⭕
 
 <img src="https://www.vicarious.com/wp-content/uploads/2017/10/compositionality3.png" width="350">
 
 
-[2020 - Concept Bottleneck Models](https://arxiv.org/abs/2007.04612)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2020 - Concept Bottleneck Models](https://arxiv.org/abs/2007.04612) ⭕
 
 <img src="https://images.deepai.org/converted-papers/2007.04612/figures/teaser.png" width="300">
 
@@ -358,8 +338,7 @@ The depth of representations is of central importance for many visual recognitio
 <!--- ------------------------------------------------------------------------------- -->
 
 
-[2017 - Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2017 - Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829) ⭕
 
 <img src="https://cdn-images-1.medium.com/fit/t/1600/480/0*9fvb_xaSSqW7XVb_.png" width="350">
 
@@ -398,8 +377,7 @@ The depth of representations is of central importance for many visual recognitio
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[2020 - **[NeRF]**: Representing Scenes as Neural Radiance Fields for View Synthesis ](https://arxiv.org/abs/2003.08934)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2020 - **[NeRF]**: Representing Scenes as Neural Radiance Fields for View Synthesis ](https://arxiv.org/abs/2003.08934) ⭕
 
 <img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e700ef6067b43821ed52768_pipeline_website-01-p-800.png" width="350">
 
@@ -442,8 +420,7 @@ The depth of representations is of central importance for many visual recognitio
 [**[Dropout]**: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
 
-[Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909) ✅
 
 Multi-Scale Context Aggregation by Dilated Convolutions
 https://arxiv.org/abs/1511.07122
@@ -468,15 +445,13 @@ Adam yields significant improvements over its default settings in all cases.
 DARTS: Differentiable Architecture Search
 https://arxiv.org/abs/1806.09055
  
-[**Bag of Tricks** for Image Classification with Convolutional Neural Networks](htps://arxiv.org/abs/1812.01187v1)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[**Bag of Tricks** for Image Classification with Convolutional Neural Networks](htps://arxiv.org/abs/1812.01187v1) ✅
 
 [2018 - **Tune**: A Research Platform for Distributed Model Selection and Training](https://arxiv.org/abs/1807.05118) [[github]](https://github.com/ray-project/ray/tree/master/python/ray/tune)
 
 [2017 - Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation](https://arxiv.org/abs/1602.05179)
 
-[2017 - Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2017 - Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530) ⭕
 
 [2018 - Error Forward-Propagation: Reusing Feedforward Connections to Propagate Errors in Deep Learning](https://arxiv.org/abs/1808.03357)
 
@@ -484,11 +459,9 @@ https://arxiv.org/abs/1806.09055
 
 <img src="https://i.pinimg.com/564x/36/bb/e4/36bbe4d951a1c100714ea7baa43e0e44.jpg" width="350">
 
-[2018 - A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2018 - A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820) ⭕
 
-[2019 - Training Neural Networks with Local Error Signals](https://arxiv.org/abs/1901.06656) [[github]](https://github.com/anokland/local-loss)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2019 - Training Neural Networks with Local Error Signals](https://arxiv.org/abs/1901.06656) [[github]](https://github.com/anokland/local-loss) ⭕
 
 [2019 - Switchable Normalization for Learning-to-Normalize Deep Representation](https://arxiv.org/abs/1907.10473)
 
@@ -504,8 +477,7 @@ https://arxiv.org/abs/1806.09055
 
 <img src="https://github.com/fsschneider/DeepOBS/raw/master/docs/deepobs_banner.png" width="350">
 
-[2020 - Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/abs/1912.02178)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2020 - Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/abs/1912.02178) ✅
 
 > The most direct and principled approach for studying
 generalization in deep learning is to prove a **generalization bound** which is typically an upper
@@ -586,16 +558,13 @@ the smaller the generalization gap
 
 <img src="https://anandj.in/wp-content/uploads/dc.png" width="350">
 
-[2015 - Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2015 - Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) ⭕
 
-[2017 - Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519) - [[github]](https://github.com/liuzhuang13/slimming)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2017 - Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519) - [[github]](https://github.com/liuzhuang13/slimming) ⭕
 
 <img src="https://user-images.githubusercontent.com/8370623/29604272-d56a73f4-879b-11e7-80ea-0702de6bd584.jpg" width="350">
 
-[2018 - Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2018 - Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270) ✅
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRq9LlknFNmCyXoKoEVqfMX3JgP66T5Ezpbh4FF9xUVLBU0jO6" width="350">
 
@@ -625,8 +594,7 @@ some cases pruning can be useful as an architecture search paradigm.
 
 
 
-[2019 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) ✅
 
 <img src="https://miro.medium.com/max/2916/1*IraKnowykSyMZtrW1dJOVA.png" width="350">
 
@@ -706,13 +674,11 @@ connections have initial weights that make training particularly effective.
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[2019 - Panoptic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.html)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - Panoptic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.html) ✅
 
 <img src="https://miro.medium.com/max/1400/1*OelVuv2thUGAj_400WfseQ.png" width="350">
 
-[2019 - The Best of Both Modes: Separately Leveraging RGB and Depth for Unseen Object Instance Segmentation](https://arxiv.org/abs/1907.13236)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - The Best of Both Modes: Separately Leveraging RGB and Depth for Unseen Object Instance Segmentation](https://arxiv.org/abs/1907.13236) ✅
 
 <img src="https://i.pinimg.com/564x/31/a7/a1/31a7a1a70bd76e035d92f811cb4701d0.jpg" width="350">
 
@@ -849,8 +815,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- ------------------------------------------------------------------------------- -->
 
 
-[2014 - Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+) 
+[2014 - Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909) ✅
 
 <img src="https://www.inference.vc/content/images/2017/05/Screen-Shot-2017-05-11-at-9.31.37-AM.png" width="300">
  
@@ -860,14 +825,12 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 [2017 - Smart Augmentation - Learning an Optimal Data Augmentation Strategy](https://arxiv.org/abs/1703.08383)
 
-[2017 - Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2017 - Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846) ⭕
 
 
 [2018 - **[Survey]**: Not-so-supervised: a survey of semi-supervised, multi-instance, and transfer learning in medical image analysis](https://arxiv.org/abs/1804.06353)
 
-[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) - [[github]](https://github.com/albu/albumentations)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) - [[github]](https://github.com/albu/albumentations) ✅
 
 
 [2018 - Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/abs/1801.02929)
@@ -878,37 +841,31 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 [2018 - GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/abs/1810.10863)
 
-[2019 - **[UDA]**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) - [[github]](https://github.com/google-research/uda)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2019 - **[UDA]**: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) - [[github]](https://github.com/google-research/uda) ⭕
 
 <sub>Common among recent approaches is the use of <b>consistency training</b> on a large amount of unlabeled data to constrain model predictions to be invariant to input noise. In this work, we present a new perspective on how to effectively noise unlabeled examples and argue that the quality of noising, specifically those produced by <b>advanced data augmentation methods</b>, plays a <b>crucial role</b> in semi-supervised learning. Our method also combines well with <b>transfer learning</b>, e.g., when finetuning from BERT, and yields improvements in high-data regime, such as ImageNet, whether when there is only 10% labeled data or when a full labeled set with 1.3M extra unlabeled examples is used.</sub>
 
 <img src="https://camo.githubusercontent.com/0896cb65f9a87983bee3f2f71f3c064c33216413/68747470733a2f2f692e696d6775722e636f6d2f4c38476b3634622e706e67" width="350">
 
-[2019 - **[MixMatch]**: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2019 - **[MixMatch]**: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249) ⭕
 
 <sub>Semi-supervised learning has proven to be a powerful paradigm for leveraging unlabeled data to mitigate the reliance on large labeled datasets. In this work, we unify the current dominant approaches for semi-supervised learning to produce a new algorithm, MixMatch, that works by <b>guessing low-entropy labels</b> for data-augmented unlabeled examples and <b>mixing labeled and unlabeled</b> data using MixUp. We show that MixMatch obtains state-of-the-art results by a large margin across many datasets and labeled data amounts.</sub>
 
 <img src="https://miro.medium.com/max/1402/1*i4OfXztihCXgrxR52ZlowQ.png" width="350">
 
 
-[2019 - **[RealMix]**: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766v1)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - **[RealMix]**: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766v1) ✅
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_402411/images/RealMix.png" width="350">
 
 
-[2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393) [[github]](https://github.com/arcelien/pba) ✅
 
-[2019 - **[AugMix]**: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781v1) [[github]](https://github.com/google-research/augmix)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - **[AugMix]**: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781v1) [[github]](https://github.com/google-research/augmix) ✅
 
 <img src="https://pythonawesome.com/content/images/2019/12/AugMix.jpg" width="350">
 
-[2019 - Self-training with **[Noisy Student]** improves ImageNet classification](https://arxiv.org/abs/1911.04252)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - Self-training with **[Noisy Student]** improves ImageNet classification](https://arxiv.org/abs/1911.04252) ✅
 
 <sub>We present a simple <b>self-training</b> method that achieves 88.4% top-1 accuracy on ImageNet, which is 2.0% better than the state-of-the-art model that requires 3.5B weakly labeled Instagram images. On <b>robustness test sets</b>, it improves ImageNet-A top-1 accuracy from 61.0% to 83.7%.
 To achieve this result, we first train an EfficientNet model on labeled ImageNet images and <b>use it as a teacher to generate pseudo labels</b> on 300M unlabeled images. We then train a larger EfficientNet as <b>a student model on the combination of labeled and pseudo labeled images</b>. We <b>iterate this process</b> by putting back the student as the teacher. During the generation of the pseudo labels, the teacher is not noised so that the pseudo labels are as accurate as possible. However, during the learning of the student, we <b>inject noise such as dropout, stochastic depth and data augmentation</b> via RandAugment to the student so that the student generalizes better than the teacher.</sub>
@@ -943,23 +900,19 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 [2019 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)
 
-[2020 - A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2020 - A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) ⭕
 
 <img src="https://miro.medium.com/max/8300/1*1uaA1tE5PDnVpSljxSTEoQ.png" width="250">
 
-[2020 - **::SURVEY::** Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2020 - **::SURVEY::** Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162) ⭕
 
-[2020 - **[NeurIPS 2020 Workshop]**: Self-Supervised Learning - Theory and Practice](https://sslneuips20.github.io/pages/Accepted%20Paper.html)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2020 - **[NeurIPS 2020 Workshop]**: Self-Supervised Learning - Theory and Practice](https://sslneuips20.github.io/pages/Accepted%20Paper.html) ⭕
 
 <!--- ------------------------------------------------------------------------------- -->
 ## Mutual Learning
 <!--- ------------------------------------------------------------------------------- -->
 
-[2017 - Deep Mutual Learning](https://arxiv.org/abs/1706.00384)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2017 - Deep Mutual Learning](https://arxiv.org/abs/1706.00384) ✅
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_1989/project_107452/images/x1.png" width="350">
 
@@ -1183,8 +1136,7 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 <img src="https://i.pinimg.com/564x/c6/f4/80/c6f480f3419849b1b9598ccc35dbaecf.jpg" width="350">
 
-[2020 - Deep Learning Techniques for Inverse Problems in Imaging](https://ieeexplore.ieee.org/abstract/document/9084378)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2020 - Deep Learning Techniques for Inverse Problems in Imaging](https://ieeexplore.ieee.org/abstract/document/9084378) ⭕
 
 [2020 - **[Review]**: Deep learning for tomographic image reconstruction (closed)](https://www.nature.com/articles/s42256-020-00273-z#author-information)
 
@@ -1428,8 +1380,7 @@ https://arxiv.org/abs/1611.07715
 <!--- ------------------------------------------------------------------------------- -->
 
 
-[2016 - Building Machines That Learn and Think Like People](https://www.semanticscholar.org/paper/Building-Machines-That-Learn-and-Think-Like-People-Lake-Ullman/5721a0c623aeb12a65b4d6f5a5c83a5f82988d7c)
-![#ff0000](https://placehold.it/15/ff0000/000000?text=+)
+[2016 - Building Machines That Learn and Think Like People](https://www.semanticscholar.org/paper/Building-Machines-That-Learn-and-Think-Like-People-Lake-Ullman/5721a0c623aeb12a65b4d6f5a5c83a5f82988d7c) ⭕
 
 [2016 - A Berkeley View of Systems Challenges for AI](https://arxiv.org/abs/1712.05855)
 
@@ -1437,8 +1388,7 @@ https://arxiv.org/abs/1611.07715
 
 [2018 - Human-level intelligence or animal-like abilities?](https://dl.acm.org/citation.cfm?id=3271625)
 
-[2019 - Deep Nets: What have they ever done for Vision?](https://arxiv.org/abs/1805.04025)
-![#c5ff15](https://placehold.it/15/c5ff15/000000?text=+)
+[2019 - Deep Nets: What have they ever done for Vision?](https://arxiv.org/abs/1805.04025) ✅
 
 <sub>This is an opinion paper about the strengths and weaknesses of Deep Nets for vision. They are at the center of recent progress on artificial intelligence and are of growing importance in cognitive science and neuroscience. They have enormous successes but also clear limitations. There is also only partial understanding of their inner workings. It seems unlikely that Deep Nets in their current form will be the best long-term solution either for building general purpose intelligent machines or for understanding the mind/brain, but it is likely that many aspects of them will remain. At present Deep Nets do very well on specific types of visual tasks and on specific benchmarked datasets. But Deep Nets are much less general purpose, flexible, and adaptive than the human visual system. Moreover, methods like Deep Nets may run into fundamental difficulties when faced with the enormous complexity of natural images which can lead to a combinatorial explosion. To illustrate our main points, while keeping the references small, this paper is slightly biased towards work from our group.</sub>
 
