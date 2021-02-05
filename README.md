@@ -46,11 +46,13 @@
 
 
 
-Notations
+**Notations**
 
-:white_check_mark: Checked
+:white_check_mark: - Checked
 
-⭕ To Check
+⭕ - To Check
+
+📜 - Survey
 
 
 # Neural Networks
@@ -358,9 +360,9 @@ The depth of representations is of central importance for many visual recognitio
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[2020 - **SURVEY**: A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556)
+[2020 - **SURVEY**: A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556) 📜
 
-[2021 - **SURVEY**: Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
+[2021 - **SURVEY**: Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169) 📜
 
 
 <!--- ------------------------------------------------------------------------------- -->
@@ -386,7 +388,7 @@ The depth of representations is of central importance for many visual recognitio
 
 [2020 - [BLOG] NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
 
-[2020 - **[SURVEY]** State of the Art on Neural Rendering](https://arxiv.org/abs/2004.03805)
+[2020 - **[SURVEY]** State of the Art on Neural Rendering](https://arxiv.org/abs/2004.03805) 📜
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8e90a05-3207-43cc-9a16-00be7bdae536/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210205T142824Z&X-Amz-Expires=86400&X-Amz-Signature=432f6096a6b940cadaade65b71dd7d85628e4567565489a3ced22b0fd6160f52&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
@@ -643,7 +645,7 @@ connections have initial weights that make training particularly effective.
 
 <img src="https://github.com/tomgoldstein/loss-landscape/raw/master/doc/images/resnet56_noshort_small.jpg" width="250">
 
-[2019 - **[SURVEY]** Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286)
+[2019 - **[SURVEY]** Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://ieeexplore.ieee.org/document/8371286) 📜
 
 
 [2018 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597v1)
@@ -722,7 +724,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[2009 - Anomaly Detection: A Survey](https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf)
+[2009 - Anomaly Detection: A Survey](https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf) 📜
 
 [2017 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921v1)
 
@@ -828,7 +830,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 [2017 - Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846) ⭕
 
 
-[2018 - **[Survey]**: Not-so-supervised: a survey of semi-supervised, multi-instance, and transfer learning in medical image analysis](https://arxiv.org/abs/1804.06353)
+[2018 - **[Survey]**: Not-so-supervised: a survey of semi-supervised, multi-instance, and transfer learning in medical image analysis](https://arxiv.org/abs/1804.06353) 📜
 
 [2018 - Albumentations: fast and flexible image augmentations](https://arxiv.org/abs/1809.06839) - [[github]](https://github.com/albu/albumentations) ✅
 
@@ -904,7 +906,7 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 <img src="https://miro.medium.com/max/8300/1*1uaA1tE5PDnVpSljxSTEoQ.png" width="250">
 
-[2020 - **::SURVEY::** Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162) ⭕
+[2020 - **::SURVEY::** Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162) 📜⭕
 
 [2020 - **[NeurIPS 2020 Workshop]**: Self-Supervised Learning - Theory and Practice](https://sslneuips20.github.io/pages/Accepted%20Paper.html) ⭕
 
@@ -1367,7 +1369,7 @@ https://arxiv.org/abs/1611.07715
 
 [2020 - Maithra Raghu, Eric Schmidt. A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/abs/2003.11755v1)
 
-[**[ml-surveys [github]]** - a selection of survey papers summarizing the advances in the field](https://github.com/eugeneyan/ml-surveys)
+[**[ml-surveys [github]]** - a selection of survey papers summarizing the advances in the field](https://github.com/eugeneyan/ml-surveys) 📜
 
 
 
