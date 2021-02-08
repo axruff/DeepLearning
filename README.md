@@ -1205,6 +1205,10 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 <img src="http://imagine.enpc.fr/~shenx/RANSAC-Flow/img/overview.jpg" width="350">
 
+[2020 - Extreme Sparse X-ray Computed Laminography Via Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/9288349/authors)
+
+<img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9288160/9288161/9288349/9288349-fig-4-source-large.gif" width="350">
+
 
 
 <!--- ------------------------------------------------------------------------------- -->
