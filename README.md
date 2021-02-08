@@ -392,6 +392,9 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8e90a05-3207-43cc-9a16-00be7bdae536/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210205T142824Z&X-Amz-Expires=86400&X-Amz-Signature=432f6096a6b940cadaade65b71dd7d85628e4567565489a3ced22b0fd6160f52&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
+[2020 - AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714?s=09)
+
+<img src="https://www.google.com/search?q=AutoInt:+Automatic+Integration+for+Fast+Neural+Volume+Rendering&rlz=1C1GCEU_enDE855DE855&sxsrf=ALeKk03-X4wgBoABAWBeFBxJkipvsZ_8Eg:1612787881804&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiTyquGp9ruAhXOEcAKHWmcB6AQ_AUoAnoECAoQBA&biw=1551&bih=957" width="250">
 
 
 <!--- ------------------------------------------------------------------------------- -->
