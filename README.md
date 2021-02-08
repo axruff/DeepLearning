@@ -396,6 +396,8 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://i.pinimg.com/564x/cb/00/d8/cb00d86700bc4e926170f5b80d5503a2.jpg" width="250">
 
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/42fac0d1-1396-4239-8ace-df37606f50b6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210208T124231Z&X-Amz-Expires=86400&X-Amz-Signature=d6ac5d7cc25bc2a9ff00a0db5cdf1fc31695353e532a0d6b1d03c9c53793e019&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
