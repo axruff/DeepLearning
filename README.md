@@ -148,6 +148,10 @@ The depth of representations is of central importance for many visual recognitio
 <img src="https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png" width="350">
 
 
+[2018 - ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b69cb596-c002-4f82-9ad8-ff733a3214f6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210209T103524Z&X-Amz-Expires=86400&X-Amz-Signature=c918998a89773ae0cba4ec47e8f110f873df01872b1b1e33756085dc26609007&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
 [2019 - **[PacNet]**: Pixel-Adaptive Convolutional Neural Networks](https://arxiv.org/abs/1904.05373)
 
 <img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
