@@ -1045,6 +1045,10 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 <img src="https://cdn.slidesharecdn.com/ss_thumbnails/cocodataset-190410053316-thumbnail-4.jpg?cb=1554874430" width="350">
 
+[2020 - **[CARLA]** Open-source simulator for autonomous driving research.](https://carla.org/)
+
+<img src="https://github.com/carla-simulator/carla/raw/master/Docs/img/video_thumbnail_0910.jpg" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
