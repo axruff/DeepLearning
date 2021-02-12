@@ -1376,6 +1376,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://i.pinimg.com/564x/0b/1d/71/0b1d71b49b792974988a54922be51120.jpg" width="350">
 
+[**[DALI]** - NVIDIA Data Loading Library](https://developer.nvidia.com/dali)
+
+<img src="https://developer.nvidia.com/sites/default/files/akamai/dali.png" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
