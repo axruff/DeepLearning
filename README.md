@@ -1395,6 +1395,9 @@ https://arxiv.org/abs/1611.07715
 [**[ml-surveys [github]]** - a selection of survey papers summarizing the advances in the field](https://github.com/eugeneyan/ml-surveys) 📜
 
 
+ [**[DALI]** - NVIDIA Data Loading Library ](https://developer.nvidia.com/dali)
+
+<img src="https://developer.nvidia.com/sites/default/files/akamai/dali.png" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
