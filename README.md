@@ -9,7 +9,7 @@
     - [Composition](#composition)
     - [Capsule Networks](#capsule-networks)
     - [Transformers](#transformers)
-    - [Neural Rendering](#neural-rendering)
+    - [3D Shape and Neural Rendering](#3d-shape)
   - [💪 Optimization](#optimization)
     - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
@@ -375,7 +375,7 @@ The depth of representations is of central importance for many visual recognitio
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
-### Neural Rendering
+### 3D Shape
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -404,6 +404,10 @@ The depth of representations is of central importance for many visual recognitio
 
 <sub>Numerical integration is a foundational technique in scientific computing and is at the core of many computer vision applications. Among these applications, implicit neural volume rendering has recently been proposed as a new paradigm for view synthesis, achieving photorealistic image quality. However, a fundamental obstacle to making these methods practical is the extreme computational and memory requirements caused by the required volume integrations along the rendered rays during training and inference. Millions of rays, each requiring hundreds of forward passes through a neural network are needed to approximate those integrations with Monte Carlo sampling. Here, <b>we propose automatic integration</b>, a new framework for learning efficient, closed-form solutions to integrals using implicit neural representation networks. For training, we instantiate the computational graph corresponding to the derivative of the implicit neural representation. The graph is fitted to the signal to integrate. After optimization, we reassemble the graph to obtain a network that represents the <b>antiderivative</b>. By the fundamental theorem of calculus, this enables the calculation of any definite integral in two evaluations of the network. Using this approach, we demonstrate a greater than 10x improvement in computation requirements, enabling fast neural volume rendering.</sub>
 
+
+[2020 - A Curvature and Density‐based Generative Representation of Shapes](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14094)
+
+<img src="https://i.pinimg.com/564x/b7/8d/35/b78d351ffc32e224cac2f243b70275e2.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
