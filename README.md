@@ -409,6 +409,8 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://i.pinimg.com/564x/b7/8d/35/b78d351ffc32e224cac2f243b70275e2.jpg" width="350">
 
+<sub> This paper introduces a <b>generative model</b> for 3D surfaces based on a representation of shapes with <b>mean curvature and metric</b>, which are i<b>nvariant under rigid transformation</b>. Hence, compared with existing 3D machine learning frameworks, our model substantially reduces the influence of translation and rotation. In addition, the local structure of shapes will be more precisely captured, since the curvature is explicitly encoded in our model. Specifically, every surface is first conformally <b>mapped to a canonical domain</b>, such as a <b>unit disk</b> or a <b>unit sphere</b>. Then, it is represented by two functions: the mean curvature half‐density and the vertex density, over this canonical domain. Assuming that input shapes follow a certain distribution in a latent space, we use the variational autoencoder to learn the latent space representation. After the learning, we can generate variations of shapes by randomly sampling the distribution in the latent space. Surfaces with triangular meshes can be reconstructed from the generated data by applying isotropic remeshing and spin transformation, which is given by Dirac equation. We demonstrate the effectiveness of our model on datasets of man‐made and biological shapes and compare the results with other methods. </sub>
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
