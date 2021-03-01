@@ -180,6 +180,10 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://i.pinimg.com/564x/ca/d3/4a/cad34a3e6ef844515239d0ba80d40f8a.jpg" width="350">
 
+[2021 - Learning Neural Network Subspaces](https://arxiv.org/abs/2102.10472)
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b95defb7-3c23-4997-9e83-98205cdc7b38/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210301%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210301T145215Z&X-Amz-Expires=86400&X-Amz-Signature=7c3ecb403e56f47292957a7f029fc7e538f68c8d24f3a8f50fb18f2256ac6ee5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="250">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
