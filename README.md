@@ -810,7 +810,7 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- ------------------------------------------------------------------------------- -->
 
 
-[2019 - SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117) [[github]](https://github.com/ppliuboy/SelFlow)
+[2019 - SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117) [- [github]](https://github.com/ppliuboy/SelFlow)
 
 <img src="https://i.pinimg.com/564x/80/87/74/80877422d35afa1aa17fe6eedf6eaaf6.jpg" width="350">
 
