@@ -1292,6 +1292,10 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1361841518300495-gr12.jpg" width="250">
 
+[2019 - Unsupervised Learning of Probabilistic Diffeomorphic Registration for Images and Surfaces](https://arxiv.org/abs/1903.03545)
+
+<img src="" width="350">
+
 [2020 - RANSAC-Flow: generic two-stage image alignment](https://arxiv.org/abs/2004.01526)
 
 <img src="http://imagine.enpc.fr/~shenx/RANSAC-Flow/img/overview.jpg" width="350">
@@ -1318,7 +1322,11 @@ https://arxiv.org/abs/1611.07715
 <img src="https://pbs.twimg.com/media/ES9NRrAU8AARSPA.jpg" width="350">
 
 
+[2017 - **[[TOFlow]]** Video Enhancement with Task-Oriented Flow](https://arxiv.org/abs/1711.09078)
 
+<img src="http://toflow.csail.mit.edu/files/teaser.jpg" width="400">
+
+<sub>Many video enhancement algorithms rely on optical flow to register frames in a video sequence. Precise flow estimation is however intractable; and optical flow itself is often a sub-optimal representation for particular video processing tasks. In this paper, we propose task-oriented flow (TOFlow), a motion representation learned in a <b>self-supervised, task-specific manner</b>. We design a neural network with a trainable motion estimation component and a video processing component, and train them jointly to learn the <b>task-oriented flow</b>. For evaluation, we build Vimeo-90K, a large-scale, high-quality video dataset for low-level video processing. TOFlow outperforms traditional optical flow on standard benchmarks as well as our Vimeo-90K dataset in three video processing tasks: frame interpolation, video denoising/deblocking, and video super-resolution.</sub>
 
 
 <!--- ------------------------------------------------------------------------------- -->
