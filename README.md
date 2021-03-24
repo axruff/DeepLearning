@@ -810,6 +810,12 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- ------------------------------------------------------------------------------- -->
 
 
+[2019 - SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)
+
+<img src="https://i.pinimg.com/564x/80/87/74/80877422d35afa1aa17fe6eedf6eaaf6.jpg" width="350">
+
+<sub>We present a self-supervised learning approach for optical flow. Our method <b>distills reliable flow estimations from non-occluded pixels</b>, and uses these predictions as ground truth to learn optical flow for hallucinated occlusions. We further design a simple CNN to utilize temporal information from multiple frames for better flow estimation. These two principles lead to an approach that yields the best performance for unsupervised optical flow learning on the challenging benchmarks including MPI Sintel, KITTI 2012 and 2015. More notably, our self-supervised pre-trained model provides an excellent initialization for supervised fine-tuning. Our fine-tuned models achieve state-of-the-art results on all three datasets. At the time of writing, we achieve EPE=4.26 on the Sintel benchmark, outperforming all submitted methods.</sub>
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
@@ -1306,12 +1312,6 @@ https://arxiv.org/abs/1611.07715
 [2017 - PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://arxiv.org/abs/1709.02371)[[github]](https://github.com/axruff/pytorch-pwc)
 
 <img src="https://research.nvidia.com/sites/default/files/publications/pwcnet_0.png" width="350">
-
-[2019 - SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)
-
-<img src="https://i.pinimg.com/564x/80/87/74/80877422d35afa1aa17fe6eedf6eaaf6.jpg" width="350">
-
-<sub>We present a self-supervised learning approach for optical flow. Our method <b>distills reliable flow estimations from non-occluded pixels</b>, and uses these predictions as ground truth to learn optical flow for hallucinated occlusions. We further design a simple CNN to utilize temporal information from multiple frames for better flow estimation. These two principles lead to an approach that yields the best performance for unsupervised optical flow learning on the challenging benchmarks including MPI Sintel, KITTI 2012 and 2015. More notably, our self-supervised pre-trained model provides an excellent initialization for supervised fine-tuning. Our fine-tuned models achieve state-of-the-art results on all three datasets. At the time of writing, we achieve EPE=4.26 on the Sintel benchmark, outperforming all submitted methods.</sub>
 
 [2020 - Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534) [[github]](https://github.com/sniklaus/softmax-splatting)
 
