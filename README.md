@@ -36,7 +36,7 @@
   - [Applications: Medical Imaging](#applications-medical-imaging)
   - [Applications: X-ray Imaging](#applications-x-ray-imaging)
   - [Applications: Image Registration](#applications-image-registration)
-  - [Applications: Video and Motion](#applications-video-and-motion)
+  - [Applications: Video and Motion](#applications-video)
   - [Applications: Denoising and Superresolution](#application-denoising-and-superresolution)
   - [Applications: Inpainting](#applications-inpainting)
   - [Applications: Photography](#applications-photography)
