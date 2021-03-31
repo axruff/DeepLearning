@@ -421,7 +421,7 @@ The depth of representations is of central importance for many visual recognitio
 
 [2021 - Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks](https://paschalidoud.github.io/neural_parts)
 
-<img src="https://paschalidoud.github.io/projects/neural_parts/architecture.png" width="400">
+<img src="https://paschalidoud.github.io/projects/neural_parts/architecture.png" width="450">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
