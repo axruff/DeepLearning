@@ -419,6 +419,10 @@ The depth of representations is of central importance for many visual recognitio
 
 <sub> This paper introduces a <b>generative model</b> for 3D surfaces based on a representation of shapes with <b>mean curvature and metric</b>, which are i<b>nvariant under rigid transformation</b>. Hence, compared with existing 3D machine learning frameworks, our model substantially reduces the influence of translation and rotation. In addition, the local structure of shapes will be more precisely captured, since the curvature is explicitly encoded in our model. Specifically, every surface is first conformally <b>mapped to a canonical domain</b>, such as a <b>unit disk</b> or a <b>unit sphere</b>. Then, it is represented by two functions: the mean curvature half‐density and the vertex density, over this canonical domain. Assuming that input shapes follow a certain distribution in a latent space, we use the variational autoencoder to learn the latent space representation. After the learning, we can generate variations of shapes by randomly sampling the distribution in the latent space. Surfaces with triangular meshes can be reconstructed from the generated data by applying isotropic remeshing and spin transformation, which is given by Dirac equation. We demonstrate the effectiveness of our model on datasets of man‐made and biological shapes and compare the results with other methods. </sub>
 
+[2021 - Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks](https://paschalidoud.github.io/neural_parts)
+
+<img src="https://paschalidoud.github.io/projects/neural_parts/architecture.png" width="400">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
@@ -1322,7 +1326,7 @@ https://arxiv.org/abs/1611.07715
 <img src="https://pbs.twimg.com/media/ES9NRrAU8AARSPA.jpg" width="350">
 
 
-[2017 - **[[TOFlow]]** Video Enhancement with Task-Oriented Flow](https://arxiv.org/abs/1711.09078)
+[2017 - **[TOFlow]** Video Enhancement with Task-Oriented Flow](https://arxiv.org/abs/1711.09078)
 
 <img src="http://toflow.csail.mit.edu/files/teaser.jpg" width="400">
 
