@@ -506,6 +506,8 @@ https://arxiv.org/abs/1806.09055
 
 [2019 - DeepOBS: A Deep Learning Optimizer Benchmark Suite](https://arxiv.org/abs/1903.05499)
 
+[2019 - A Recipe for Training Neural Networks. Andrey Karpathi Blog](http://karpathy.github.io/2019/04/25/recipe/)
+
 <img src="https://github.com/fsschneider/DeepOBS/raw/master/docs/deepobs_banner.png" width="350">
 
 [2020 - Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/abs/1912.02178) ✅
