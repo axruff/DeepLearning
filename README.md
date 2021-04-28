@@ -1537,7 +1537,6 @@ https://arxiv.org/abs/1611.07715
 
 [2021 - Why AI is Harder Than We Think by Melanie Mitchell](https://arxiv.org/abs/2104.12871)
 
-<img src="" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
