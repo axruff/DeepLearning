@@ -1529,20 +1529,6 @@ https://arxiv.org/abs/1611.07715
 
 [2018 - Human-level intelligence or animal-like abilities?](https://dl.acm.org/citation.cfm?id=3271625)
 
-[2019 - Deep Nets: What have they ever done for Vision?](https://arxiv.org/abs/1805.04025) ✅
-
-<sub>This is an opinion paper about the strengths and weaknesses of Deep Nets for vision. They are at the center of recent progress on artificial intelligence and are of growing importance in cognitive science and neuroscience. They have enormous successes but also clear limitations. There is also only partial understanding of their inner workings. It seems unlikely that Deep Nets in their current form will be the best long-term solution either for building general purpose intelligent machines or for understanding the mind/brain, but it is likely that many aspects of them will remain. At present Deep Nets do very well on specific types of visual tasks and on specific benchmarked datasets. But Deep Nets are much less general purpose, flexible, and adaptive than the human visual system. Moreover, methods like Deep Nets may run into fundamental difficulties when faced with the enormous complexity of natural images which can lead to a combinatorial explosion. To illustrate our main points, while keeping the references small, this paper is slightly biased towards work from our group.</sub>
-
-[2020 - State of AI Report 2020](https://www.stateof.ai/)
-
-[2021 - Why AI is Harder Than We Think by Melanie Mitchell](https://arxiv.org/abs/2104.12871)
-
-
-
-<!--- ------------------------------------------------------------------------------- -->
-# Future of AI
-<!--- ------------------------------------------------------------------------------- -->
-
 [2018 - When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807)
 
 <img src="https://i.pinimg.com/564x/66/2a/af/662aaf5ca744d6bd7aad44d4a70523a6.jpg" width="200">
@@ -1553,8 +1539,20 @@ https://arxiv.org/abs/1611.07715
 
 [2018 - Deciphering China’s AI Dream: The context, components, capabilities, and consequences of China’s strategy to lead the world in AI](https://www.fhi.ox.ac.uk/deciphering-chinas-ai-dream/)
 
+
+[2019 - Deep Nets: What have they ever done for Vision?](https://arxiv.org/abs/1805.04025) ✅
+
+<sub>This is an opinion paper about the strengths and weaknesses of Deep Nets for vision. They are at the center of recent progress on artificial intelligence and are of growing importance in cognitive science and neuroscience. They have enormous successes but also clear limitations. There is also only partial understanding of their inner workings. It seems unlikely that Deep Nets in their current form will be the best long-term solution either for building general purpose intelligent machines or for understanding the mind/brain, but it is likely that many aspects of them will remain. At present Deep Nets do very well on specific types of visual tasks and on specific benchmarked datasets. But Deep Nets are much less general purpose, flexible, and adaptive than the human visual system. Moreover, methods like Deep Nets may run into fundamental difficulties when faced with the enormous complexity of natural images which can lead to a combinatorial explosion. To illustrate our main points, while keeping the references small, this paper is slightly biased towards work from our group.</sub>
+
+[2020 - State of AI Report 2020](https://www.stateof.ai/)
+
 [2020 - The role of artificial intelligence in achieving the Sustainable Development Goals](https://www.nature.com/articles/s41467-019-14108-y)
 
 <img src="https://i.pinimg.com/564x/27/4a/a8/274aa81d34dee0039192b50020c54879.jpg" width="250">
+
+
+[2021 - Why AI is Harder Than We Think by Melanie Mitchell](https://arxiv.org/abs/2104.12871)
+
+<sub>Since its beginning in the 1950s, the field of artificial intelligence has cycled several times between periods of optimistic predictions and massive investment ("AI spring") and periods of disappointment, loss of confidence, and reduced funding ("AI winter"). Even with today's seemingly fast pace of AI breakthroughs, the development of long-promised technologies such as self-driving cars, housekeeping robots, and conversational companions has turned out to be much harder than many people expected. One reason for these repeating cycles is <b>our limited understanding of the nature and complexity of intelligence itself</b>. In this paper I describe four fallacies in common assumptions made by AI researchers, which can lead to overconfident predictions about the field. I conclude by discussing the open questions spurred by these fallacies, including the age-old challenge of imbuing machines with humanlike common sense.</sub>
 
 
