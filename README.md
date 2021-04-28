@@ -508,6 +508,8 @@ https://arxiv.org/abs/1806.09055
 
 <img src="https://github.com/fsschneider/DeepOBS/raw/master/docs/deepobs_banner.png" width="350">
 
+[2019 - A Recipe for Training Neural Networks. Andrey Karpathi Blog](http://karpathy.github.io/2019/04/25/recipe/)
+
 [2020 - Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/abs/1912.02178) ✅
 
 > The most direct and principled approach for studying
