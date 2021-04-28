@@ -44,7 +44,7 @@
 - [💻 Software](#software)
 - [📈 Overview](#overview)
 - [💬 Opinions](#opinions)
-- [🤖 Future of AI](#future-of-ai) 
+
 
 
 
