@@ -697,9 +697,10 @@ connections have initial weights that make training particularly effective.
 
 [2019 - Unmasking Clever Hans Predictors and Assessing What Machines Really Learn](https://arxiv.org/abs/1902.10178)
 
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d26dceb-3ca2-4039-92c2-0fcb75f7dbfc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210429%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210429T131615Z&X-Amz-Expires=86400&X-Amz-Signature=41283711dcab0235330a252327d62c73224e73b650a1ab6288646fb491485af2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
 <sub>Current learning machines have successfully solved hard application problems, reaching high accuracy and displaying seemingly "intelligent" behavior. Here we apply recent techniques for explaining decisions of state-of-the-art learning machines and analyze various tasks from computer vision and arcade games. This showcases a spectrum of problem-solving behaviors ranging from naive and short-sighted, to well-informed and strategic. We observe that standard performance evaluation metrics can be oblivious to distinguishing these diverse problem solving behaviors. Furthermore, we propose our semi-automated Spectral Relevance Analysis that provides a practically effective way of characterizing and validating the behavior of nonlinear learning machines. This helps to assess whether a learned model indeed delivers reliably for the problem that it was conceived for. Furthermore, our work intends to add a voice of caution to the ongoing excitement about machine intelligence and pledges to evaluate and judge some of these recent successes in a more nuanced manner.</sub>
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d26dceb-3ca2-4039-92c2-0fcb75f7dbfc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210429%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210429T131615Z&X-Amz-Expires=86400&X-Amz-Signature=41283711dcab0235330a252327d62c73224e73b650a1ab6288646fb491485af2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 [2020 - Actionable Attribution Maps for Scientific Machine Learning](https://arxiv.org/abs/2006.16533)
 
@@ -708,9 +709,11 @@ connections have initial weights that make training particularly effective.
 
 [2020 - Shortcut Learning in Deep Neural Networks](https://arxiv.org/abs/2004.07780)
 
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1f0c83d4-1c8a-41aa-8664-02828932bc0c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210429%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210429T131515Z&X-Amz-Expires=86400&X-Amz-Signature=b3069a55cb86532fbd4cad3a15eca0988024fedd3593be311e150c99196b5317&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
 <sub>Deep learning has triggered the current rise of artificial intelligence and is the workhorse of today's machine intelligence. Numerous success stories have rapidly spread all over science, industry and society, but its limitations have only recently come into focus. In this perspective we seek to distil how many of deep learning's problem can be seen as different symptoms of the same underlying problem: shortcut learning. Shortcuts are decision rules that perform well on standard benchmarks but fail to transfer to more challenging testing conditions, such as real-world scenarios. Related issues are known in Comparative Psychology, Education and Linguistics, suggesting that shortcut learning may be a common characteristic of learning systems, biological and artificial alike. Based on these observations, <b>we develop a set of recommendations for model interpretation and benchmarking</b>, highlighting recent advances in machine learning to improve robustness and transferability from the lab to real-world applications.</sub>
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1f0c83d4-1c8a-41aa-8664-02828932bc0c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210429%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210429T131515Z&X-Amz-Expires=86400&X-Amz-Signature=b3069a55cb86532fbd4cad3a15eca0988024fedd3593be311e150c99196b5317&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
 
 
 
