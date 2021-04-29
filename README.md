@@ -1263,7 +1263,11 @@ https://www.nature.com/articles/s41598-018-19426-7
 <img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9288160/9288161/9288349/9288349-fig-4-source-large.gif" width="350">
 
 
+[2021 - **[SliceGAN]**: Generating 3D structures from a 2D slice with GAN-based dimensionality expansion](https://arxiv.org/abs/2102.07708)
 
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47e9a664-8b48-4c1d-adae-cdb053d5abc6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210429%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210429T084058Z&X-Amz-Expires=86400&X-Amz-Signature=b26d3bb4c382484d8d13a2d66411dc75c05ef399547f3c29dc91436837a76681&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
+<sub>Generative adversarial networks (GANs) can be trained to generate 3D image data, which is useful for design optimisation. However, this conventionally requires 3D training data, which is challenging to obtain. 2D imaging techniques tend to be faster, higher resolution, better at phase identification and more widely available. Here, we introduce a generative adversarial network architecture, SliceGAN, which is able to synthesise high fidelity 3D datasets using a single representative 2D image. This is especially relevant for the task of material microstructure generation, as a cross-sectional micrograph can contain sufficient information to statistically reconstruct 3D samples. Our architecture implements the concept of uniform information density, which both ensures that generated volumes are equally high quality at all points in space, and that arbitrarily large volumes can be generated. SliceGAN has been successfully trained on a diverse set of materials, demonstrating the widespread applicability of this tool. The quality of generated micrographs is shown through a statistical comparison of synthetic and real datasets of a battery electrode in terms of key microstructural metrics. Finally, we find that the generation time for a 108 voxel volume is on the order of a few seconds, yielding a path for future studies into high-throughput microstructural optimisation.</sub>
 
 
 # Applications: Image Registration
