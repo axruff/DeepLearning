@@ -695,12 +695,18 @@ connections have initial weights that make training particularly effective.
 
 <img src="https://neurohive.io/wp-content/uploads/2018/12/unit-distr-770x382.jpg" width="350">
 
+[2019 - Unmasking Clever Hans Predictors and Assessing What Machines Really Learn](https://arxiv.org/abs/1902.10178)
+
+<sub>Current learning machines have successfully solved hard application problems, reaching high accuracy and displaying seemingly "intelligent" behavior. Here we apply recent techniques for explaining decisions of state-of-the-art learning machines and analyze various tasks from computer vision and arcade games. This showcases a spectrum of problem-solving behaviors ranging from naive and short-sighted, to well-informed and strategic. We observe that standard performance evaluation metrics can be oblivious to distinguishing these diverse problem solving behaviors. Furthermore, we propose our semi-automated Spectral Relevance Analysis that provides a practically effective way of characterizing and validating the behavior of nonlinear learning machines. This helps to assess whether a learned model indeed delivers reliably for the problem that it was conceived for. Furthermore, our work intends to add a voice of caution to the ongoing excitement about machine intelligence and pledges to evaluate and judge some of these recent successes in a more nuanced manner.</sub>
+
 [2020 - Actionable Attribution Maps for Scientific Machine Learning](https://arxiv.org/abs/2006.16533)
 
 <img src="https://i.pinimg.com/564x/45/b0/51/45b05100bff866b98ff050433d4e64dd.jpg" width="350">
 
 
+[2020 - Shortcut Learning in Deep Neural Networks](https://arxiv.org/abs/2004.07780)
 
+<sub>Deep learning has triggered the current rise of artificial intelligence and is the workhorse of today's machine intelligence. Numerous success stories have rapidly spread all over science, industry and society, but its limitations have only recently come into focus. In this perspective we seek to distil how many of deep learning's problem can be seen as different symptoms of the same underlying problem: shortcut learning. Shortcuts are decision rules that perform well on standard benchmarks but fail to transfer to more challenging testing conditions, such as real-world scenarios. Related issues are known in Comparative Psychology, Education and Linguistics, suggesting that shortcut learning may be a common characteristic of learning systems, biological and artificial alike. Based on these observations, <b>we develop a set of recommendations for model interpretation and benchmarking</b>, highlighting recent advances in machine learning to improve robustness and transferability from the lab to real-world applications.</sub>
 
 
 
