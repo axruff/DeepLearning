@@ -823,6 +823,12 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <sub>We present a self-supervised learning approach for optical flow. Our method <b>distills reliable flow estimations from non-occluded pixels</b>, and uses these predictions as ground truth to learn optical flow for hallucinated occlusions. We further design a simple CNN to utilize temporal information from multiple frames for better flow estimation. These two principles lead to an approach that yields the best performance for unsupervised optical flow learning on the challenging benchmarks including MPI Sintel, KITTI 2012 and 2015. More notably, our self-supervised pre-trained model provides an excellent initialization for supervised fine-tuning. Our fine-tuned models achieve state-of-the-art results on all three datasets. At the time of writing, we achieve EPE=4.26 on the Sintel benchmark, outperforming all submitted methods.</sub>
 
 
+[2021 - AutoFlow: Learning a Better Training Set for Optical Flow](http://people.csail.mit.edu/celiu/pdfs/CVPR21_AutoFlow.pdf)
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1571aa7a-bff8-4e78-a843-170e2e6f43e3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210429%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210429T074617Z&X-Amz-Expires=86400&X-Amz-Signature=dad304d49177674ec93b9b66edf658387f6849659aecce407e0434d8e94778ae&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
+<sub><b>Synthetic datasets</b> play a critical role in pre-training CNN models for optical flow, but they are painstaking to generate and hard to adapt to new applications. To automate the process, we present AutoFlow, a simple and effective method to render training data for optical flow that <b>optimizes the performance of a model on a target dataset</b>. AutoFlow takes a layered approach to render synthetic data, where the motion, shape, and appearance of each layer are controlled by <b>learnable hyperparameters</b>. Experimental results show that AutoFlow achieves state-of-the-art accuracy in pre-training both PWC-Net and RAFT.</sub>
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
