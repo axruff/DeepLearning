@@ -95,7 +95,7 @@
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*HzxRI1qHXjiVXla-_NiMBA.png" width="350">
 
-
+---
 [2014 - **[GoogleNet]** Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) ✅
 
 <sub>We propose a deep convolutional neural network architecture codenamed "Inception", which was responsible for setting the new state of the art for classification and detection in the ImageNet Large-Scale Visual Recognition Challenge 2014 (ILSVRC 2014). The main hallmark of this architecture is the improved utilization of the computing resources inside the network. This was achieved by a carefully crafted design that allows for increasing the depth and width of the network while keeping the computational budget constant. To optimize quality, the architectural decisions were based on the Hebbian principle and the intuition of multi-scale processing. One particular incarnation used in our submission for ILSVRC 2014 is called GoogLeNet, a 22 layers deep network, the quality of which is assessed in the context of classification and detection.</sub>
@@ -105,6 +105,7 @@
 
 [2014 - Neural Turing Machines](https://arxiv.org/abs/1410.5401)
 
+---
 [2015 - **[ResNet]** Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ✅
 
 <sub>Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth. On the ImageNet dataset we evaluate residual nets with a depth of up to 152 layers---8x deeper than VGG nets but still having lower complexity. An ensemble of these residual nets achieves 3.57% error on the ImageNet test set. This result won the 1st place on the ILSVRC 2015 classification task. We also present analysis on CIFAR-10 with 100 and 1000 layers.
@@ -112,12 +113,14 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://miro.medium.com/max/3048/1*6hF97Upuqg_LdsqWY6n_wg.png" width="350">
 
+---
 [2015 - Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
 
 <sub>Convolutional Neural Networks define an exceptionally powerful class of models, but are still limited by the lack of ability to be spatially invariant to the input data in a computationally and parameter efficient manner. In this work we introduce a new learnable module, the Spatial Transformer, which <b>explicitly allows the spatial manipulation</b> of data within the network. <b>This differentiable module</b> can be inserted into existing convolutional architectures, giving neural networks the ability to actively spatially transform feature maps, conditional on the feature map itself, without any extra training supervision or modification to the optimisation process. We show that the use of spatial transformers results in models which learn <b>invariance to translation, scale, rotation and more generic warping</b>, resulting in state-of-the-art performance on several benchmarks, and for a number of classes of transformations.</sub>
 
 <img src="https://miro.medium.com/max/1104/0*n3FxIWWb46ARPww-" width="350">
 
+---
 [2016 - **[WRN]**: Wide Residual Networks](https://arxiv.org/abs/1605.07146) [[github]](https://github.com/szagoruyko/wide-residual-networks)
 
 [2015 - **[FCN]** Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
@@ -142,48 +145,54 @@ The depth of representations is of central importance for many visual recognitio
 [2018 - **[TernausNet]**: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746) ✅
 
 
+---
 [2018 - CubeNet: Equivariance to 3D Rotation and Translation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Worrall_CubeNet_Equivariance_to_ECCV_2018_paper.pdf)[[github]](https://github.com/deworrall92/cubenet), [*[video]*](https://www.youtube.com/watch?v=TlzRyHbWeP0&feature=youtu.be) ⭕
 
 <img src="https://i.pinimg.com/564x/8c/c8/44/8cc844bb8784d93790f9d2d2552297bf.jpg" width="350">
 
-
+---
 [2018 - Deep Rotation Equivariant Network](https://arxiv.org/abs/1705.08623)[[github]](https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png) ⭕
 
 <img src="https://github.com/ZJULearning/DREN/raw/master/img/rotate_equivariant.png" width="350">
 
-
+---
 [2018 - ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b69cb596-c002-4f82-9ad8-ff733a3214f6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210209T103524Z&X-Amz-Expires=86400&X-Amz-Signature=c918998a89773ae0cba4ec47e8f110f873df01872b1b1e33756085dc26609007&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
+---
 [2019 - **[PacNet]**: Pixel-Adaptive Convolutional Neural Networks](https://arxiv.org/abs/1904.05373)
 
 <img src="https://suhangpro.github.io/pac/fig/pac.png" width="350">
 
+---
 [2019 - Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120v3) [[github]](https://github.com/LinZhuoChen/DUpsampling) ⭕
 
 <img src="https://tonghe90.github.io/papers/cvpr2019_tz.png" width="400">
 
 [2019 - Panoptic Feature Pyramid Networks](http://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.html) ⭕
 
+---
 [2019 - **[DeeperLab]**: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093) ⭕
 
 <img src="http://deeperlab.mit.edu/deeperlab_illustration.png" width="350">
 
-
+---
 [2019 - **[EfficientNet]**: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) ⭕
 
 <img src="https://miro.medium.com/max/4044/1*xQCVt1tFWe7XNWVEmC6hGQ.png" width="350">
 
+---
 [2020 - Roto-Translation Equivariant Convolutional Networks: Application to Histopathology Image Analysis](https://arxiv.org/abs/2002.08725)
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_408932/images/x1.png" width="350">
 
-
+---
 [2020 - Neural Operator: Graph Kernel Network for Partial Differential Equations](https://arxiv.org/abs/2003.03485)
 
 <img src="https://i.pinimg.com/564x/ca/d3/4a/cad34a3e6ef844515239d0ba80d40f8a.jpg" width="350">
 
+---
 [2021 - Learning Neural Network Subspaces](https://arxiv.org/abs/2102.10472)
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b95defb7-3c23-4997-9e83-98205cdc7b38/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210301%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210301T145215Z&X-Amz-Expires=86400&X-Amz-Signature=7c3ecb403e56f47292957a7f029fc7e538f68c8d24f3a8f50fb18f2256ac6ee5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="250">
@@ -203,28 +212,30 @@ The depth of representations is of central importance for many visual recognitio
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 
+---
 [2014 - **[SPP-Net]** Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/abs/1406.4729)
 
 <img src="http://kaiminghe.com/eccv14sppnet/img/sppnet.jpg" width="350">
 
-
+---
 [2016 - **[ParseNet]**: Looking Wider to See Better](https://arxiv.org/abs/1506.04579)
 
 <img src="https://miro.medium.com/max/700/1*dRhGetHArI_bs6IdiIFhkA.png" width="350">
 
-
+---
 [2016 - **[PSPNet]**: Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105v2) [[github]](https://github.com/hszhao/PSPNet) ✅
 
 <img src="https://hszhao.github.io/projects/pspnet/figures/pspnet.png" width="400">
 
-
+---
 [2016 - **[DeepLab]**: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf) ✅
 
-
+---
 [2015 - Zoom Better to See Clearer: Human and Object Parsing with Hierarchical Auto-Zoom Net](https://arxiv.org/abs/1511.06881)
 
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-46454-1_39/MediaObjects/419978_1_En_39_Fig1_HTML.gif" width="350">
 
+---
 [2016 - Attention to Scale: Scale-aware Semantic Image Segmentation](https://arxiv.org/abs/1511.03339)
 
 <img src="http://liangchiehchen.com/fig/attention.jpg" width="350">
@@ -232,40 +243,48 @@ The depth of representations is of central importance for many visual recognitio
 [2017 - Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
 
 
+---
 [2017 - Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144)
 
 <img src="https://1.bp.blogspot.com/-Q0-o_ej8BDU/WTYnS568nPI/AAAAAAAAADQ/TTBczrPIQi8IvXZrjy3suRDBlo_p1pONQCLcB/s640/r1.png" width="400">
 
-
+---
 [2018 - **[DeepLabv3]**: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611)
 
 <img src="https://2.bp.blogspot.com/-gxnbZ9w2Dro/WqMOQTJ_zzI/AAAAAAAACeA/dyLgkY5TnFEf2j6jyXDXIDWj_wrbHhteQCLcBGAs/s640/image2.png" width="400">
 
 
+---
 [2019 - **[FastFCN]**: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://arxiv.org/abs/1903.11816v1) [[github]](https://github.com/wuhuikai/FastFCN) ✅
 
 <img src="http://wuhuikai.me/FastFCNProject/images/Framework.png" width="350">
 
+---
 [2019 - Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)
 
 <img src="https://i.pinimg.com/564x/72/a2/5c/72a25c7d87e1c4dfef45bec81adee2e7.jpg" width="250">
 
+---
 [2019 - **[LEDNet]**: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/abs/1905.02423v1)
 
 <img src="http://www.programmersought.com/images/387/eb5e83159442106d19fbd79698e299eb.png" width="300">
 
+---
 [2019 - Feature Pyramid Encoding Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1909.08599v1)
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_290654%2Fproject_390693%2Fimages%2FFPENet.png" width="350">
 
+---
 [2019 - Efficient Segmentation: Learning Downsampling Near Semantic Boundaries](https://arxiv.org/abs/1907.07156)
 
 <img src="https://images.deepai.org/converted-papers/1907.07156/x5.png" width="250">
 
+---
 [2019 - PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193)
 
 <img src="https://media.arxiv-vanity.com/render-output/1976701/x3.png" width="300">
 
+---
 [2019 - Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423) ✅
 
 <img src="https://raw.githubusercontent.com/facebookresearch/FixRes/master/image/image2.png" width="350">
@@ -289,14 +308,17 @@ The depth of representations is of central importance for many visual recognitio
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 
+---
 [2016 - Image Captioning with Semantic Attention](https://arxiv.org/abs/1603.03925)
 
 <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/P/PDFangeltop1/20160406/20160406161035.png" width="350">
 
+---
 [2018 - **[EncNet]** Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904v1) [[github]](https://github.com/zhanghang1989/PyTorch-Encoding) ⭕
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZS4gdvv26N8N7dpr92pPoHmVP3RQ8ztddravjJlwHr1Sw5fCT" width="400">
 
+---
 [2018 - Tell Me Where to Look: Guided Attention Inference Network](https://arxiv.org/abs/1802.10171)
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_55108%2Fproject_88090%2Fimages%2Fx1.png" width="350">
@@ -321,20 +343,22 @@ The depth of representations is of central importance for many visual recognitio
 
 [2013 - Complexity of Representation and Inference in Compositional Models with Part Sharing](https://arxiv.org/abs/1301.3560)
 
-
+---
 [2017 - Interpretable Convolutional Neural Networks](https://arxiv.org/abs/1710.00935) ⭕
 
 <img src="https://miro.medium.com/max/2712/0*DGs0o1DFHCaCMZvY" width="350">
 
+---
 [2019 - Local Relation Networks for Image Recognition ](https://arxiv.org/pdf/1904.11491.pdf)
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_10859%2Fproject_356834%2Fimages%2Fx1.png" width="350">
 
+---
 [2017 - Teaching Compositionality to CNNs](https://www.semanticscholar.org/paper/Teaching-Compositionality-to-CNNs-Stone-Wang/3726b82007512a15a530fd1adad57af58a9abb62) ⭕
 
 <img src="https://www.vicarious.com/wp-content/uploads/2017/10/compositionality3.png" width="350">
 
-
+---
 [2020 - Concept Bottleneck Models](https://arxiv.org/abs/2007.04612) ⭕
 
 <img src="https://images.deepai.org/converted-papers/2007.04612/figures/teaser.png" width="300">
@@ -353,7 +377,7 @@ The depth of representations is of central importance for many visual recognitio
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 
-
+---
 [2017 - Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829) ⭕
 
 <img src="https://cdn-images-1.medium.com/fit/t/1600/480/0*9fvb_xaSSqW7XVb_.png" width="350">
@@ -393,19 +417,22 @@ The depth of representations is of central importance for many visual recognitio
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
 
+---
 [2020 - **[NeRF]**: Representing Scenes as Neural Radiance Fields for View Synthesis ](https://arxiv.org/abs/2003.08934) ⭕
 
 <img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5e700ef6067b43821ed52768_pipeline_website-01-p-800.png" width="350">
 
 <sub>We present a method that achieves state-of-the-art results for synthesizing novel views of complex scenes by optimizing an underlying <b>continuous volumetric scene function </b> using a sparse set of input views. Our algorithm represents a scene using a fully-connected (non-convolutional) deep network, whose input is a single continuous 5D coordinate (spatial location (x,y,z) and viewing direction (θ,ϕ)) and whose output is the volume density and view-dependent emitted radiance at that spatial location. We synthesize views by querying 5D coordinates along camera rays and use classic volume rendering techniques to project the output colors and densities into an image. Because volume rendering is naturally differentiable, the only input required to optimize our representation is a set of images with known camera poses. We describe how to effectively optimize neural radiance fields to render photorealistic novel views of scenes with complicated geometry and appearance, and demonstrate results that outperform prior work on neural rendering and view synthesis. View synthesis results are best viewed as videos, so we urge readers to view our supplementary video for convincing comparisons.</sub>
 
-
+---
 [2020 - [BLOG] NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
 
+---
 [2020 - **[SURVEY]** State of the Art on Neural Rendering](https://arxiv.org/abs/2004.03805) 📜
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8e90a05-3207-43cc-9a16-00be7bdae536/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210205T142824Z&X-Amz-Expires=86400&X-Amz-Signature=432f6096a6b940cadaade65b71dd7d85628e4567565489a3ced22b0fd6160f52&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
+---
 [2020 - AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714?s=09)
 
 <img src="https://i.pinimg.com/564x/cb/00/d8/cb00d86700bc4e926170f5b80d5503a2.jpg" width="250">
@@ -414,13 +441,14 @@ The depth of representations is of central importance for many visual recognitio
 
 <sub>Numerical integration is a foundational technique in scientific computing and is at the core of many computer vision applications. Among these applications, implicit neural volume rendering has recently been proposed as a new paradigm for view synthesis, achieving photorealistic image quality. However, a fundamental obstacle to making these methods practical is the extreme computational and memory requirements caused by the required volume integrations along the rendered rays during training and inference. Millions of rays, each requiring hundreds of forward passes through a neural network are needed to approximate those integrations with Monte Carlo sampling. Here, <b>we propose automatic integration</b>, a new framework for learning efficient, closed-form solutions to integrals using implicit neural representation networks. For training, we instantiate the computational graph corresponding to the derivative of the implicit neural representation. The graph is fitted to the signal to integrate. After optimization, we reassemble the graph to obtain a network that represents the <b>antiderivative</b>. By the fundamental theorem of calculus, this enables the calculation of any definite integral in two evaluations of the network. Using this approach, we demonstrate a greater than 10x improvement in computation requirements, enabling fast neural volume rendering.</sub>
 
-
+---
 [2020 - A Curvature and Density‐based Generative Representation of Shapes](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14094)
 
 <img src="https://i.pinimg.com/564x/b7/8d/35/b78d351ffc32e224cac2f243b70275e2.jpg" width="350">
 
 <sub> This paper introduces a <b>generative model</b> for 3D surfaces based on a representation of shapes with <b>mean curvature and metric</b>, which are i<b>nvariant under rigid transformation</b>. Hence, compared with existing 3D machine learning frameworks, our model substantially reduces the influence of translation and rotation. In addition, the local structure of shapes will be more precisely captured, since the curvature is explicitly encoded in our model. Specifically, every surface is first conformally <b>mapped to a canonical domain</b>, such as a <b>unit disk</b> or a <b>unit sphere</b>. Then, it is represented by two functions: the mean curvature half‐density and the vertex density, over this canonical domain. Assuming that input shapes follow a certain distribution in a latent space, we use the variational autoencoder to learn the latent space representation. After the learning, we can generate variations of shapes by randomly sampling the distribution in the latent space. Surfaces with triangular meshes can be reconstructed from the generated data by applying isotropic remeshing and spin transformation, which is given by Dirac equation. We demonstrate the effectiveness of our model on datasets of man‐made and biological shapes and compare the results with other methods. </sub>
 
+---
 [2021 - Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks](https://paschalidoud.github.io/neural_parts)
 
 <img src="https://paschalidoud.github.io/projects/neural_parts/architecture.png" width="450">
@@ -460,6 +488,7 @@ https://arxiv.org/abs/1511.07122
 
 <img src="https://user-images.githubusercontent.com/22321977/48708394-7121c980-ec3d-11e8-98ab-2c116df0aaae.png" width="300">
 
+---
 [2017 - The Marginal Value of Adaptive Gradient Methods in Machine Learning](https://papers.nips.cc/paper/7003-the-marginal-value-of-adaptive-gradient-methods-in-machine-learning)
 
 > (i) Adaptive methods find solutions that generalize worse than those found by non-adaptive methods.
