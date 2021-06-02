@@ -1545,6 +1545,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://deepimagej.github.io/deepimagej/images/deepimagej_logo.png" width="250">
 
+[**[ImJoy]**: Deep Learning Made Easy!](https://imjoy.io/#/)
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-019-0627-0/MediaObjects/41592_2019_627_Fig1_HTML.png?as=webp" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
