@@ -1541,6 +1541,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/46c72460-b0ee-4c51-a977-5a50e5a72da1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210414%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210414T132357Z&X-Amz-Expires=86400&X-Amz-Signature=356657e2b7f26abec8ac64db30c5c334440f633e023c4b7f0da460a194af7267&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
+[**[DeepImageJ]**: A user-friendly environment to run deep learning models in ImageJ](https://deepimagej.github.io/deepimagej/)
+
+<img src="https://deepimagej.github.io/deepimagej/images/deepimagej_logo.png" width="250">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
