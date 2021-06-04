@@ -1554,6 +1554,9 @@ https://arxiv.org/abs/1611.07715
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/20038493-d74b-4b03-a20c-5fe282008d9e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210602T153327Z&X-Amz-Expires=86400&X-Amz-Signature=68142cfc1e6430864cad11ce43807d2c29bd026bd678a10f6c1f6faa46c51976&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 
+[**[DeepImageTranslator]**: a free, user-friendly graphical interface for image translation using deep-learning and its applications in 3D CT image analysis](https://prelights.biologists.com/highlights/deepimagetranslator-a-free-user-friendly-graphical-interface-for-image-translation-using-deep-learning-and-its-applications-in-3d-ct-image-analysis/)
+
+<img src="https://prelights.biologists.com/wp-content/uploads/2021/06/1.jpg" width="350">
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
