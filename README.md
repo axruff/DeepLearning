@@ -1557,6 +1557,7 @@ https://arxiv.org/abs/1611.07715
 [**[DeepImageTranslator]**: a free, user-friendly graphical interface for image translation using deep-learning and its applications in 3D CT image analysis](https://prelights.biologists.com/highlights/deepimagetranslator-a-free-user-friendly-graphical-interface-for-image-translation-using-deep-learning-and-its-applications-in-3d-ct-image-analysis/)
 
 <img src="https://prelights.biologists.com/wp-content/uploads/2021/06/1.jpg" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
