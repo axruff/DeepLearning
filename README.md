@@ -1627,6 +1627,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://i.pinimg.com/564x/27/4a/a8/274aa81d34dee0039192b50020c54879.jpg" width="250">
 
+[2020 - The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/abs/2002.06177) ⭕
+
+<sub>Recent research in artificial intelligence and machine learning has largely emphasized general-purpose learning and ever-larger training sets and more and more compute. In contrast, I propose a hybrid, knowledge-driven, reasoning-based approach, centered around cognitive models, that could provide the substrate for a richer, more robust AI than is currently possible.</sub>
+
 
 [2021 - Why AI is Harder Than We Think by Melanie Mitchell](https://arxiv.org/abs/2104.12871)
 
