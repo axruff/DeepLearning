@@ -1186,6 +1186,10 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 
 <img src="https://github.com/carla-simulator/carla/raw/master/Docs/img/video_thumbnail_0910.jpg" width="350">
 
+[A Browsable Petascale Reconstruction of the Human Cortex](https://ai.googleblog.com/2021/06/a-browsable-petascale-reconstruction-of.html)
+
+<img src="https://1.bp.blogspot.com/-LHNSzpDQsNg/YLZeqOiXedI/AAAAAAAAHps/96StiGoAdbIAghujEEnd9zTkimdigv9UACLcBGAsYHQ/w640-h230/image5.png" width="350">
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
@@ -1421,6 +1425,10 @@ https://arxiv.org/abs/1611.07715
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/11fddaa4-0922-43ee-a272-709da14d208c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210413%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210413T154544Z&X-Amz-Expires=86400&X-Amz-Signature=d97d21d4beeb8ab9de17621c23c40aa6bf8bf6f631f46ed9144f027c6d726468&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 <sub>Many microscopy applications are limited by the total amount of usable light and are consequently challenged by the resulting levels of noise in the acquired images. This problem is often addressed via (supervised) deep learning based denoising. Recently, by making assumptions about the noise statistics, self-supervised methods have emerged. Such methods are trained directly on the images that are to be denoised and do not require additional paired training data. While achieving remarkable results, self-supervised methods can produce high-frequency artifacts and achieve inferior results compared to supervised approaches. Here we present a novel way to improve the quality of self-supervised denoising. Considering that light microscopy images are usually diffraction-limited, we propose to include this knowledge in the denoising process. We assume the clean image to be the result of a <b>convolution with a point spread function PSF) </b> and explicitly include this operation at the end of our neural network. As a consequence, we are able to eliminate high-frequency artifacts and achieve self-supervised results that are very close to the ones achieved with traditional supervised methods.</sub>
+
+[2021 - Denoising-based Image Compression for Connectomics](https://www.biorxiv.org/content/10.1101/2021.05.29.445828v1)
+
+<img src="https://i.pinimg.com/564x/4d/89/e1/4d89e10932718666a878e01a34f5086c.jpg" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
