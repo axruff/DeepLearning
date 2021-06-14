@@ -10,6 +10,7 @@
     - [Capsule Networks](#capsule-networks)
     - [Transformers](#transformers)
     - [3D Shape and Neural Rendering](#3d-shape)
+    - [Logic and Semantics](#logic-and-semantics)
   - [💪 Optimization](#optimization)
     - [Optimization and Regularisation](#optimization-and-regularisation)
     - [Pruning, Compression](#pruning-and-compression)
@@ -185,9 +186,10 @@ The depth of representations is of central importance for many visual recognitio
 ---
 [2019 - Hamiltonian Neural Networks](https://arxiv.org/abs/1906.01563)
 
-<img src="https://greydanus.github.io/assets/hamiltonian-nns/overall-idea.png" width="350">^
-
 <sub>Even though neural networks enjoy widespread use, they still struggle to learn the basic laws of physics. How might we endow them with better inductive biases? In this paper, we draw inspiration from Hamiltonian mechanics to train models that learn and respect exact conservation laws in an unsupervised manner. We evaluate our models on problems where conservation of energy is important, including the two-body problem and pixel observations of a pendulum. Our model trains faster and generalizes better than a regular neural network. An interesting side effect is that our model is perfectly reversible in time.</sub>
+
+
+<img src="https://greydanus.github.io/assets/hamiltonian-nns/overall-idea.png" width="350">^
 
 ---
 [2020 - Roto-Translation Equivariant Convolutional Networks: Application to Histopathology Image Analysis](https://arxiv.org/abs/2002.08725)
@@ -459,6 +461,14 @@ The depth of representations is of central importance for many visual recognitio
 [2021 - Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks](https://paschalidoud.github.io/neural_parts)
 
 <img src="https://paschalidoud.github.io/projects/neural_parts/architecture.png" width="450">
+
+### Logic and Semantics
+
+[2019 - Neural Logic Machines](https://arxiv.org/abs/1904.11694)
+
+<sub>We propose the Neural Logic Machine (NLM), a neural-symbolic architecture for both inductive learning and logic reasoning. NLMs exploit the power of both neural networks---as function approximators, and logic programming---as a symbolic processor for objects with properties, relations, logic connectives, and quantifiers. After being trained on small-scale tasks (such as sorting short arrays), NLMs can recover lifted rules, and generalize to large-scale tasks (such as sorting longer arrays). In our experiments, NLMs achieve perfect generalization in a number of tasks, from relational reasoning tasks on the family tree and general graphs, to decision making tasks including sorting arrays, finding shortest paths, and playing the blocks world. Most of these tasks are hard to accomplish for neural networks or inductive logic programming alone.</sub>
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f780c5e1-9adc-4ea5-b856-87091ec636ce/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210614%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210614T092347Z&X-Amz-Expires=86400&X-Amz-Signature=4376dfc3297b1f9995bd7b265aad5ef9b1d0667f2757ef26d3627a27f48632a4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
