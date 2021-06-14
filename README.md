@@ -183,6 +183,13 @@ The depth of representations is of central importance for many visual recognitio
 <img src="https://miro.medium.com/max/4044/1*xQCVt1tFWe7XNWVEmC6hGQ.png" width="350">
 
 ---
+[2019 - Hamiltonian Neural Networks](https://arxiv.org/abs/1906.01563)
+
+<img src="https://greydanus.github.io/assets/hamiltonian-nns/overall-idea.png" width="350">^
+
+<sub>Even though neural networks enjoy widespread use, they still struggle to learn the basic laws of physics. How might we endow them with better inductive biases? In this paper, we draw inspiration from Hamiltonian mechanics to train models that learn and respect exact conservation laws in an unsupervised manner. We evaluate our models on problems where conservation of energy is important, including the two-body problem and pixel observations of a pendulum. Our model trains faster and generalizes better than a regular neural network. An interesting side effect is that our model is perfectly reversible in time.</sub>
+
+---
 [2020 - Roto-Translation Equivariant Convolutional Networks: Application to Histopathology Image Analysis](https://arxiv.org/abs/2002.08725)
 
 <img src="https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_408932/images/x1.png" width="350">
