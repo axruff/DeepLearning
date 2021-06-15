@@ -1337,6 +1337,10 @@ https://www.nature.com/articles/s41598-018-19426-7
 
 <sub>Generative adversarial networks (GANs) can be trained to generate 3D image data, which is useful for design optimisation. However, this conventionally requires 3D training data, which is challenging to obtain. 2D imaging techniques tend to be faster, higher resolution, better at phase identification and more widely available. Here, we introduce a generative adversarial network architecture, SliceGAN, which is able to synthesise high fidelity 3D datasets using a single representative 2D image. This is especially relevant for the task of material microstructure generation, as a cross-sectional micrograph can contain sufficient information to statistically reconstruct 3D samples. Our architecture implements the concept of uniform information density, which both ensures that generated volumes are equally high quality at all points in space, and that arbitrarily large volumes can be generated. SliceGAN has been successfully trained on a diverse set of materials, demonstrating the widespread applicability of this tool. The quality of generated micrographs is shown through a statistical comparison of synthetic and real datasets of a battery electrode in terms of key microstructural metrics. Finally, we find that the generation time for a 108 voxel volume is on the order of a few seconds, yielding a path for future studies into high-throughput microstructural optimisation.</sub>
 
+[2021 - DeepPhase: Learning phase contrast signal from dual energy X-ray absorption images](https://www.sciencedirect.com/science/article/abs/pii/S014193822100038X)
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf8ed1ac-b040-4a10-90c4-cbf8f8476349/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210615%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210615T121411Z&X-Amz-Expires=86400&X-Amz-Signature=7c512d52341e6e3d25e52bf6c5a1e360eedc08f8f54a0e5f64878eebbcecfeff&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
 
 # Applications: Image Registration
 
