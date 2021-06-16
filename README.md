@@ -17,6 +17,7 @@
   - [📊 Analysis and Interpretability](#analysis-and-interpretability) 
 - [📜 Tasks](#tasks)
   - [Segmentation](#segmentation)
+  - [Instance Segmentation](#instance-segmentation)
   - [Semantic Correspondence](#semantic-correspondence)
   - [Anomaly Detection](#anomaly-detection)
   - [Optical Flow](#optical-flow)
@@ -834,6 +835,20 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 [2019 - YOLACT Real-time Instance Segmentation](https://arxiv.org/abs/1904.02689)[[github]](https://github.com/dbolya/yolact)
 
 <img src="https://i.pinimg.com/564x/52/0c/3e/520c3ee5e0695482c12a73e096dd4b9f.jpg" width="350">
+
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+## Instance Segmentation
+<!--- ------------------------------------------------------------------------------- -->
+<!--- =============================================================================== -->
+<!--- ------------------------------------------------------------------------------- -->
+
+[2019 - Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth](https://arxiv.org/abs/1906.11109)[[github](https://github.com/axruff/SpatialEmbeddings)]
+
+<sub>Current state-of-the-art instance segmentation methods are not suited for real-time applications like autonomous driving, which require fast execution times at high accuracy. Although the currently dominant proposal-based methods have high accuracy, they are slow and generate masks at a fixed and low resolution. Proposal-free methods, by contrast, can generate masks at high resolution and are often faster, but fail to reach the same accuracy as the <b>proposal-based methods</b>. In this work we propose a new clustering loss function for proposal-free instance segmentation. The loss function pulls the spatial embeddings of pixels belonging to the same instance together and jointly learns an <b>instance-specific clustering bandwidth</b>, maximizing the intersection-over-union of the resulting instance mask. When combined with a fast architecture, the network can perform instance segmentation in real-time while maintaining a high accuracy. We evaluate our method on the challenging Cityscapes benchmark and achieve top results (5\% improvement over Mask R-CNN) at more than 10 fps on 2MP images.</sub>
+
+<img src="https://github.com/axruff/SpatialEmbeddings/raw/master/static/teaser.jpg" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
