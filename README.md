@@ -844,7 +844,14 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
-[2019 - Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth](https://arxiv.org/abs/1906.11109)[[github](https://github.com/axruff/SpatialEmbeddings)]
+[2017 - Mask R-CNN](https://arxiv.org/abs/1703.06870v3) ⭕
+
+<sub>We present a conceptually simple, flexible, and general framework for object instance segmentation. Our approach efficiently detects objects in an image while simultaneously generating a high-quality segmentation mask for each instance. The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition. Mask R-CNN is simple to train and adds only a small overhead to Faster R-CNN, running at 5 fps. Moreover, Mask R-CNN is easy to generalize to other tasks, e.g., allowing us to estimate human poses in the same framework. We show top results in all three tracks of the COCO suite of challenges, including instance segmentation, bounding-box object detection, and person keypoint detection. Without bells and whistles, Mask R-CNN outperforms all existing, single-model entries on every task, including the COCO 2016 challenge winners. We hope our simple and effective approach will serve as a solid baseline and help ease future research in instance-level recognition</sub>
+
+
+<img src="https://paperswithcode.com/media/methods/Screen_Shot_2020-05-23_at_7.44.34_PM.png" width="350">
+
+[2019 - Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth](https://arxiv.org/abs/1906.11109)[[github](https://github.com/axruff/SpatialEmbeddings)] ⭕
 
 <sub>Current state-of-the-art instance segmentation methods are not suited for real-time applications like autonomous driving, which require fast execution times at high accuracy. Although the currently dominant proposal-based methods have high accuracy, they are slow and generate masks at a fixed and low resolution. Proposal-free methods, by contrast, can generate masks at high resolution and are often faster, but fail to reach the same accuracy as the <b>proposal-based methods</b>. In this work we propose a new clustering loss function for proposal-free instance segmentation. The loss function pulls the spatial embeddings of pixels belonging to the same instance together and jointly learns an <b>instance-specific clustering bandwidth</b>, maximizing the intersection-over-union of the resulting instance mask. When combined with a fast architecture, the network can perform instance segmentation in real-time while maintaining a high accuracy. We evaluate our method on the challenging Cityscapes benchmark and achieve top results (5\% improvement over Mask R-CNN) at more than 10 fps on 2MP images.</sub>
 
