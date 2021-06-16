@@ -1210,7 +1210,8 @@ https://www.cs.cornell.edu/~paulu/opensurfaces.pdf
 [2021 - Medical Segmentation Decathlon. Generalisable 3D Semantic Segmentation](http://medicaldecathlon.com/)
 
 <sub><b>Aim</b>: With recent advances in machine learning, semantic segmentation algorithms are becoming increasingly general purpose and translatable to unseen tasks. Many key algorithmic advances in the field of medical imaging are commonly validated on a small number of tasks, limiting our understanding of the generalisability of the proposed contributions. A model which works out-of-the-box on many tasks, in the spirit of AutoML, would have a tremendous impact on healthcare. The field of medical imaging is also missing a fully open source and comprehensive benchmark for general purpose algorithmic validation and testing covering a large span of challenges, such as: small data, unbalanced labels, large-ranging object scales, multi-class labels, and multimodal imaging, etc. This challenge and dataset aims to provide such resource thorugh the open sourcing of large medical imaging datasets on several highly different tasks, and by standardising the analysis and validation process. </sub>
-<img src="" width="350">
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c89d69df-4623-4ecb-b1f4-888e3b1804e6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210616%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210616T075443Z&X-Amz-Expires=86400&X-Amz-Signature=897436e5571d81be27aef8d4b870a660fce5593144109e5409eaba2973d23a1d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
