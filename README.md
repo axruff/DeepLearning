@@ -18,6 +18,7 @@
 - [📜 Tasks](#tasks)
   - [Segmentation](#segmentation)
   - [Instance Segmentation](#instance-segmentation)
+  - [Interactive Segmentation](#interactive-segmentation)
   - [Semantic Correspondence](#semantic-correspondence)
   - [Anomaly Detection](#anomaly-detection)
   - [Optical Flow](#optical-flow)
