@@ -1087,6 +1087,11 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
+[2016 - Colorful Image Colorization](https://arxiv.org/abs/1603.08511)
+
+<img src="https://richzhang.github.io/colorization/resources/images/net_diagram.jpg" width="350">
+
+
 [2019 - Greedy InfoMax for Biologically Plausible Self-Supervised Representation Learning](https://arxiv.org/abs/1905.11786)
 
 [2019 - Unsupervised Learning via Meta-Learning](https://arxiv.org/abs/1810.02334)
