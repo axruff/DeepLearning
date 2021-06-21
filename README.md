@@ -1107,7 +1107,7 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 [2019 - Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 
 ---
-[2019 - **MoCo**: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+[2019 - **[MoCo]**: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 
 <sub>We present Momentum Contrast (MoCo) for unsupervised <b>visual representation learning</b>. From a perspective on contrastive learning as dictionary look-up, we build a <b>dynamic dictionary with a queue</b> and a moving-averaged encoder. This enables building a large and consistent dictionary on-the-fly that facilitates contrastive unsupervised learning. MoCo provides competitive results under the common linear protocol on ImageNet classification. More importantly, the representations learned by MoCo transfer well to downstream tasks. MoCo can outperform its supervised pre-training counterpart in 7 detection/segmentation tasks on PASCAL VOC, COCO, and other datasets, sometimes surpassing it by large margins. This suggests that <b>the gap between unsupervised and supervised</b> representation learning has been largely closed in many vision tasks.</sub>
 
@@ -1115,7 +1115,9 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 [2019 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)
 
-[2020 - A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) ⭕
+[2020 - **[SimCLR]**: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) ✅
+
+<sub>This paper presents SimCLR: a simple framework for contrastive learning of visual representations. We simplify recently proposed contrastive self-supervised learning algorithms without requiring specialized architectures or a memory bank. In order to understand what enables the contrastive prediction tasks to learn useful representations, we systematically study the major components of our framework. We show that (1) composition of data augmentations plays a critical role in defining effective predictive tasks, (2) introducing a learnable nonlinear transformation between the representation and the contrastive loss substantially improves the quality of the learned representations, and (3) contrastive learning benefits from larger batch sizes and more training steps compared to supervised learning. By combining these findings, we are able to considerably outperform previous methods for self-supervised and semi-supervised learning on ImageNet. A linear classifier trained on self-supervised representations learned by SimCLR achieves 76.5% top-1 accuracy, which is a 7% relative improvement over previous state-of-the-art, matching the performance of a supervised ResNet-50. When fine-tuned on only 1% of the labels, we achieve 85.8% top-5 accuracy, outperforming AlexNet with 100X fewer labels.</sub>
 
 <img src="https://miro.medium.com/max/8300/1*1uaA1tE5PDnVpSljxSTEoQ.png" width="250">
 
