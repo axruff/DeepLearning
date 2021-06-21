@@ -1110,6 +1110,7 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 [2016 - Context Encoders: Feature Learning by Inpainting](https://www.semanticscholar.org/paper/Context-Encoders%3A-Feature-Learning-by-Inpainting-Pathak-Kr%C3%A4henb%C3%BChl/7d0effebfa4bed19b6ba41f3af5b7e5b6890de87)
 
 <img src="https://d3i71xaburhd42.cloudfront.net/7d0effebfa4bed19b6ba41f3af5b7e5b6890de87/3-Figure2-1.png" width="350">
+
 ---
 [2018 - Unsupervised Representation Learning by Predicting Image Rotations](https://www.semanticscholar.org/paper/Unsupervised-Representation-Learning-by-Predicting-Gidaris-Singh/aab368284210c1bb917ec2d31b84588e3d2d7eb4)
 
