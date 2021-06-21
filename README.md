@@ -1106,6 +1106,11 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/976fef1e-c4fe-459c-86b2-3538814e5924/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210621%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210621T091009Z&X-Amz-Expires=86400&X-Amz-Signature=50221238f395513f2052afda5609e807ca293474018ec8e87d75bece815791ac&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="400">
 
+---
+[2016 - Context Encoders: Feature Learning by Inpainting](https://www.semanticscholar.org/paper/Context-Encoders%3A-Feature-Learning-by-Inpainting-Pathak-Kr%C3%A4henb%C3%BChl/7d0effebfa4bed19b6ba41f3af5b7e5b6890de87)
+
+<img src="https://d3i71xaburhd42.cloudfront.net/7d0effebfa4bed19b6ba41f3af5b7e5b6890de87/3-Figure2-1.png" width="350">
+---
 [2018 - Unsupervised Representation Learning by Predicting Image Rotations](https://www.semanticscholar.org/paper/Unsupervised-Representation-Learning-by-Predicting-Gidaris-Singh/aab368284210c1bb917ec2d31b84588e3d2d7eb4)
 
 <img src="https://media.arxiv-vanity.com/render-output/4649620/x1.png" width="350">
