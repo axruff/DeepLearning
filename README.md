@@ -1088,6 +1088,13 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 <!--- ------------------------------------------------------------------------------- -->
 
 ---
+[2015 - Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192)
+
+<sub>This work explores the use of spatial context as a source of free and plentiful supervisory signal for training a rich visual representation. Given only a large, unlabeled image collection, we extract random pairs of patches from each image and train a convolutional neural net to predict the position of the second patch relative to the first. We argue that doing well on this task requires the model to learn to recognize objects and their parts. We demonstrate that the feature representation learned using this within-image context indeed captures visual similarity across images. For example, this representation allows us to perform unsupervised visual discovery of objects like cats, people, and even birds from the Pascal VOC 2011 detection dataset. Furthermore, we show that the learned ConvNet can be used in the R-CNN framework and provides a significant boost over a randomly-initialized ConvNet, resulting in state-of-the-art performance among algorithms which use only Pascal-provided training set annotations.</sub>
+
+<img src="https://davidstutz.de/wordpress/wp-content/uploads/2017/03/doersch.jpg" width="350">
+
+---
 [2016 - Colorful Image Colorization](https://arxiv.org/abs/1603.08511)
 
 <img src="https://richzhang.github.io/colorization/resources/images/net_diagram.jpg" width="350">
@@ -1099,6 +1106,9 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/976fef1e-c4fe-459c-86b2-3538814e5924/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210621%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210621T091009Z&X-Amz-Expires=86400&X-Amz-Signature=50221238f395513f2052afda5609e807ca293474018ec8e87d75bece815791ac&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="400">
 
+[2018 - Unsupervised Representation Learning by Predicting Image Rotations](https://www.semanticscholar.org/paper/Unsupervised-Representation-Learning-by-Predicting-Gidaris-Singh/aab368284210c1bb917ec2d31b84588e3d2d7eb4)
+
+<img src="https://media.arxiv-vanity.com/render-output/4649620/x1.png" width="350">
 
 [2019 - Greedy InfoMax for Biologically Plausible Self-Supervised Representation Learning](https://arxiv.org/abs/1905.11786)
 
@@ -1127,7 +1137,7 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 [2020 - **[NeurIPS 2020 Workshop]**: Self-Supervised Learning - Theory and Practice](https://sslneuips20.github.io/pages/Accepted%20Paper.html) ⭕
 
 ---
-[2020 - Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://www.semanticscholar.org/paper/Bootstrap-Your-Own-Latent%3A-A-New-Approach-to-Grill-Strub/38f93092ece8eee9771e61c1edaf11b1293cae1b)
+[2020 - **[BYOL]**: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://www.semanticscholar.org/paper/Bootstrap-Your-Own-Latent%3A-A-New-Approach-to-Grill-Strub/38f93092ece8eee9771e61c1edaf11b1293cae1b)
 
 <sub>We introduce Bootstrap Your Own Latent (BYOL), a new approach to self-supervised image representation learning. BYOL relies on two neural networks, referred to as online and target networks, that interact and learn from each other. From an augmented view of an image, we train the online network to predict the target network representation of the same image under a different augmented view. At the same time, we update the target network with a slow-moving average of the online network. While state-of-the art methods rely on negative pairs, BYOL achieves a new state of the art without them. </sub>
 
@@ -1152,6 +1162,11 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 [2017 - An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098)
 
 <sub>Multi-task learning (MTL) has led to successes in many applications of machine learning, from natural language processing and speech recognition to computer vision and drug discovery. This article aims to give a general overview of MTL, particularly in deep neural networks. It introduces the two most common methods for MTL in Deep Learning, gives an overview of the literature, and discusses recent advances. In particular, it seeks to help ML practitioners apply MTL by shedding light on how MTL works and providing guidelines for choosing appropriate auxiliary tasks.</sub>
+
+[2017 - Multi-task Self-Supervised Visual Learning](https://arxiv.org/abs/1708.07860)
+
+<sub>We investigate methods for combining multiple self-supervised tasks--i.e., supervised tasks where data can be collected without manual labeling--in order to train a single visual representation. First, we provide an apples-to-apples comparison of four different self-supervised tasks using the very deep ResNet-101 architecture. We then combine tasks to jointly train a network. We also explore lasso regularization to encourage the network to factorize the information in its representation, and methods for "harmonizing" network inputs in order to learn a more unified representation. We evaluate all methods on ImageNet classification, PASCAL VOC detection, and NYU depth prediction. Our results show that deeper networks work better, and that combining tasks--even via a naive multi-head architecture--always improves performance. Our best joint network nearly matches the PASCAL performance of a model pre-trained on ImageNet classification, and matches the ImageNet network on NYU depth prediction.</sub>
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
