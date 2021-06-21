@@ -1087,10 +1087,12 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
 
+---
 [2016 - Colorful Image Colorization](https://arxiv.org/abs/1603.08511)
 
 <img src="https://richzhang.github.io/colorization/resources/images/net_diagram.jpg" width="350">
 
+---
 [2016 - Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/abs/1603.09246)
 
 <sub>In this paper we study the problem of image representation learning without human annotation. By following the principles of self-supervision, we build a convolutional neural network (CNN) that can be trained to solve <b>Jigsaw puzzles as a pretext task</b>, which requires no manual labeling, and then later repurposed to solve object classification and detection. To maintain the compatibility across tasks we introduce the <b>context-free network (CFN), a siamese-ennead CNN</b>. The CFN takes image tiles as input and explicitly limits the receptive field (or context) of its early processing units to one tile at a time. We show that the CFN includes fewer parameters than AlexNet while preserving the same semantic learning capabilities. By training the CFN to solve Jigsaw puzzles, we learn both a feature mapping of object parts as well as their correct spatial arrangement. Our experimental evaluations show that the learned features capture semantically relevant content. Our proposed method for learning visual representations outperforms state of the art methods in several transfer learning benchmarks.</sub>
@@ -1104,6 +1106,7 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 [2019 - Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 
+---
 [2019 - **MoCo**: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 
 <sub>We present Momentum Contrast (MoCo) for unsupervised <b>visual representation learning</b>. From a perspective on contrastive learning as dictionary look-up, we build a <b>dynamic dictionary with a queue</b> and a moving-averaged encoder. This enables building a large and consistent dictionary on-the-fly that facilitates contrastive unsupervised learning. MoCo provides competitive results under the common linear protocol on ImageNet classification. More importantly, the representations learned by MoCo transfer well to downstream tasks. MoCo can outperform its supervised pre-training counterpart in 7 detection/segmentation tasks on PASCAL VOC, COCO, and other datasets, sometimes surpassing it by large margins. This suggests that <b>the gap between unsupervised and supervised</b> representation learning has been largely closed in many vision tasks.</sub>
