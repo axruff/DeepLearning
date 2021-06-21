@@ -1091,6 +1091,12 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 <img src="https://richzhang.github.io/colorization/resources/images/net_diagram.jpg" width="350">
 
+[2016 - Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/abs/1603.09246)
+
+<sub>In this paper we study the problem of image representation learning without human annotation. By following the principles of self-supervision, we build a convolutional neural network (CNN) that can be trained to solve <b>Jigsaw puzzles as a pretext task</b>, which requires no manual labeling, and then later repurposed to solve object classification and detection. To maintain the compatibility across tasks we introduce the context-free network (CFN), a siamese-ennead CNN. The CFN takes image tiles as input and explicitly limits the receptive field (or context) of its early processing units to one tile at a time. We show that the CFN includes fewer parameters than AlexNet while preserving the same semantic learning capabilities. By training the CFN to solve Jigsaw puzzles, we learn both a feature mapping of object parts as well as their correct spatial arrangement. Our experimental evaluations show that the learned features capture semantically relevant content. Our proposed method for learning visual representations outperforms state of the art methods in several transfer learning benchmarks.</sub>
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/976fef1e-c4fe-459c-86b2-3538814e5924/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210621%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210621T091009Z&X-Amz-Expires=86400&X-Amz-Signature=50221238f395513f2052afda5609e807ca293474018ec8e87d75bece815791ac&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
 
 [2019 - Greedy InfoMax for Biologically Plausible Self-Supervised Representation Learning](https://arxiv.org/abs/1905.11786)
 
