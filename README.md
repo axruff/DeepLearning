@@ -1691,6 +1691,23 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://prelights.biologists.com/wp-content/uploads/2021/06/1.jpg" width="350">
 
+[Analytics Zoo (Intel): Distributed TensorFlow, PyTorch, Keras and BigDL on Apache Spark & Ray](https://github.com/intel-analytics/analytics-zoo)
+
+<sub>Analytics Zoo is an open source Big Data AI platform, and includes the following features for scaling end-to-end AI to distributed Big Data:
+
+Orca: seamlessly scale out TensorFlow and PyTorch for Big Data (using Spark & Ray)
+
+RayOnSpark: run Ray programs directly on Big Data clusters
+
+BigDL Extensions: high-level Spark ML pipeline and Keras-like APIs for BigDL
+
+Chronos: scalable time series analysis using AutoML
+
+PPML: privacy preserving big data analysis and machine learning (experimental)</sub>
+
+<img src="https://github.com/intel-analytics/analytics-zoo/raw/master/docs/docs/Image/logo.jpg" width="200">
+
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
