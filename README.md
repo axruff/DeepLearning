@@ -1588,6 +1588,11 @@ https://arxiv.org/abs/1611.07715
 
 <img src="http://i.gzn.jp/img/2018/02/21/nvidia-fastphotostyle/00.jpg" width="350">
 
+---
+[2021 - COIN: COmpression with Implicit Neural representations](https://www.semanticscholar.org/paper/COIN%3A-COmpression-with-Implicit-Neural-Dupont-Goli'nski/1bf444b861acc3dad72d968c2c69bcb863885ff9)
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/75ecbfbc-6ecd-4db0-9885-81c0e333e4ae/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210622%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210622T112335Z&X-Amz-Expires=86400&X-Amz-Signature=1910e2a2c85e6eb0326fbc1938aed1a5748e787f273a76c5b3978b21ff92302a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 # Applications: Misc
 <!--- ------------------------------------------------------------------------------- -->
@@ -1691,6 +1696,7 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://prelights.biologists.com/wp-content/uploads/2021/06/1.jpg" width="350">
 
+---
 [Analytics Zoo (Intel): Distributed TensorFlow, PyTorch, Keras and BigDL on Apache Spark & Ray](https://github.com/intel-analytics/analytics-zoo)
 
 <sub>Analytics Zoo is an open source Big Data AI platform, and includes the following features for scaling end-to-end AI to distributed Big Data:<br>
