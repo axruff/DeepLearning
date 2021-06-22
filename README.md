@@ -768,8 +768,10 @@ connections have initial weights that make training particularly effective.
 <sub>Deep learning has triggered the current rise of artificial intelligence and is the workhorse of today's machine intelligence. Numerous success stories have rapidly spread all over science, industry and society, but its limitations have only recently come into focus. In this perspective we seek to distil how many of deep learning's problem can be seen as different symptoms of the same underlying problem: shortcut learning. Shortcuts are decision rules that perform well on standard benchmarks but fail to transfer to more challenging testing conditions, such as real-world scenarios. Related issues are known in Comparative Psychology, Education and Linguistics, suggesting that shortcut learning may be a common characteristic of learning systems, biological and artificial alike. Based on these observations, <b>we develop a set of recommendations for model interpretation and benchmarking</b>, highlighting recent advances in machine learning to improve robustness and transferability from the lab to real-world applications.</sub>
 
 
+--- 
+[2021 - VIDEO:  Interpretable Neural Networks for Computer Vision: Clinical Decisions that are Aided, not Automated](https://www.youtube.com/watch?v=x7U5qC6eMnE)
 
-
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39b2474e-5930-489d-a215-1aa51be40681/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210622%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210622T114331Z&X-Amz-Expires=86400&X-Amz-Signature=73f043a653249e6520a3d770efbbe4845f27dd2c7842e499ad409744b01fb606&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 
 
@@ -1708,7 +1710,10 @@ PPML: privacy preserving big data analysis and machine learning (experimental)</
 
 <img src="https://github.com/intel-analytics/analytics-zoo/raw/master/docs/docs/Image/logo.jpg" width="200">
 
+---
+[**[OpenMMLab]** - Open source projects for academic research and industrial applications](https://openmmlab.com/home)
 
+<img src="" width="350">
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
