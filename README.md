@@ -769,11 +769,15 @@ connections have initial weights that make training particularly effective.
 
 
 --- 
-[2021 - VIDEO:  Interpretable Neural Networks for Computer Vision: Clinical Decisions that are Aided, not Automated](https://www.youtube.com/watch?v=x7U5qC6eMnE)
+[2021 - VIDEO: CVPR 2021 Workshop.  Interpretable Neural Networks for Computer Vision: Clinical Decisions that are Aided, not Automated](https://www.youtube.com/watch?v=x7U5qC6eMnE)
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39b2474e-5930-489d-a215-1aa51be40681/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210622%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210622T114331Z&X-Amz-Expires=86400&X-Amz-Signature=73f043a653249e6520a3d770efbbe4845f27dd2c7842e499ad409744b01fb606&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 
+---
+[2021 - VIDEO. CVPR 2021 Workshop. Interpreting Deep Generative Models for Interactive AI Content Creation by Bolei Zhou (CUHK)](https://www.youtube.com/watch?v=PtRU2B6Iml4)
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/962a7de7-a418-4d8b-a1b5-e009034a6506/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210622%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210622T114826Z&X-Amz-Expires=86400&X-Amz-Signature=b38aa5bcb1a300935b2aa062d48404426716803cf630ba22c055130b1a95385c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
