@@ -1120,6 +1120,14 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 [2019 - Unsupervised Learning via Meta-Learning](https://arxiv.org/abs/1810.02334)
 
+---
+[2019 - **[PIRL]**: Self-Supervised Learning of Pretext-Invariant Representations](https://www.semanticscholar.org/paper/Self-Supervised-Learning-of-Pretext-Invariant-Misra-Maaten/0170bb0b524df2c81b5adc3062c6001a2eb34c96)
+<sub>Ishan Misra, L. V. D. Maaten</sub>
+
+<sub>The goal of self-supervised learning from images is to construct image representations that are semantically meaningful via pretext tasks that do not require semantic annotations. Many pretext tasks lead to representations that are covariant with image transformations. We argue that, instead, semantic representations ought to be invariant under such transformations. Specifically, we develop Pretext-Invariant Representation Learning (PIRL, pronounced as `pearl') that learns invariant representations based on pretext tasks. We use PIRL with a commonly used pretext task that involves solving jigsaw puzzles. We find that PIRL substantially improves the semantic quality of the learned image representations. Our approach sets a new state-of-the-art in self-supervised learning from images on several popular benchmarks for self-supervised learning. Despite being unsupervised, PIRL outperforms supervised pre-training in learning image representations for object detection. Altogether, our results demonstrate the potential of self-supervised representations with good invariance properties</sub>
+
+<img src="https://i.pinimg.com/564x/04/82/84/048284efc48f9a6252cd3891a0640be3.jpg" width="350">
+
 [2019 - Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 
 ---
