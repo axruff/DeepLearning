@@ -1165,6 +1165,13 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 <!--- ------------------------------------------------------------------------------- -->
 ## Multitask Learning
 <!--- ------------------------------------------------------------------------------- -->
+
+---
+[2016 - Cross-Stitch Networks for Multi-task Learning](https://www.semanticscholar.org/paper/Cross-Stitch-Networks-for-Multi-task-Learning-Misra-Shrivastava/f14325ec3041a73118bc4d819204cbbca07d5a71)
+<sub>Ishan Misra, Abhinav Shrivastava, A. Gupta, M. Hebert</sub>
+
+<img src="https://i.pinimg.com/564x/c6/0d/ae/c60dae9c384ff5d1a238ad8fe6ffc3b6.jpg" width="350">
+
 [2017 - An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098)
 
 <sub>Multi-task learning (MTL) has led to successes in many applications of machine learning, from natural language processing and speech recognition to computer vision and drug discovery. This article aims to give a general overview of MTL, particularly in deep neural networks. It introduces the two most common methods for MTL in Deep Learning, gives an overview of the literature, and discusses recent advances. In particular, it seeks to help ML practitioners apply MTL by shedding light on how MTL works and providing guidelines for choosing appropriate auxiliary tasks.</sub>
