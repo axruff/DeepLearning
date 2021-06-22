@@ -1168,7 +1168,8 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 ---
 [2016 - Cross-Stitch Networks for Multi-task Learning](https://www.semanticscholar.org/paper/Cross-Stitch-Networks-for-Multi-task-Learning-Misra-Shrivastava/f14325ec3041a73118bc4d819204cbbca07d5a71)
-<sub>Ishan Misra, Abhinav Shrivastava, A. Gupta, M. Hebert</sub>
+
+<sub><i>Ishan Misra, Abhinav Shrivastava, A. Gupta, M. Hebert</i></sub>
 
 <img src="https://i.pinimg.com/564x/c6/0d/ae/c60dae9c384ff5d1a238ad8fe6ffc3b6.jpg" width="350">
 
