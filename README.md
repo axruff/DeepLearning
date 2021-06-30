@@ -464,7 +464,19 @@ The depth of representations is of central importance for many visual recognitio
 
 <img src="https://paschalidoud.github.io/projects/neural_parts/architecture.png" width="450">
 
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
 ### Logic and Semantics
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------- -->
 
 [2019 - Neural Logic Machines](https://arxiv.org/abs/1904.11694)
 
@@ -1550,6 +1562,13 @@ https://arxiv.org/abs/1611.07715
 [2018 - Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758)
 
 <img src="https://miro.medium.com/max/1200/1*pOUFUNgBQwSh3EUbJI2m3Q.png" width="350">
+
+---
+[2019 - Noise2Self: Blind Denoising by Self-Supervision](https://www.semanticscholar.org/paper/Noise2Self%3A-Blind-Denoising-by-Self-Supervision-Batson-Royer/ea9cf47573638745c9992cf9c5ebdabadd3c6849)
+
+<sub>We propose a general framework for denoising high-dimensional measurements which requires no prior on the signal, no estimate of the noise, and no clean training data. The only assumption is that the noise exhibits statistical independence across different dimensions of the measurement, while the true signal exhibits some correlation. For a broad class of functions ("$\mathcal{J}$-invariant"), it is then possible to estimate the performance of a denoiser from noisy data alone. This allows us to calibrate $\mathcal{J}$-invariant versions of any parameterised denoising algorithm, from the single hyperparameter of a median filter to the millions of weights of a deep neural network. We demonstrate this on natural image and microscopy data, where we exploit noise independence between pixels, and on single-cell gene expression data, where we exploit independence between detections of individual molecules. This framework generalizes recent work on training neural nets from noisy images and on cross-validation for matrix factorization.</sub>
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7ba0c0ef-3437-42f6-90c7-34cebfeb0a2d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210630%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210630T132043Z&X-Amz-Expires=86400&X-Amz-Signature=b255c276f37f209fceb4473846dee5691c1c1e5a7ee938793bb10245f9fb95a0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 [2020 - Improving Blind Spot Denoising for Microscopy](https://arxiv.org/abs/2008.08414)
 
