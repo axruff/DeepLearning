@@ -949,6 +949,10 @@ of SGD using a fixed learning rate of 1e-2 and batch size of 8.
 
 <sub><b>Synthetic datasets</b> play a critical role in pre-training CNN models for optical flow, but they are painstaking to generate and hard to adapt to new applications. To automate the process, we present AutoFlow, a simple and effective method to render training data for optical flow that <b>optimizes the performance of a model on a target dataset</b>. AutoFlow takes a layered approach to render synthetic data, where the motion, shape, and appearance of each layer are controlled by <b>learnable hyperparameters</b>. Experimental results show that AutoFlow achieves state-of-the-art accuracy in pre-training both PWC-Net and RAFT.</sub>
 
+[2021 - SMURF: Self-Teaching Multi-Frame Unsupervised RAFT with Full-Image Warping](https://arxiv.org/abs/2105.07014)
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/62334cbd-9fd4-45c4-abba-f2e20ac2fb6c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210713%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210713T162556Z&X-Amz-Expires=86400&X-Amz-Signature=4af32ddf83a24615ed0af6315aebfaa02afbb69da3aa0cdccaed6532810e69ec&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
