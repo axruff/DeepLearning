@@ -1179,9 +1179,15 @@ To achieve this result, we first train an EfficientNet model on labeled ImageNet
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/879f4ca1-8f25-4f32-8701-bacb1bd972c5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210621%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210621T094750Z&X-Amz-Expires=86400&X-Amz-Signature=32d57952ec190524478619c83f4efe0552b58c8f76472ec2b02ee4580d637cae&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
+---
 [2021 - [POST] Facebook: Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 
 <img src="https://scontent-frt3-1.xx.fbcdn.net/v/t39.2365-6/148954125_461761118405979_2035914075893596810_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=2JbGsWyJU1oAX_vAgrY&_nc_ht=scontent-frt3-1.xx&oh=597a5e237ec97fab320a43dea5e885e5&oe=60F49199" width="300">
+
+---
+[2021 - Task Fingerprinting for Meta Learning in Biomedical Image Analysis](https://www.semanticscholar.org/paper/Task-Fingerprinting-for-Meta-Learning-in-Biomedical-Godau-Maier-Hein/b3b7433817380b98951d4a6502a889b8ce8c7422)
+
+<img src="https://i.pinimg.com/564x/bf/38/d3/bf38d37c5ed5414973e7612b36d13b8a.jpg" width="350">
 
 
 <!--- ------------------------------------------------------------------------------- -->
