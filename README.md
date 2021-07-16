@@ -1746,6 +1746,14 @@ PPML: privacy preserving big data analysis and machine learning (experimental)</
 [**[OpenMMLab]** - Open source projects for academic research and industrial applications](https://openmmlab.com/home)
 
 <img src="" width="350">
+
+---
+[2021 - BTrack: Bayesian Tracker](https://github.com/quantumjot/BayesianTracker)
+
+<sub>>BayesianTracker (btrack) is a Python library for multi object tracking, used to reconstruct trajectories in crowded fields. Here, we use a probabilistic network of information to perform the trajectory linking. This method uses spatial information as well as appearance information for track linking.</sub>
+
+<img src="https://raw.githubusercontent.com/quantumjot/arboretum/master/examples/napari.png" width="350">
+
 <!--- ------------------------------------------------------------------------------- -->
 <!--- =============================================================================== -->
 <!--- ------------------------------------------------------------------------------- -->
