@@ -1595,6 +1595,10 @@ https://arxiv.org/abs/1611.07715
 
 <img src="https://i.pinimg.com/564x/4d/89/e1/4d89e10932718666a878e01a34f5086c.jpg" width="350">
 
+---
+[2021 - Task-Assisted GAN for Resolution Enhancement and Modality Translation in Fluorescence Microscopy]()
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5c786a49-0b1a-4a94-87aa-3326f48455d1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210721%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210721T120358Z&X-Amz-Expires=86400&X-Amz-Signature=d1dcd5f27729ec1e1083c5f92c9eee37b6ddeeb442ee6357ef8b34fa920746a6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 <!--- ------------------------------------------------------------------------------- -->
 # Applications: Inpainting
