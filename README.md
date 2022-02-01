@@ -1490,6 +1490,13 @@ https://www.nature.com/articles/s41598-018-19426-7
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf8ed1ac-b040-4a10-90c4-cbf8f8476349/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210615%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210615T121411Z&X-Amz-Expires=86400&X-Amz-Signature=7c512d52341e6e3d25e52bf6c5a1e360eedc08f8f54a0e5f64878eebbcecfeff&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="350">
 
 
+
+[2022 - Machine learning denoising of high-resolution X-ray nano­tomography data](https://journals.iucr.org/s/issues/2022/01/00/tv5025/index.html#BB12)
+
+<img src="https://journals.iucr.org/s/issues/2022/01/00/tv5025/tv5025fig7mag.jpg" width="350">
+
+<sub>High-resolution X-ray nano­tomography is a quantitative tool for investigating specimens from a wide range of research areas. However, the quality of the reconstructed tomogram is often obscured by noise and therefore not suitable for automatic segmentation. Filtering methods are often required for a detailed quantitative analysis. However, most filters induce blurring in the reconstructed tomograms. Here, machine learning (ML) techniques offer a powerful alternative to conventional filtering methods. In this article, we verify that a self-supervised denoising ML technique can be used in a very efficient way for eliminating noise from nano­tomography data. The technique presented is applied to high-resolution nano­tomography data and compared to conventional filters, such as a median filter and a nonlocal means filter, optimized for tomographic data sets. The ML approach proves to be a very powerful tool that outperforms conventional filters by eliminating noise without blurring relevant structural features, thus enabling efficient quantitative analysis in different scientific fields.</sub>
+
 # Applications: Image Registration
 
 [2014 - Do Convnets Learn Correspondence?](https://arxiv.org/abs/1411.1091)
