@@ -413,6 +413,8 @@ The depth of representations is of central importance for many visual recognitio
 
 [2021 - **SURVEY**: Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169) 📜
 
+[2023 - **SURVEY**: A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks](https://paperswithcode.com/paper/a-comprehensive-survey-on-applications-of) 📜
+
 
 <!--- ------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------- -->
